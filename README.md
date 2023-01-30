@@ -2,8 +2,6 @@
 
 This is an extended list including a huge amount of products and services that we find for free!
 
-<br>
-
 **Adding a service**
 
 1. Check if the service is already on the list
@@ -21,6 +19,8 @@ This is an extended list including a huge amount of products and services that w
 - Illegal services
 - Self hosted services
 - Unfinished services
+
+---
 
 # Table of Contents
 
