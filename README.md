@@ -25,6 +25,7 @@ This is an extended list including a huge amount of products and services that w
 # Table of Contents
 
   - [Domains](#domains)
+  - [DNS](#dns)
 
 ---
 
@@ -44,3 +45,9 @@ This is an extended list including a huge amount of products and services that w
   - [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
   - [pp.ua](https://nic.ua) — Free pp.ua subdomains.
   - [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
+
+## DNS
+
+  - [1.1.1.1](https://1.1.1.1) - Free public DNS Resolver which is fast and secure, provided by Cloudflare.
+      - Please note, this service is a DNS resolver, not a host.
+  - [Cloudflare](https://www.cloudflare.com/dns) - Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC.
