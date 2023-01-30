@@ -38,6 +38,7 @@ This is an extended list including a huge amount of products and services that w
   - [is-a-good.dev](https://is-a-good.dev) — A free is-a-good-dev subdomain for developers.
   - [is-a.dev](https://www.is-a.dev) — Free is-a.dev subdomain for developers.
   - [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) - Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
+  - [is-really.cool](https://github.com/is-really-cool/register) - A place for software devs to host their really cool projects and personal websites for free.
   - [js.cool](https://github.com/willin/js.cool) - Free js.cool subdomains for GitHub Pages and Vercel.
   - [js.org](https://js.org) — Free js.org subdomains for GitHub Pages for the JavaScript community.
   - [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
