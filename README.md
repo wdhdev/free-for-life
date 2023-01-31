@@ -39,6 +39,8 @@ This is an extended list including a huge amount of products and services that w
 
   - [Codeium](https://www.codeium.com/) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
 
+**[⬆ back to top](#table-of-contents)**
+
 ## DNS
 
   - [1.1.1.1](https://1.1.1.1) - Free public DNS Resolver which is fast and secure, provided by Cloudflare.
@@ -49,6 +51,8 @@ This is an extended list including a huge amount of products and services that w
   - [Duckdns](https://www.duckdns.org/) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
 
   - [Glauca](https://docs.glauca.digital/hexdns/) – Free DNS hosting for up to 3 domains and DNSSEC support
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Domains
 
@@ -67,11 +71,15 @@ This is an extended list including a huge amount of products and services that w
   - [pp.ua](https://nic.ua) — Free pp.ua subdomains.
   - [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 
+**[⬆ back to top](#table-of-contents)**
+
 ## For Students
 
   - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
 
   - [Figma](https://www.figma.com/education/students/) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Design and UI
   
@@ -88,6 +96,8 @@ This is an extended list including a huge amount of products and services that w
   - [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
 
   - [Canva](https://canva.com) - Free online design tool to create visual content.
+
+**[⬆ back to top](#table-of-contents)**
 
 ## APIs, Data and ML
 
@@ -169,6 +179,4 @@ This is an extended list including a huge amount of products and services that w
 
   - [Similar Words API](https://word-simi.herokuapp.com/) — An API to find similar words, has vocabulary of about 4Million words.
 
-  - [Sofodata](https://www.sofodata.com/) - Create secure RESTful APIs from CSV files. Upload a CSV file and instantly access the data via its API allowing faster application development. Free plan includes 2 APIs and 2,500 API calls per month. No credit card required.
-
-  - [Stoplight](https://stoplight.io/) - Saas for collaborativly designing and documenting for APIs. The free plan offers free design, mocking and documentation tools to get started.
+**[⬆ back to top](#table-of-contents)**
