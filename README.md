@@ -27,6 +27,7 @@ This is an extended list including a huge amount of products and services that w
   - [Code Generation](#code-generation)
   - [DNS](#dns)
   - [Domains](#domains)
+  - [For Students](#for-students)
 
 ---
 
@@ -57,3 +58,7 @@ This is an extended list including a huge amount of products and services that w
   - [Open Domains](https://open-domains.net) - Free subdomains for personal sites, open-source projects, and more.
   - [pp.ua](https://nic.ua) — Free pp.ua subdomains.
   - [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
+
+## For Students
+
+  - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
