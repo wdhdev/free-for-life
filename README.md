@@ -31,7 +31,7 @@ This is an extended list including a huge amount of products and services that w
   - [Design & UI](#Design-and-UI)
   - [API, Data & ML](#APIs-Data-and-ML)
   - [Messaging and Streaming](#messaging-and-streaming)
-
+  - [Email](#email)
 ---
 
 ## Code Generation
@@ -211,5 +211,11 @@ This is an extended list including a huge amount of products and services that w
   - [webpushr](https://www.webpushr.com/) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
 
   - [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
+
+**[⬆ back to top](#table-of-contents)**
+
+## Email
+
+
 
 **[⬆ back to top](#table-of-contents)**
