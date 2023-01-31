@@ -29,6 +29,7 @@ This is an extended list including a huge amount of products and services that w
   - [Domains](#domains)
   - [For Students](#for-students)
   - [Design & UI](#Design-and-UI)
+  - [API, Data & ML](#APIs-Data-and-ML)
 
 ---
 
@@ -88,3 +89,4 @@ This is an extended list including a huge amount of products and services that w
 
   - [Canva](https://canva.com) - Free online design tool to create visual content.
 
+## APIs, Data and ML
