@@ -216,6 +216,98 @@ This is an extended list including a huge amount of products and services that w
 
 ## Email
 
+  - [10minutemail](https://10minutemail.com) - Free, temporary 
+  email for testing.
 
+  - [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
+
+  - [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP and phone number validation in free tier. No Credit Cards required.
+
+  - [biz.mail.ru](https://biz.mail.ru/) — 5,000 mailboxes with 25 GB each per custom domain with DNS hosting
+
+  - [Bump](https://bump.email/) - Free 10 Bump email addresses, 1 custom domain
+
+  - [fakermail](https://fakermail.com/) — Free, temporary email for testing with last 100 email accounts stored.
+
+  - [forwardemail](https://forwardemail.net) — Free email forwarding for custom domains. Create and forward an unlimited amount of email addresses with your domain name 
+  (--note--: You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam)
+
+  - [ImprovMX](https://improvmx.com) – Free email forwarding
+
+  - [inboxkitten](https://inboxkitten.com/) - Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
+
+  - [inumbo](http://inumbo.com/) — SMTP based spam filter, free for 10 users
+
+  - [mailazy](https://mailazy.com/) — Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).
+
+  - [mail-tester](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
+  - [dkimvalidator](https://dkimvalidator.com/) - Test if 
+  email's dns/spf/dkim/dmarc settings are correct, free service by roundsphere.com
+
+  - [mailchimp](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
+
+  - [MailerLite](https://www.mailerlite.com) — 1,000 subscribers/month, 12,000 emails/month free
+
+  - [MailerSend](https://www.mailersend.com) — Email API, SMTP, 12,000 emails/month free for transactional emails
+
+  - [mailinator](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
+
+  - [mailjet](https://www.mailjet.com/) — 6,000 emails/month free (200 emails daily sending limit)
+
+  - [mailkitchen](https://www.mailkitchen.com/) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
+  - [Mailnesia](https://mailnesia.com) - Free temporary/
+  disposable email, which auto visit registration link.
+
+  - [mailsac](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
+  - [Mailtie](https://mailtie.com/) - Free Email 
+  Forwarding for Your Domain. No registration required. Free Forever.
+
+  - [mailtrap](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
+
+  - [mailvalidator](https://mailvalidator.io/) - Verify 300 emails/month for free, real-time API with bulk processing available
+
+  - [mail7](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
+
+  - [moosend](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+
+  - [Mutant Mail](https://www.mutantmail.com/) – Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs.
+
+  - [Outlook](https://outlook.live.com/owa/) - Free personal email and calendar
+
+  - [Parsio](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
+
+  - [pepipost](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
+
+  - [phplist](https://phplist.com/) — Hosted version allow 300 emails/month free
+
+  - [verimail](https://verimail.io/) — Bulk and API email verification service. 100 free verifications/month
+
+  - [Zoho](https://www.zoho.com) — Started as an e-mail provider but now provides a suite of services out of which some of them have free plans. List of services having free plans :
+     - [Email](https://zoho.com/mail) Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
+     - [Sprints](https://zoho.com/sprints) Free for 5 users,5 Projects & 500MB storage.
+     - [Docs](https://zoho.com/docs) — Free for 5 users with 1 GB upload limit & 5GB storage. Zoho Office Suite (Writer,Sheets & Show) comes bundled with it.
+     - [Projects](https://zoho.com/projects) — Free for 3 users, 2 projects & 10 MB attachment limit. Same plan applies to [Bugtracker](https://zoho.com/bugtracker).
+     - [Connect](https://zoho.com/connect) — Team Collaboration free for 25 users with 3 groups, 3 custom apps, 3 Boards, 3 Manuals, 10 Integrations along with channels,events & forums.
+     - [Meeting](https://zoho.com/meeting) — Meetings with upto 3 meeting participants & 10 Webinar attendees.
+     - [Vault](https://zoho.com/vault) — Password Management free for Individuals.
+     - [Showtime](https://zoho.com/showtime) — Yet another Meeting software for training for a remote session upto 5 attendees.
+     - [Notebook](https://zoho.com/notebook) — A free alternative to Evernote.
+     - [Wiki](https://zoho.com/wiki) — Free for 3 users with 50 MB storage, unlimited pages, zip backups, RSS & Atom feed, access controls & customisable CSS.
+     - [Subscriptions](https://zoho.com/subscriptions) — Recurring Billing management free for 20 customers/subscriptions & 1 user with all the payment hosting done by Zoho themselves. Last 40 subscription metrics are stored
+     - [Checkout](https://zoho.com/checkout) — Product Billing management with 3 pages & up to 50 payments.
+     - [Desk](https://zoho.com/desk) — Customer Support management with 3 agents and private knowledge base, email tickets. Integrates with [Assist](https://zoho.com/assist) for 1 remote technician & 5 unattended computers.
+     - [Cliq](https://zoho.com/cliq) — Team chat software with 100 GB storage, unlimited users, 100 users per channel & SSO.
+     - [Campaigns](https://zoho.com/campaigns)
+     - [Forms](https://zoho.com/forms)
+     - [Sign](https://zoho.com/sign)
+     - [Surveys](https://zoho.com/surveys)
+     - [Bookings](https://zoho.com/bookings)
+     - [Analytics](https://zoho.com/analytics)
+
+  - [SimpleLogin](https://simplelogin.io/) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
+
+  - [EmailJS](https://www.emailjs.com/) – This is not a full email server, this is just email client which you can use to send emails right from client send without exposing your credentials, the free tier has: 200 monthly requests, 2 email templates, Requests up to 50Kb, Limited contacts history.
+
+  - [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
 
 **[⬆ back to top](#table-of-contents)**
