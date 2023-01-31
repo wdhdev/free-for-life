@@ -34,6 +34,7 @@ This is an extended list including a huge amount of products and services that w
   - [1.1.1.1](https://1.1.1.1) - Free public DNS Resolver which is fast and secure, provided by Cloudflare.
       - Please note, this service is a DNS resolver, not a host.
   - [Cloudflare](https://www.cloudflare.com/dns) - Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC.
+  - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
 
 ## Domains
 
