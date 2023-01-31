@@ -73,3 +73,18 @@ This is an extended list including a huge amount of products and services that w
   - [Figma](https://www.figma.com/education/students/) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
 
 ## Design and UI
+  
+  - [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
+
+  - [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
+
+  - [css-gradient](https://www.css-gradient.com/) - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
+
+  - [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects.
+
+  -  [Tailwind Elements](https://tailwind-elements.com/) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+
+  - [MDBootstrap](https://mdbootstrap.com/) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
+
+  - [Canva](https://canva.com) - Free online design tool to create visual content.
+  
