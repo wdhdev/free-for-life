@@ -28,6 +28,7 @@ This is an extended list including a huge amount of products and services that w
   - [DNS](#dns)
   - [Domains](#domains)
   - [For Students](#for-students)
+  - [Design & UI](#Design-and-UI)
 
 ---
 
@@ -70,3 +71,5 @@ This is an extended list including a huge amount of products and services that w
   - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
 
   - [Figma](https://www.figma.com/education/students/) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
+
+## Design and UI
