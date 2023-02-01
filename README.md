@@ -2,7 +2,9 @@
 
 This is an extended list including a huge amount of products and services that we find for free!
 
---Adding a service--
+---
+
+### Adding a service
 
 1. Check if the service is already on the list
 2. If not, open a pull request adding your entry
@@ -10,9 +12,7 @@ This is an extended list including a huge amount of products and services that w
     - Make sure it is in alphabetical order
 3. Wait for your service to be added!
 
-<br>
-
---Disallowed Services--
+### Disallowed Services
 
 - 18+ services
 - Generic frontends
@@ -37,6 +37,7 @@ This is an extended list including a huge amount of products and services that w
   - [PaaS](#paas)
   - [BaaS](#baas)
   - [Payment and Billing Integration](#payment-and-billing-integration)
+
 ---
 
 ## Code Generation
