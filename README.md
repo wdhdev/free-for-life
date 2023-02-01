@@ -36,6 +36,7 @@ This is an extended list including a huge amount of products and services that w
   - [Forms](#forms)
   - [PaaS](#paas)
   - [BaaS](#baas)
+  - [Payment and Billing Integration](#payment-and-billing-integration)
 ---
 
 ## Code Generation
