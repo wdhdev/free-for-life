@@ -2,11 +2,11 @@
     <img src="https://free-for.life/media/cover.png">
 </p>
 
-<h1 align="center">Free For Life</h1>
+# Free For Life
 
-<p align="center">This is an extended list including a huge amount of products and services that we find for free!</p>
+This is an extended list including a huge amount of products and services that we find for free!
 
-### Adding a service
+### Adding Services
 
 1. Check if the service is already on the list
 2. If not, open a pull request adding your entry
