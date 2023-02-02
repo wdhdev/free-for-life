@@ -1,8 +1,12 @@
-# Free For Life
+<p align="center">
+    <img src="https://free-for.life/media/cover.png">
+</p>
 
-This is an extended list including a huge amount of products and services that we find for free!
+<h1 align="center">Free For Life</h1>
 
-**Adding a service**
+<p align="center">This is an extended list including a huge amount of products and services that we find for free!</p>
+
+### Adding a service
 
 1. Check if the service is already on the list
 2. If not, open a pull request adding your entry
@@ -10,9 +14,7 @@ This is an extended list including a huge amount of products and services that w
     - Make sure it is in alphabetical order
 3. Wait for your service to be added!
 
-<br>
-
-**Disallowed Services**
+### Disallowed Services
 
 - 18+ services
 - Generic frontends
@@ -26,7 +28,7 @@ This is an extended list including a huge amount of products and services that w
 
   - [APIs and Data](#apis-and-data)
   - [Code Generation](#code-generation)
-  - [Design & UI](#Design-and-UI)
+  - [Design & UI](#design-and-ui)
   - [DNS](#dns)
   - [Domains](#domains)
   - [Email](#email)
