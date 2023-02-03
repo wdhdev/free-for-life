@@ -72,7 +72,7 @@ This is an extended list including a huge amount of products and services that w
   - [IP.City](https://ip.city) — 100 free IP geolocation requests per day
   - [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support).
   - [ScraperBox](https://scraperbox.com) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month.
-  - [ScrapingAnt](https://scrapingant.com) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
+  - [ScrapingAnt](https://scrapingant.com) — Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
   - [ScrapingDog](https://scrapingdog.com) — Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand. Free plans available.
   - [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.
   - [Select Star](https://www.selectstar.com) - Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.
@@ -91,7 +91,7 @@ This is an extended list including a huge amount of products and services that w
   - [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.
   - [convex.dev](https://convex.dev) - Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month.
   - [darklang.com](https://darklang.com) - Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta.
-  - [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database,Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.
+  - [Firebase](https://firebase.com) — Firebase helps you build and run successful apps. Free Spark Plan offers Authentication, Hosting, Firebase ML , Realtime Database, Cloud Storage,Testlab. A/B Testing, Analytics, App Distribution, App Indexing, Cloud Messaging (FCM), Crashlytics, Dynamic Links, In-App Messaging, Performance Monitoring, Predictions, and Remote Config are always-free.
   - [Flutter Flow](https://flutterflow.io) — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. Free plan includes full access to UI Builder and Free templates.
   - [getstream.io](https://getstream.io) — Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks
   - [hasura.io](https://hasura.io) — Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.
@@ -112,8 +112,8 @@ This is an extended list including a huge amount of products and services that w
   - [restspace.io](https://restspace.io) - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.
   - [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.
   - [ServiceNow Developer Program](https://developer.servicenow.com) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.
-  - [simperium.com](https://simperium.com) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
-  - [stackstorm.com](https://stackstorm.com) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
+  - [simperium.com](https://simperium.com) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2, 500 users/month
+  - [stackstorm.com](https://stackstorm.com) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP.
   - [streamdata.io](https://streamdata.io) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.
   - [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   - [tyk.io](https://tyk.io) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
@@ -239,7 +239,7 @@ This is an extended list including a huge amount of products and services that w
   
   - [Scraper's Proxy](https://scrapersproxy.com) — Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks or captchas. First 100 successfully scrape's per month free including javascript rendering (more available if you contact support).
 
-  - [ScrapingAnt](https://scrapingant.com) — Headless Chrome scraping API and free checked proxies service. Javascript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
+  - [ScrapingAnt](https://scrapingant.com) — Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
 
   - [ScraperBox](https://scraperbox.com) — Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month.
 
@@ -264,32 +264,19 @@ This is an extended list including a huge amount of products and services that w
 ## Messaging and Streaming
 
   - [Ably](https://www.ably.com) - Realtime messaging service with presence, persistence and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections and 100 peak channels.
-
   - [cloudamqp](https://www.cloudamqp.com) — RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's
-
-  - [connectycube](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
-
-  - [courier](https://www.courier.com) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
-
-  - [knock](https://knock.app) – Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. Free plan includes 10,000 messages/mo.
-
-  - [pusher](https://pusher.com) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
-
-  - [scaledrone](https://www.scaledrone.com) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
-
-  - [synadia](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
-
   - [cloudkarafka](https://www.cloudkarafka.com) - Free Shared Kafka cluster, up to 5 topics, 10MB data per topic and 28 days of data retention.
-
-  - [pubnub.com](https://www.pubnub.com) - Swift, Kotlin and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
-
+  - [connectycube](https://connectycube.com) - Unlimited chat messages, p2p voice & video calls, files attachments and push notifications. Free for apps up to 20K MAU.
+  - [courier](https://www.courier.com) — Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo.
   - [eyeson API](https://developers.eyeson.team) - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows RealTime Data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.
-
-  - [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.
-
-  - [webpushr](https://www.webpushr.com) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
-
+  - [knock](https://knock.app) – Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. Free plan includes 10,000 messages/mo.
+  - [pubnub.com](https://www.pubnub.com) - Swift, Kotlin and React messaging at 1 million transactions each month. Transactions may contain multiple messages.
+  - [pusher](https://pusher.com) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day.
+  - [scaledrone](https://www.scaledrone.com) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
   - [Scramjet Cloud Platform Beta](https://www.scramjet.org/#join-beta) - An end-to-end stream processing platform in free beta and offering 15 petabyte-seconds of free compute after the beta ends.
+  - [synadia](https://synadia.com/ngs) — [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k msg size, 50 active connections and 5GB of data per month.
+  - [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.
+  - [webpushr](https://www.webpushr.com) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -316,7 +303,7 @@ This is an extended list including a huge amount of products and services that w
   - [mailjet](https://www.mailjet.com) — 6,000 emails/month free (200 emails daily sending limit)
   - [mailkitchen](https://www.mailkitchen.com) — Free for life without commitment, 10,000 emails/month, 1,000 emails/day
   - [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
-  - [mailsac](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
+  - [mailsac](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1, 500 monthly API limit)
   - [Mail Tester](https://www.mail-tester.com) — Test if a domains dns/spf/dkim/dmarc settings are correct, 20 free/month
   - [Mailtie](https://mailtie.com) - Free Email Forwarding for Your Domain. No registration required. Free Forever.
   - [mailtrap](https://mailtrap.io) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
@@ -336,85 +323,85 @@ This is an extended list including a huge amount of products and services that w
 
 ## Font
 
+  - [Befonts](https://befonts.com) - Provides several unqiue fonts for personal or commercial use.
+  - [Bunny](https://fonts.bunny.net) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
   - [dafont](https://www.dafont.com) - The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain.
   - [Everything Fonts](https://everythingfonts.com) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
+  - [Font of Web](https://fontofweb.com) - Identify all the fonts used on a website and how they are used.
   - [Font Squirrel](https://www.fontsquirrel.com) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
-  - [Google Fonts](https://fonts.google.com) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
   - [FontGet](https://www.fontget.com) - Has a variety of fonts available to download and sorted neatly with tags.
   - [Fontshare](https://www.fontshare.com) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
-  - [Befonts](https://befonts.com) - Provides several unqiue fonts for personal or commercial use.
-  - [Font of web](https://fontofweb.com) - Identify all the fonts used on a website and how they are used.
-  - [Bunny](https://fonts.bunny.net) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
+  - [Google Fonts](https://fonts.google.com) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
 
 [⬆ Back to Top](#table-of-contents)
 
 ## Forms
 
+  - [FabForm](https://fabform.io) - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month.
   - [Form-Data](https://form-data.com) - No-code forms backend. Spam filter,000 submissions per month.
-  - [Qualtrics Survey](https://qualtrics.com/free-account) — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey,1,1 form,10 elements per survey.
-  - [Wufoo](https://www.wufoo.com) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
+  - [Form.taxi](https://form.taxi) — Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications.
+  - [Formcake.com](https://formcake.com) - Form backend for devs, spam protection, support by Customer assistance team.
+  - [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint
+  - [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
+  - [formingo.co](https://www.formingo.co)- Easy HTML forms for static websites, free plan allows unlimited forms, free plan allows unlimited forms, get started for free without registering an account. Free plan allows 500 submissions per month, no server code required. Free plan gives unlimited forms and 100 submissions per month.
+  - [FormKeep.com](https://www.formkeep.com) - Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email and others.
+  - [formlets.com](https://formlets.com) — Online forms, Airtable, AJAX or POST and more. Free plan offers unlimited forms, and 100MB file storage.
   - [formpost.app](https://formpost.app) - Free,20 submissions/month and additional 2000 submissions with Form-Data badge.
-  - [FabForm](https://fabform.io) - Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets,50 responses per month.
-  - [Typeform.com](https://www.typeform.com) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
-  - [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents,50 submissions,100 responses/survey & 8 response types.
-  - [smartforms.dev](https://smartforms.dev) - Powerful and easy form backend for your website,100 responses per month,100 submissions,100 submissions/month,100MB file storage.
-  - [HeroTofu.com](https://herotofu.com) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email,250 submissions per month,250MB file storage,ActiveCampaign and Zapier.
-  - [formlets.com](https://formlets.com) — Online forms,Airtable,AJAX or POST and more. Free plan offers unlimited forms,and 100MB file storage.
-  - [Tally.so](https://tally.so) - 99% of all the features are totally free. Free tier lets you have these: unlimited forms,and many more.
-  - [Hyperforms.app](https://hyperforms.app) — Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.
-  - [Kwes.io](https://kwes.io) - Feature rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month.
-  - [Pageclip](https://pageclip.co) - Free plan allows one site,anti-spam,auto response,but allows unlimited envelopes + signatures.
-  - [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms,collect payments,CSV/JSON export,customizable reply-to email address.
-  - [FormKeep.com](https://www.formkeep.com) - Unlimited forms with 50 submissions per month,custom redirect,custom response page,custom thank you page,Email and others.
-  - [Form.taxi](https://form.taxi) — Endpoint for HTML forms submissions. With notifications,email notification and a drag and drop designer that can export HTML. Additional features include custom field rules,email notification and auto-respond,email notifications,email notifications.
-  - [formspark.io](https://formspark.io) -  Form to Email service,file upload,forever free plan allows 50 submissions per month,form logic,Free plan allows 100 submissions per month.
-  - [formingo.co](https://www.formingo.co)- Easy HTML forms for static websites,free plan allows unlimited forms,free plan allows unlimited forms,get started for free without registering an account. Free plan allows 500 submissions per month,no server code required. Free plan gives unlimited forms and 100 submissions per month.
-  - [HeyForm.net](https://heyform.net) - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates,one form,or Zapier. Use your own frontend,redirects,single email notifications.
-  - [staticforms.xyz](https://www.staticforms.xyz) - Integrate HTML forms easily without any server side code for free. After user submits the form an email will be sent to your registered address with form content.
-  - [stepFORM.io](https://stepform.io) - Quiz and Form Builder. Free plan has 5 forms,Single file upload,Slack,Slack,Slack,spam blocker and GDPR-compliant data processing. Free plan for basic usage.
-  - [Formcake.com](https://formcake.com) - Form backend for devs,spam protection,support by Customer assistance team.
+  - [formspark.io](https://formspark.io) -  Form to Email service, file upload, forever free plan allows 50 submissions per month, form logic, Free plan allows 100 submissions per month.
   - [Formspree.io](https://formspree.io) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
   - [Formsubmit.co](https://formsubmit.co) — Easy form endpoints for your HTML forms. Free Forever. No registration required.
-  - [getform.io](https://getform.io) - Form backend platform for designers and developers,teams and integrations to Google Sheets,Telegram & Slack bot,Unlimited Domains & 250 Submissions per month.
-  - [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account,unlimited Form to Email service. Setup custom redirect,unlimited single page forms/month,unlimited submissions,up to 3 steps per form,webhooks,webhooks etc for free.
-  - [Formester.com](https://formester.com) - Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free.
-  - [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF.,zapier,Zapier integration,Zapier integration. No libraries or dependencies required.
-  - [Formcarry.com](https://formcarry.com) - HTTP POST Form endpoint
+  - [getform.io](https://getform.io) - Form backend platform for designers and developers, teams and integrations to Google Sheets,Telegram & Slack bot, Unlimited Domains & 250 Submissions per month.
+  - [HeroTofu.com](https://herotofu.com) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email,250 submissions per month,250MB file storage, ActiveCampaign and Zapier.
+  - [HeyForm.net](https://heyform.net) - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, one form, or Zapier. Use your own frontend, redirects, single email notifications.
+  - [Hyperforms.app](https://hyperforms.app) — Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.
+  - [Kwes.io](https://kwes.io) - Feature rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month.
+  - [Pageclip](https://pageclip.co) - Free plan allows one site, anti-spam, auto response, but allows unlimited envelopes + signatures.
+  - [Qualtrics Survey](https://qualtrics.com/free-account) — Create professional forms & survey using this first class tool. 50+ expert-designed survey templates. Free Account has limit of 1 active survey,1,1 form,10 elements per survey.
+  - [SimplePDF.eu](https://simplepdf.eu/embed) - Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF., Zapier, Zapier integration, Zapier integration. No libraries or dependencies required.
+  - [smartforms.dev](https://smartforms.dev) - Powerful and easy form backend for your website,100 responses per month,100 submissions,100 submissions/month,100MB file storage.
+  - [staticforms.xyz](https://www.staticforms.xyz) - Integrate HTML forms easily without any server side code for free. After user submits the form an email will be sent to your registered address with form content.
+  - [stepFORM.io](https://stepform.io) - Quiz and Form Builder. Free plan has 5 forms, Single file upload, Slack, Slack, spam blocker and GDPR-compliant data processing. Free plan for basic usage.
+  - [Tally.so](https://tally.so) - 99% of all the features are totally free. Free tier lets you have these: unlimited forms, and many more.
+  - [Typeform.com](https://www.typeform.com) — Include beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
+  - [WaiverStevie.com](https://waiverstevie.com) - Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents,50 submissions,100 responses/survey & 8 response types.
+  - [Web3Forms](https://web3forms.com) - Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows Unlimited Forms, collect payments, CSV/JSON export, customizable reply-to email address.
+  - [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks etc for free.
+  - [Wufoo](https://www.wufoo.com) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
 
 [⬆ Back to Top](#table-of-contents)
 
 ## PaaS
 
   - [anvil.works](https://anvil.works) - Web app development with nothing but Python. Free tier with unlimited apps.
-  - [configure.it](https://www.configure.it) — Mobile app development platform, free for 2 projects, limited features but no resource limits
-  - [codenameone.com](https://www.codenameone.com) — Open source, cross platform, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
-  - [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of Javascript/Node.js apps. Includes: Authentication, Cron jobs, Custom Domains, Database, Storage and Streaming logs. Paid plans include: branch based environments, multi-regional deployments and increased limits.
-  - [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, TypeScript, and WebAssembly at the edge, worldwide. Free tier includes 100,000 requests per day and 100 GiB data transfer per month.
-  - [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, Auth and email.
-  - [domcloud.co](https://domcloud.co) – Linux hosting service that also provides CI/CD with GitHub, SSH and MariaDB/Postgres database. Free version has 1 GB storage and 1 GB network/month limit and limited to a free domain.
-  - [encore.dev](https://encore.dev) — Backend framework using static analysis to provide automatic infrastructure, boilerplate free code, and more. Includes free cloud hosting for hobby projects.
-  - [gigalixir.com](https://gigalixir.com) - Gigalixir provide 1 free instance that never sleeps, and free-tier PostgreSQL database limited to 2 connections, 10, 000 rows and no backups, for Elixir/Phoenix apps.
+  - [codenameone.com](https://www.codenameone.com) — Open source, limited to $5 or 500 hours of usage monthly available for free.
+  - [configure.it](https://www.configure.it) — Mobile app development platform,000 free API calls/month,000 requests per day and 100 GiB data transfer per month.
+  - [Cyclic](https://www.cyclic.sh) - Fullstack app hosting - Push to Github for build and deploy of JavaScript/Node.js apps. Includes: Authentication, multi-regional deployments and increased limits.
+  - [Deno Deploy](https://deno.com/deploy) - Distributed system that runs JavaScript, native autoscaling, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.
+  - [Deta](https://www.deta.sh) – Deploy unlimited number of Node.js and Python apps for free. Includes free DBs, 000 rows and no backups, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.
+  - [Divio](https://www.divio.com) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, 3Gi/pod with a maximum of 8Gi/namespace, 5 GB traffic, 10, 512 MB private file storage, 512 MB RAM, a default timeout of 15 seconds and 25, a global edge network, and APIs with git-based deployment, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources.
+  - [domcloud.co](https://domcloud.co) – Linux hosting service that also provides CI/CD with GitHub, based on any trigger. Workflows are code, boilerplate free code, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing).
+  - [encore.dev](https://encore.dev) — Backend framework using static analysis to provide automatic infrastructure, Storage and Streaming logs. Paid plans include: branch based environments, TypeScript, unlimited number of free sandbox environments supporting unlimited users, web apps, which you can run [for free](https://docs.pipedream.com/pricing). No server or cloud resources to manage.
+  - [fly.io](https://fly.io) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, one MySQL database
+  - [gigalixir.com](https://gigalixir.com) - Gigalixir provide 1 free instance that never sleeps, and then deploy to the cloud. 1GB Disk, and WebAssembly at the edge, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, APIs, apps, Auth and email.
   - [Glitch](https://glitch.com) — Free public hosting with features such as code sharing and real-time collaboration. Free plan has 1000 hours/month limit.
+  - [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing)., SSH and MariaDB/Postgres database. Free version has 1 GB storage and 1 GB network/month limit and limited to a free domain.
   - [Krucible](https://usekrucible.com) — Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month.
-  - [Mendix](https://www.mendix.com) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting unlimited users, 0.5 GB storage and 1 GB RAM per app. Also Studio and Studio Pro IDEs are allowed in free tier.
   - [m3o.com](https://m3o.com) - A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. Free tier provides enough to run 5 services and collaborate with others.
-  - [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 3Gi/pod with a maximum of 8Gi/namespace, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.
-  - [opeNode](https://openode.io) — Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.
-  - [outsystems.com](https://www.outsystems.com) — Enterprise web development PaaS for on-premise or cloud, free "personal environment" offering allows for unlimited code and up to 1 GB database
-  - [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, based on any trigger. Workflows are code, which you can run [for free](https://docs.pipedream.com/pricing). No server or cloud resources to manage.
-  - [pythonanywhere.com](https://www.pythonanywhere.com) — Cloud Python app hosting. Beginner account is free, 1 Python web application at your-username.pythonanywhere.com domain, 512 MB private file storage, one MySQL database
-  - [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, DBs and Storage by using infrastrucure _from_ code approach(no yaml, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview.
-  - [fly.io](https://fly.io) - Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, package it into a Docker image, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, 3GB persistent volume storage (total) and 160GB outbound data transfer.
-  - [Divio](https://www.divio.com) - A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, Requires card and no custom domain support.
-  - [Koyeb](https://www.koyeb.com) - Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, web apps, and APIs with git-based deployment, native autoscaling, a global edge network, and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources.
-  - [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud. 1GB Disk, 512 MB RAM, limited to $5 or 500 hours of usage monthly available for free.
-  - [Napkin](https://www.napkin.io) - FaaS with 500Mb of memory, a default timeout of 15 seconds and 25,000 free API calls/month, rate-limited to 5 calls/second.
+  - [Mendix](https://www.mendix.com) — Rapid Application Development for Enterprises, free "personal environment" offering allows for unlimited code and up to 1 GB database
   - [Meteor Cloud](https://www.meteor.com/cloud) — Galaxy hosting. Meteor's own platform-as-a-service for Meteor apps which includes a free MongoDB Shared Hosting and automatic SSL.
-  - [Northflank](https://northflank.com) — Build and deploy microservices, jobs and managed databases with a powerful UI, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, 2 cron jobs and 1 database.
+  - [mogenius](https://mogenius.com) - A code-to-cloud platform to easily deploy any service, CI/CD and security from Cloudflare. Free tier includes 0.5 CPU core, cloud based (Docker + k8s) developer environments at any time.  Remove the need to get resources provisioned on a one off basis. Quickly build tools, Cron jobs, cross platform, Custom Domains, dashboards, Database, DBs and Storage by using infrastrucure _from_ code approach(no yaml, deploy it to Fly's platform and let that do all the work to keep your app snappy. Free allowances include up to 3 shared-cpu-1x 256mb VMs, develop with that infrastructure locally, for Elixir/Phoenix apps.
+  - [Napkin](https://www.napkin.io) - FaaS with 500Mb of memory, mobile app development toolchain for Java/Kotlin developers. Free for commercial use with unlimited number of projects
+  - [Northflank](https://northflank.com) — Build and deploy microservices, requires card and no custom domain support.
+  - [Okteto Cloud](https://okteto.com) - Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 1 GB RAM, 1 Python web application at your-username.pythonanywhere.com domain, 1CPU/pod with a maximum of 4CPUs/namespace and 5GB Disk space. The apps sleep after 24 hours of inactivity.
+  - [opeNode](https://openode.io) — Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository.
+  - [outsystems.com](https://www.outsystems.com) — Enterprise web development PaaS for on-premise or cloud, 2 cron jobs and 1 database.
+  - [pipedream.com](https://pipedream.com) - An integration platform built for developers. Develop any workflow, free for 2 projects, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, jobs and managed databases with a powerful UI, Kubernetes, limited features but no resource limits
   - [Porter](https://getporter.dev) - a fully-managed PaaS that lets teams automate DevOps. The free basic tier for porter cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory.
-  - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing).
-  - [mogenius](https://mogenius.com) - A code-to-cloud platform to easily deploy any service, from static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, Kubernetes, CI/CD and security from Cloudflare. Free tier includes 0.5 CPU core, 1 GB RAM, 5 GB traffic, 2 GB SSD persistent storage.
-  - [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp) that allows software engineers to self-serve secure, cloud based (Docker + k8s) developer environments at any time.  Remove the need to get resources provisioned on a one off basis. Quickly build tools, apps, APIs, dashboards, schedule cron tasks and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing).
+  - [pythonanywhere.com](https://www.pythonanywhere.com) — Cloud Python app hosting. Beginner account is free, worldwide. Free tier includes 100
+  - [Railway](https://railway.app) - Railway is an infrastructure platform where you can provision infrastructure, and free-tier PostgreSQL database limited to 2 connections, and more. Includes free cloud hosting for hobby projects.
+  - [Serverless Cloud](https://www.serverless.com/cloud) - Serverless Cloud lets you build Serverless APIs, package it into a Docker image, rate-limited to 5 calls/second.
+  - [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp) that allows software engineers to self-serve secure, 3GB persistent volume storage (total) and 160GB outbound data transfer.
+  - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, 2 GB SSD persistent storage.
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -424,7 +411,7 @@ This is an extended list including a huge amount of products and services that w
   - [CoinMarketCap](https://coinmarketcap.com/api) — Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month.
   - [CurrencyFreaks](https://currencyfreaks.com) — Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month.
   - [CoinGecko](https://www.coingecko.com/en/api) — Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution.
-  - [CurrencyApi](https://currencyapi.net) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month.
+  - [CurrencyApi](https://currencyapi.net) — Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1, 250 API requests/month.
   - [currencylayer](https://currencylayer.com) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   - [Coin360](https://api.coin360.com) — Provides cryptocurrency market data including latest crypto exchange rates and historical data
   - [currencystack.io](https://currencystack.io) — Production-ready real-time exchange rates for 154 currencies.
@@ -433,7 +420,7 @@ This is an extended list including a huge amount of products and services that w
   - [MailPopin](https://mailpop.in) - Get the most of your Stripe notifications with contextualized information.
   - [Nami ML](https://www.namiml.com) - Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics.  Free for all base features to run an IAP business.
   - [RevenueCat](https://www.revenuecat.com) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
-  - [vatlayer](https://vatlayer.com) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
-  - [Freecurrencyapi.net](https://freecurrencyapi.net) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
+  - [VAT Layer](https://vatlayer.com) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  - [freecurrencyapi.net](https://freecurrencyapi.net) — Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50 000 requests per month when you register for free.
 
 [⬆ Back to Top](#table-of-contents)
