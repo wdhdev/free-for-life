@@ -1,8 +1,12 @@
+<p align="center">
+    <img src="https://free-for.life/media/cover.png">
+</p>
+
 # Free For Life
 
 This is an extended list including a huge amount of products and services that we find for free!
 
-### Adding a service
+### Adding Services
 
 1. Check if the service is already on the list
 2. If not, open a pull request adding your entry
@@ -25,7 +29,7 @@ This is an extended list including a huge amount of products and services that w
   - [APIs, Data & ML](#apis-data-and-ml)
   - [BaaS](#baas)
   - [Code Generation](#code-generation)
-  - [Design & UI](#Design-and-UI)
+  - [Design & UI](#design-and-ui)
   - [DNS](#dns)
   - [Domains](#domains)
   - [Email](#email)
