@@ -4,7 +4,7 @@
 
 # Free For Life
 
-This is an extended list including a huge amount of products and services that we find for free!
+An extended list including a huge amount of products and services that are completely free!
 
 ### Adding Services
 
