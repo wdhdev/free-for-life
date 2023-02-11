@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://free-for.life/media/cover.png">
-</p>
-
 # Free For Life
 
 An extended list including a huge amount of products and services that are completely free!
