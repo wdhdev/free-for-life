@@ -23,6 +23,7 @@ An extended list including a huge amount of products and services that are compl
 # Table of Contents
 
   - [APIs, Data & ML](#apis-data-and-ml)
+  - [Artificial Intelligence](#artificial-intelligence)
   - [BaaS](#baas)
   - [Code Generation](#code-generation)
   - [Design & UI](#design-and-ui)
@@ -79,6 +80,12 @@ An extended list including a huge amount of products and services that are compl
   - [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
   - [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
   - [Similar Words API](https://word-simi.herokuapp.com) — An API to find similar words, has vocabulary of about 4 million words.
+
+[⬆ Back to Top](#table-of-contents)
+
+## Artificial Intelligence
+
+  - [ChatGPT](https://chat.openai.com) - ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
 
 [⬆ Back to Top](#table-of-contents)
 
