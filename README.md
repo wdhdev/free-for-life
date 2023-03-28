@@ -137,7 +137,7 @@ An extended list including a huge amount of products and services that are compl
 
 ## Code Editors
 
-  - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJs In The Browser.
+  - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
   - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
 [⬆ Back to Top](#table-of-contents)
