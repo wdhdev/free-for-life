@@ -25,6 +25,7 @@ An extended list including a huge amount of products and services that are compl
   - [APIs, Data & ML](#apis-data-and-ml)
   - [Artificial Intelligence](#artificial-intelligence)
   - [BaaS](#baas)
+  - [Code Editors](#code-editors)
   - [Code Generation](#code-generation)
   - [Design & UI](#design-and-ui)
   - [DNS](#dns)
@@ -131,6 +132,13 @@ An extended list including a huge amount of products and services that are compl
 
   - [Codeium](https://www.codeium.com) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
   - [Tabnine](https://www.tabnine.com) - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.
+
+[⬆ Back to Top](#table-of-contents)
+
+## Code Editors
+
+  - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
+  - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
 [⬆ Back to Top](#table-of-contents)
 
