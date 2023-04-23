@@ -1,8 +1,9 @@
-# Free For Life
+# 💲 Free For Life
+A massive list including a huge amount of products and services that are completely free!
 
-An extended list including a huge amount of products and services that are completely free!
-
-### Adding Services
+<details>
+    <summary>➕ Adding Services</summary>
+    <br>
 
 1. Check if the service is already on the list
 2. If not, open a pull request adding your entry
@@ -10,7 +11,11 @@ An extended list including a huge amount of products and services that are compl
     - Make sure it is in alphabetical order
 3. Wait for your service to be added!
 
-### Disallowed Services
+</details>
+
+<details>
+    <summary>⛔ Disallowed Services</summary>
+    <br>
 
 - 18+ services
 - Generic frontends
@@ -18,25 +23,27 @@ An extended list including a huge amount of products and services that are compl
 - Self hosted services
 - Unfinished services
 
+</details>
+
 ---
 
-# Table of Contents
+# 📜 Table of Contents
 
-  - [APIs, Data & ML](#apis-data-and-ml)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [BaaS](#baas)
-  - [Code Editors](#code-editors)
-  - [Code Generation](#code-generation)
-  - [Design & UI](#design-and-ui)
-  - [DNS](#dns)
-  - [Domains](#domains)
-  - [Email](#email)
-  - [Font](#font)
-  - [Forms](#forms)
-  - [For Students](#for-students)
-  - [Messaging and Streaming](#messaging-and-streaming)
-  - [PaaS](#paas)
-  - [Payment and Billing Integration](#payment-and-billing-integration)
+- [APIs, Data & ML](#apis-data-and-ml)
+- [Artificial Intelligence](#artificial-intelligence)
+- [BaaS](#baas)
+- [Code Editors](#code-editors)
+- [Code Generation](#code-generation)
+- [Design & UI](#design-and-ui)
+- [DNS](#dns)
+- [Domains](#domains)
+- [Email](#email)
+- [Font](#font)
+- [Forms](#forms)
+- [For Students](#for-students)
+- [Messaging and Streaming](#messaging-and-streaming)
+- [PaaS](#paas)
+- [Payment and Billing Integration](#payment-and-billing-integration)
 
 ---
 
