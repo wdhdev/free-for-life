@@ -27,7 +27,7 @@ A massive list including a huge amount of products and services that are complet
 
 ---
 
-# 📜 Table of Contents
+# Table of Contents
 
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
@@ -82,20 +82,20 @@ A massive list including a huge amount of products and services that are complet
   - [ScrapingAnt](https://scrapingant.com) — Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available.
   - [ScrapingDog](https://scrapingdog.com) — Scrapingdog handles millions of proxies, browsers and CAPTCHAs to provide you with HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and a software for instant scraping demand. Free plans available.
   - [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server.
-  - [Select Star](https://www.selectstar.com) - Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 Tables and up to 10 Users.
+  - [Select Star](https://www.selectstar.com) - Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables and up to 10 Users.
   - [SerpApi](https://serpapi.com) - Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart and many other engines. Free plan includes 100 successful API calls per month.
   - [Sheetson](https://sheetson.com) - Instantly turn any Google Sheets into RESTful API. Free plan available.
   - [Shipyard](https://www.shipyardapp.com) — Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user - more than enough to automate multiple workflows.
   - [shrtcode API](https://shrtco.de/docs) - Free URL Shortening API without authorization and no request limits.
   - [Similar Words API](https://word-simi.herokuapp.com) — An API to find similar words, has vocabulary of about 4 million words.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Artificial Intelligence
 
   - [ChatGPT](https://chat.openai.com) - ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## BaaS
 
@@ -133,21 +133,21 @@ A massive list including a huge amount of products and services that are complet
   - [Zapier](https://zapier.com) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
   - [LeanCloud](https://leancloud.app) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Code Generation
 
   - [Codeium](https://www.codeium.com) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
   - [Tabnine](https://www.tabnine.com) - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Code Editors
 
   - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
   - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Design and UI
   
@@ -159,7 +159,7 @@ A massive list including a huge amount of products and services that are complet
   - [MDBootstrap](https://mdbootstrap.com) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   - [Tailwind Elements](https://tailwind-elements.com) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## DNS
 
@@ -171,7 +171,7 @@ A massive list including a huge amount of products and services that are complet
   - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support
   - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Domains
 
@@ -190,14 +190,14 @@ A massive list including a huge amount of products and services that are complet
   - [pp.ua](https://nic.ua) — Free pp.ua subdomains.
   - [thedev.id](https://thedev.id) — A free thedev.id subdomain for developers.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## For Students
 
   - [Figma](https://www.figma.com/education/students) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
   - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Email
 
@@ -238,7 +238,7 @@ A massive list including a huge amount of products and services that are complet
   - [verimail](https://verimail.io) — Bulk and API email verification service. 100 free verifications/month.
   - [Zoho Email](https://www.zoho.com/mail) - Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Font
 
@@ -252,7 +252,7 @@ A massive list including a huge amount of products and services that are complet
   - [Fontshare](https://www.fontshare.com) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
   - [Google Fonts](https://fonts.google.com) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Forms
 
@@ -287,7 +287,7 @@ A massive list including a huge amount of products and services that are complet
   - [WebAsk](https://webask.io) - Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks etc for free.
   - [Wufoo](https://www.wufoo.com) - Quick forms to use on websites. Free plan has a limit of 100 submissions each month.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Messaging and Streaming
 
@@ -306,7 +306,7 @@ A massive list including a huge amount of products and services that are complet
   - [Upstash Kafka](https://upstash.com/kafka) - Serverless Kafka Cloud offering with per-request-pricing. It has a free tier with max 10000 messages per day.
   - [webpushr](https://www.webpushr.com) - Web Push Notifications - Free for upto 10k subscribers, unlimited push notifications, in-browser messaging
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## PaaS
 
@@ -341,7 +341,7 @@ A massive list including a huge amount of products and services that are complet
   - [WayScript](https://www.wayscript.com)- WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp) that allows software engineers to self-serve secure, 3GB persistent volume storage (total) and 160GB outbound data transfer.
   - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, 2 GB SSD persistent storage.
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
 
 ## Payment and Billing Integration
 
@@ -361,4 +361,4 @@ A massive list including a huge amount of products and services that are complet
   - [RevenueCat](https://www.revenuecat.com) — Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue.
   - [VAT Layer](https://vatlayer.com) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
 
-[⬆ Back to Top](#-table-of-contents)
+[⬆ Back to Top](#table-of-contents)
