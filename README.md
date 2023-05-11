@@ -253,6 +253,7 @@ A massive list including a huge amount of products and services that are complet
   - [FontGet](https://www.fontget.com) - Has a variety of fonts available to download and sorted neatly with tags.
   - [Fontshare](https://www.fontshare.com) - is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
   - [Google Fonts](https://fonts.google.com) - Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
+  - [Nerd Fonts](https://www.nerdfonts.com) - Nerd Fonts is a tool designed for developers that enhances fonts by adding a plethora of glyphs, including icons. This is achieved by incorporating additional glyphs from well-known 'iconic fonts' such as Font Awesome, Devicons, and Octicons, among others. 
 
 [⬆ Back to Top](#table-of-contents)
 
