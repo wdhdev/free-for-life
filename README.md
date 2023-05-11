@@ -234,6 +234,7 @@ A massive list including a huge amount of products and services that are complet
   - [Parsio](https://parsio.io) — Free email parser (Forward email, extract the data, send it to your server)
   - [pepipost](https://pepipost.com) — 30k emails free for first month, then first 100 emails/day free
   - [phplist](https://phplist.com) — Hosted version allow 300 emails/month free
+  - [Proton Mail](https://proton.me/mail) - An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day.
   - [SimpleLogin](https://simplelogin.io) – Open source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwith, unlimited reply/send. Free for educational staffs (student, researcher, etc).
   - [Takeout](https://takeout.bysourfruit.com) - A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free.
   - [verimail](https://verimail.io) — Bulk and API email verification service. 100 free verifications/month.
