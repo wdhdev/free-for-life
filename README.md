@@ -93,6 +93,7 @@ A massive list including a huge amount of products and services that are complet
 
 ## Artificial Intelligence
 
+  - [Bard AI](https://bard.google.com) - Bard AI is an artificial intelligence chatbot developed by Google. 
   - [ChatGPT](https://chat.openai.com) - ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.
 
 [⬆ Back to Top](#table-of-contents)
@@ -138,6 +139,7 @@ A massive list including a huge amount of products and services that are complet
 ## Code Generation
 
   - [Codeium](https://www.codeium.com) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
+  - [Code Whisper](https://aws.amazon.com/codewhisperer/) - Code Whisper is code-suggestion tool built by Amazon. It is known as which comes equipped with a feature that enables it to conduct security scans on your code. 
   - [Tabnine](https://www.tabnine.com) - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.
 
 [⬆ Back to Top](#table-of-contents)
