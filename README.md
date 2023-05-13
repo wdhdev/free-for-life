@@ -199,6 +199,7 @@ A massive list including a huge amount of products and services that are complet
 
   - [Figma](https://www.figma.com/education/students) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
   - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
+  - [Microsoft Azure](https://azure.microsoft.com) - With the student plan, you'll be able to access a number of services for free (some with some limitations). Keep in mind that the educational "trial" period is valid for a duration of one year.
 
 [⬆ Back to Top](#table-of-contents)
 
