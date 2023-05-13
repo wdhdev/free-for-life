@@ -109,7 +109,8 @@ A massive list including a huge amount of products and services that are complet
   - [Flutter Flow](https://flutterflow.io) — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. Free plan includes full access to UI Builder and Free templates.
   - [getstream.io](https://getstream.io) — Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks
   - [hasura.io](https://hasura.io) — Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.
-  - [iron.io](https://www.iron.io) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
+  - [iron.io](https://www.iron.io) — Async task processing (like AWS Lambda) with free tier and 1-month free trial.
+  - [LeanCloud](https://leancloud.app) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
   - [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for -FREE- while you are a student.
   - [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
   - [onesignal.com](https://onesignal.com) — Unlimited free push notifications
@@ -132,14 +133,13 @@ A massive list including a huge amount of products and services that are complet
   - [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   - [tyk.io](https://tyk.io) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   - [Zapier](https://zapier.com) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
-  - [LeanCloud](https://leancloud.app) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
 
 [⬆ Back to Top](#table-of-contents)
 
 ## Code Generation
 
   - [Codeium](https://www.codeium.com) — Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
-  - [Code Whisper](https://aws.amazon.com/codewhisperer/) - Code Whisper is code-suggestion tool built by Amazon. It is known as which comes equipped with a feature that enables it to conduct security scans on your code. 
+  - [CodeWhisperer](https://aws.amazon.com/codewhisperer/) - CodeWhisperer is code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. 
   - [Tabnine](https://www.tabnine.com) - Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.
 
 [⬆ Back to Top](#table-of-contents)
