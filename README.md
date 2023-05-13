@@ -1,32 +1,6 @@
 # 💲 Free For Life
 A massive list including a huge amount of products and services that are completely free!
 
-<details>
-    <summary>➕ Adding Services</summary>
-    <br>
-
-1. Check if the service is already on the list
-2. If not, open a pull request adding your entry
-    - Make sure it is in the correct category
-    - Make sure it is in alphabetical order
-3. Wait for your service to be added!
-
-</details>
-
-<details>
-    <summary>⛔ Disallowed Services</summary>
-    <br>
-
-- 18+ services
-- Generic frontends
-- Illegal services
-- Self hosted services
-- Unfinished services
-
-</details>
-
----
-
 # Table of Contents
 
 - [APIs, Data & ML](#apis-data-and-ml)
