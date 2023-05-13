@@ -275,6 +275,7 @@ A massive list including a huge amount of products and services that are complet
   - [Formspree.io](https://formspree.io) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
   - [Formsubmit.co](https://formsubmit.co) — Easy form endpoints for your HTML forms. Free Forever. No registration required.
   - [getform.io](https://getform.io) - Form backend platform for designers and developers, teams and integrations to Google Sheets,Telegram & Slack bot, Unlimited Domains & 250 Submissions per month.
+  - [Google Forms](https://docs.google.com/forms) - A widely-used tool, created by Google, that allows users to effortlessly create forms.
   - [HeroTofu.com](https://herotofu.com) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email,250 submissions per month,250MB file storage, ActiveCampaign and Zapier.
   - [HeyForm.net](https://heyform.net) - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, one form, or Zapier. Use your own frontend, redirects, single email notifications.
   - [Hyperforms.app](https://hyperforms.app) — Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.
