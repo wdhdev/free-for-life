@@ -171,7 +171,8 @@ A massive list including a huge amount of products and services that are complet
   - [Bunny DNS](https://bunny.net/dns) - DNS hosting, 20 million free queries
   - [Cloudflare](https://www.cloudflare.com/dns) - Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC.
   - [Duck DNS](https://www.duckdns.org) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support
+  - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support.
+  - [Google Public DNS](https://developers.google.com/speed/public-dns) - A DNS developed by Google.
   - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
 
 [⬆ Back to Top](#table-of-contents)
