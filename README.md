@@ -135,6 +135,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [css-gradient](https://www.css-gradient.com) - Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
   - [Excalidraw](https://excalidraw.com) — An open source online whiteboard with a handrawn style. Including an infinite canvas, end to end encrypted collaboration, and multiple methods of exporting including shareable links.
   - [Figma](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects.
+  - [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics.
   - [MDBootstrap](https://mdbootstrap.com) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   - [Tailwind Elements](https://tailwind-elements.com) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
 
@@ -147,7 +148,8 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Bunny DNS](https://bunny.net/dns) - DNS hosting, 20 million free queries
   - [Cloudflare](https://www.cloudflare.com/dns) - Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC.
   - [Duck DNS](https://www.duckdns.org) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-  - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support
+  - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support.
+  - [Google Public DNS](https://developers.google.com/speed/public-dns) - A DNS developed by Google.
   - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
 
 [⬆ Back to Top](#table-of-contents)
@@ -175,6 +177,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
   - [Figma](https://www.figma.com/education/students) - With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
   - [GitHub Education](https://education.github.com/pack) - GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
+  - [Microsoft Azure](https://azure.microsoft.com) - With the student plan, you'll be able to access a number of services for free (some with some limitations). Keep in mind that the educational "trial" period is valid for a duration of one year.
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -251,6 +254,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Formspree.io](https://formspree.io) — Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month.
   - [Formsubmit.co](https://formsubmit.co) — Easy form endpoints for your HTML forms. Free Forever. No registration required.
   - [getform.io](https://getform.io) - Form backend platform for designers and developers, teams and integrations to Google Sheets,Telegram & Slack bot, Unlimited Domains & 250 Submissions per month.
+  - [Google Forms](https://docs.google.com/forms) - A widely-used tool, created by Google, that allows users to effortlessly create forms.
   - [HeroTofu.com](https://herotofu.com) - Forms backend with bot detection and encrypted archive. Forward submissions via UI to email,250 submissions per month,250MB file storage, ActiveCampaign and Zapier.
   - [HeyForm.net](https://heyform.net) - Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, one form, or Zapier. Use your own frontend, redirects, single email notifications.
   - [Hyperforms.app](https://hyperforms.app) — Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free.
