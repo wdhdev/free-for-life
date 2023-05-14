@@ -12,6 +12,7 @@
 3. Open a pull request adding the service.
     - Make sure it is in the correct category.
     - Make sure it is in alphabetical order.
+    - Make sure the URL has no trailing slash.
 4. Wait for your pull request to be approved.
 
 ## ➖ Removing Services
