@@ -252,6 +252,7 @@ A massive list including a huge amount of products and services that are complet
   - [Befonts](https://befonts.com) - Provides several unqiue fonts for personal or commercial use.
   - [Bunny](https://fonts.bunny.net) - All the Google Fonts with Google Fonts drop-in compatible API. Privacy oriented!.
   - [dafont](https://www.dafont.com) - The fonts presented on this website are their authors' property, and are either freeware, shareware, demo versions or public domain.
+  - [Devicons](https://vorillaz.github.io/devicons) - An iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
   - [Everything Fonts](https://everythingfonts.com) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
   - [Font of Web](https://fontofweb.com) - Identify all the fonts used on a website and how they are used.
   - [Font Squirrel](https://www.fontsquirrel.com) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
