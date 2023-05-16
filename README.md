@@ -128,6 +128,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Nano](https://www.nano-editor.org) - A terminal based text editor.
   - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
   - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
+  - [Vim](https://www.vim.org) -  A highly configurable terminal based text editor built to make creating and changing any kind of text. 
 
 [⬆ Back to Top](#table-of-contents)
 
