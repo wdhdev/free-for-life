@@ -156,6 +156,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support.
   - [Google Public DNS](https://developers.google.com/speed/public-dns) - A DNS developed by Google.
   - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
+  - [OpenDNS](https://www.opendns.com) - A suite of consumer products aimed at making your internet faster, safer, and more reliable.
 
 [⬆ Back to Top](#table-of-contents)
 
