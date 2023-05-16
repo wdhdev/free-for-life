@@ -147,7 +147,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 [⬆ Back to Top](#table-of-contents)
 
 ## DNS
-
+  - [AdGuard DNS](https://adguard-dns.io) - Lets you Control all web traffic on your devices, block ads, trackers, and malicious domains.
   - [1.1.1.1](https://1.1.1.1) - Free public DNS Resolver which is fast and secure, provided by Cloudflare.
       - Please note, this service is a DNS resolver, not a host.
   - [Bunny DNS](https://bunny.net/dns) - DNS hosting, 20 million free queries
