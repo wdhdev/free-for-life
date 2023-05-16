@@ -103,12 +103,12 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [restspace.io](https://restspace.io) - Configure a server with services for auth, data, files, email API, templates etc, then compose into pipelines and transform data.
   - [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag and drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightining Platform.
   - [ServiceNow Developer Program](https://developer.servicenow.com) — Rapidly build, test, and deploy applications that make work better for your organization. Free Instance & access early previews.
-  - [simperium.com](https://simperium.com) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2, 500 users/month
+  - [simperium.com](https://simperium.com) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2, 500 users/month.
   - [stackstorm.com](https://stackstorm.com) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP.
   - [streamdata.io](https://streamdata.io) — Turns any REST API into an event-driven streaming API. Free plan up to 1 million messages and 10 concurrent connections.
   - [Supabase](https://supabase.com) — The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage.
   - [tyk.io](https://tyk.io) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
-  - [Zapier](https://zapier.com) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
+  - [Zapier](https://zapier.com) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month.
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -122,7 +122,13 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 ## Code Editors
 
+  - [Brackets](https://brackets.io) - A modern text editor that makes it easy to design in the browser.
+  - [Code::Blocks](https://www.codeblocks.org) - A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran.
+  - [CodeLite](https://codelite.org) - An open source, free, cross platform IDE, specialized in C, C++, Rust, Python, PHP and JavaScript.
+  - [Helix](https://helix-editor.com) - A post-modern terminal based text editor.
+  - [Nano](https://www.nano-editor.org) - A terminal based text editor.
   - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
+  - [Vim](https://www.vim.org) - A highly configurable terminal based text editor built to make creating and changing any kind of text.
   - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
 [⬆ Back to Top](#table-of-contents)
@@ -143,6 +149,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 ## DNS
 
+  - [AdGuard DNS](https://adguard-dns.io) - Control all web traffic on your devices, block ads, trackers, and malicious domains.
   - [1.1.1.1](https://1.1.1.1) - Free public DNS Resolver which is fast and secure, provided by Cloudflare.
       - Please note, this service is a DNS resolver, not a host.
   - [Bunny DNS](https://bunny.net/dns) - DNS hosting, 20 million free queries
@@ -150,7 +157,8 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Duck DNS](https://www.duckdns.org) — Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
   - [Glauca](https://docs.glauca.digital/hexdns) – Free DNS hosting for up to 3 domains and DNSSEC support.
   - [Google Public DNS](https://developers.google.com/speed/public-dns) - A DNS developed by Google.
-  - [Namecheap](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
+  - [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) - Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
+  - [OpenDNS](https://www.opendns.com) - A suite of consumer products aimed at making your internet faster, safer, and more reliable.
 
 [⬆ Back to Top](#table-of-contents)
 
