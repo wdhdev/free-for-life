@@ -125,6 +125,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Code::Blocks:](https://www.codeblocks.org) - A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran.
   - [CodeLite](https://codelite.org) - An open source, free, cross platform IDE, specialized in C, C++, Rust, Python, PHP and JavaScript.
   - [Helix](https://helix-editor.com) - A post-modern terminal based text editor.
+  - [Nano](https://www.nano-editor.org) - A terminal based text editor.
   - [CodedIt WebContainers](https://codedit-web.vercel.app) - Code NodeJS applications in your browser.
   - [Visual Studio Code](https://vscode.dev) - Code editing. Redefined. Free. Built on open source. Runs everywhere.
 
