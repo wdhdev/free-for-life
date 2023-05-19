@@ -88,6 +88,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [getstream.io](https://getstream.io) — Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks
   - [hasura.io](https://hasura.io) — Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.
   - [iron.io](https://www.iron.io) — Async task processing (like AWS Lambda) with free tier and 1-month free trial.
+  - [Kuzzle](https://kuzzle.io) - Kuzzle publishes open source software for managing the Internet of Things, data, and APIs.
   - [LeanCloud](https://leancloud.app) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
   - [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for -FREE- while you are a student.
   - [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
