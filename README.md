@@ -76,6 +76,8 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 ## BaaS
 
+  - [Appwrite](https://appwrite.io) - A backend platform for developing Web, Mobile, and Flutter applications.
+  - [AWS Amplify](https://aws.amazon.com/amplify) - A complete solution that lets frontend web and mobile developers easily build, ship, and host full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as use cases evolve.
   - [back4app.com](https://www.back4app.com) - Back4App is an easy-to-use, flexible and scalable backend based on Parse Platform.
   - [backendless.com](https://backendless.com) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
   - [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) — The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps.
@@ -86,7 +88,9 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [getstream.io](https://getstream.io) — Build scalable newsfeeds, activity streams, chat and messaging in a few hours instead of weeks
   - [hasura.io](https://hasura.io) — Hasura extends your existing databases wherever it is hosted and provides an instant GraphQL API that can be securely accessed for web, mobile, and data integration workloads. Free for 1GB/month of data pass-through.
   - [iron.io](https://www.iron.io) — Async task processing (like AWS Lambda) with free tier and 1-month free trial.
+  - [Kuzzle](https://kuzzle.io) - Kuzzle publishes open source software for managing the Internet of Things, data, and APIs.
   - [LeanCloud](https://leancloud.app) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
+  - [Microsoft Azure Mobile Apps](https://azure.microsoft.com/en-us/solutions/mobile) -  Microsoft Azure provides Azure Mobile Apps, which includes a free tier with features like data storage, authentication, push notifications, and offline sync.
   - [netlicensing.io](https://netlicensing.io) - A cost-effective and integrated Licensing-as-a-Service (LaaS) solution for your software on any platform from Desktop to IoT and SaaS. Basic Plan for -FREE- while you are a student.
   - [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. Free plan includes: PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
   - [onesignal.com](https://onesignal.com) — Unlimited free push notifications
