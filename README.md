@@ -167,6 +167,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 ## Domains
 
+  - [AwardSpace](https://www.awardspace.com) - Free web hosting + a free subdomain, PHP, MySQL, App Installer, Email Sending & No Ads.
   - [cluster.ws & wip.la](https://github.com/Olivr/free-domain) — Free cluster.ws and wip.la subdomains for developers.
   - [dee.al](https://domain.dee.al) — Free .dee.al, .gal.aw, .devz.id instant domains for your blog site & others.
   - [eu.org](https://nic.eu.org) — Free eu.org domain. Request is usually approved in 14 days.
