@@ -125,9 +125,9 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc) and integrates with all major standalone and web IDEs.
-| [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. 
-| [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.
+| [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
+| [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
+| [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -135,13 +135,13 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser.
-| [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran.
-| [CodeLite](https://codelite.org) | An open source, free, cross platform IDE, specialized in C, C++, Rust, Python, PHP and JavaScript.
-| [Helix](https://helix-editor.com) | A post-modern terminal based text editor.
-| [Nano](https://www.nano-editor.org) | A terminal based text editor.
-| [Vim](https://www.vim.org) | A highly configurable terminal based text editor built to make creating and changing any kind of text.
-| [Visual Studio Code](https://vscode.dev) | Code editing. Redefined. Free. Built on open source. Runs everywhere.
+| [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
+| [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
+| [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
+| [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
+| [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
+| [Visual Studio Code](https://vscode.dev) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -149,15 +149,15 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [Canva](https://canva.com) | Free online design tool to create visual content.
-| [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets.
-| [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes.
-| [css-gradient](https://www.css-gradient.com) | Free tool to easily generate custom cross browser css gradients. In RGB and HEX format.
-| [Excalidraw](https://excalidraw.com) | An open source online whiteboard with a handrawn style. Including an infinite canvas, end to end encrypted collaboration, and multiple methods of exporting including shareable links.
-| [Figma](https://www.figma.com) | Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects.
-| [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics.
-| [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
-| [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+| [Canva](https://canva.com) | Free online design tool to create visual content. |
+| [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
+| [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
+| [css-gradient](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
+| [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
+| [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
+| [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
+| [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
+| [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -165,15 +165,15 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [AdGuard DNS](https://adguard-dns.io) | Control all web traffic on your devices, block ads, trackers, and malicious domains.
-| [1.1.1.1](https://1.1.1.1) | Free public DNS Resolver which is fast and secure, provided by Cloudflare. Please note, this service is a DNS resolver, not a host.
-| [Bunny DNS](https://bunny.net/dns) | DNS hosting, 20 million free queries
-| [Cloudflare](https://www.cloudflare.com/dns) | Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC.
-| [Duck DNS](https://www.duckdns.org) | Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups.
-| [Glauca](https://docs.glauca.digital/hexdns) | Free DNS hosting for up to 3 domains and DNSSEC support.
-| [Google Public DNS](https://developers.google.com/speed/public-dns) | A DNS developed by Google.
-| [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website’s availability.
-| [OpenDNS](https://www.opendns.com) | A suite of consumer products aimed at making your internet faster, safer, and more reliable.
+| [AdGuard DNS](https://adguard-dns.io) | Control all web traffic on your devices, block ads, trackers, and malicious domains. |
+| [1.1.1.1](https://1.1.1.1) | Free public DNS resolver that is fast and secure, provided by Cloudflare. Please note, this service is a DNS resolver, not a host. |
+| [Bunny DNS](https://bunny.net/dns) | DNS hosting, 20 million free queries |
+| [Cloudflare](https://www.cloudflare.com/dns) | Cloudflare DNS is an enterprise-grade authoritative DNS service that offers the fastest response time, unparalleled redundancy, and advanced security with built-in DDoS mitigation and DNSSEC. |
+| [Duck DNS](https://www.duckdns.org) | Free DDNS with up to 5 domains on the free tier. With configuration guides for various setups. |
+| [Glauca](https://docs.glauca.digital/hexdns) | Free DNS hosting for up to 3 domains and DNSSEC support. |
+| [Google Public DNS](https://developers.google.com/speed/public-dns) | A DNS developed by Google. |
+| [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Keep your online presence. FreeDNS hosting makes sure your domain is visible to the Internet, and with secondary DNS backup avoids any gaps in your website's availability. |
+| [OpenDNS](https://www.opendns.com) | A suite of consumer products aimed at making your internet faster, safer, and more reliable. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -202,9 +202,9 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [Figma](https://www.figma.com/education/students) | With the Education plan you can use the tools that will make you career ready, for free. You’re also part of a community who will help you get from where you are to what come’s next.
-| [GitHub Education](https://education.github.com/pack) | GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development.
-| [Microsoft Azure](https://azure.microsoft.com) | With the student plan, you'll be able to access a number of services for free (some with some limitations). Keep in mind that the educational "trial" period is valid for a duration of one year.
+| [Figma](https://www.figma.com/education/students) | With the Education plan, you can use the tools that will make you career-ready for free. You're also part of a community who will help you get from where you are to what comes next. |
+| [GitHub Education](https://education.github.com/pack) | GitHub Global Campus helps students, teachers, and schools access the tools and events they need to shape the next generation of software development. |
+| [Microsoft Azure](https://azure.microsoft.com) | With the student plan, you'll be able to access a number of services for free (some with limitations). Keep in mind that the educational "trial" period is valid for a duration of one year. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -224,7 +224,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [ImprovMX](https://improvmx.com) | Free email forwarding
 | [inboxkitten](https://inboxkitten.com) | Free temporary/disposable email inbox, with up-to 3 day email auto-deletes. Open sourced, and can be self-hosted.
 | [mail7](https://www.mail7.io) | Free temporary email address for QA Developers. Create email addresses instantly using Web Interface or API.
-| [Mailazy](https://mailazy.com) | Mailazy is the only simple transactional email service you’ll need. 10500 emails/month free forever (350 emails/day sending limit).
+| [Mailazy](https://mailazy.com) | Mailazy is the only simple transactional email service you'll need. 10500 emails/month free forever (350 emails/day sending limit).
 | [Mailchimp](https://mailchimp.com) | 2,000 subscribers and 12,000 emails/month free
 | [MailerLite](https://www.mailerlite.com) | 1,000 subscribers/month, 12,000 emails/month free
 | [MailerSend](https://www.mailersend.com) | Email API, SMTP, 12,000 emails/month free for transactional emails
@@ -264,7 +264,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Font of Web](https://fontofweb.com) | Identify all the fonts used on a website and how they are used.
 | [Font Squirrel](https://www.fontsquirrel.com) | Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
 | [FontGet](https://www.fontget.com) | Has a variety of fonts available to download and sorted neatly with tags.
-| [Fontshare](https://www.fontshare.com) | is a free fonts service. It’s a growing collection of professional grade fonts that are 100% free for personal and commercial use.
+| [Fontshare](https://www.fontshare.com) | is a free fonts service. It's a growing collection of professional grade fonts that are 100% free for personal and commercial use.
 | [Google Fonts](https://fonts.google.com) | Lots of free fonts that are easy and quick to install in a website via a download or a link to Google's CDN.
 | [Nerd Fonts](https://www.nerdfonts.com) | Nerd Fonts is a tool designed for developers that enhances fonts by adding a plethora of glyphs, including icons. This is achieved by incorporating additional glyphs from well-known 'iconic fonts' such as Font Awesome, Devicons, and Octicons, among others. 
 
