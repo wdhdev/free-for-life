@@ -244,6 +244,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Devicons](https://vorillaz.github.io/devicons) - An iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
   - [Everything Fonts](https://everythingfonts.com) - Offers multiple tools; @font-face, Units Converter, Font Hinter and Font Submitter.
   - [Font Awesome](https://fontawesome.com) - The Internet's icon library and toolkit, used by millions of designers, developers, and content creators.
+  - [Font Library](https://fontlibrary.org) - Font Library is a website that offers a collection of free and open-source fonts for various design projects.
   - [Font of Web](https://fontofweb.com) - Identify all the fonts used on a website and how they are used.
   - [Font Squirrel](https://www.fontsquirrel.com) - Freeware fonts that is licensed for commercial work. Hand-selected these typefaces and presenting them in an easy-to-use format.
   - [FontGet](https://www.fontget.com) - Has a variety of fonts available to download and sorted neatly with tags.
