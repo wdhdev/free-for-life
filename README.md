@@ -26,6 +26,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
+| [AwardSpace](https://www.awardspace.com) | Free web hosting + a free subdomain, PHP, MySQL, App Installer, Email Sending & No Ads.
 | [A11yWatch](https://a11ywatch.com) | Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases including IP geo-location, gender detection or even email validation.
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
