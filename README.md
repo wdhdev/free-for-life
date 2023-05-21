@@ -26,7 +26,6 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
-| [AwardSpace](https://www.awardspace.com) | Free web hosting + a free subdomain, PHP, MySQL, App Installer, Email Sending & No Ads.
 | [A11yWatch](https://a11ywatch.com) | Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily.
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases including IP geo-location, gender detection or even email validation.
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes free monthly allowance for running algorithms. Now with CLI support.
@@ -34,6 +33,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [API Mocha](https://apimocha.com) | Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection.
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models.
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python and Ruby.
+| [AwardSpace](https://www.awardspace.com) | Free web hosting + a free subdomain, PHP, MySQL, App Installer, Email Sending & No Ads.
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month.
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month.
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month.
