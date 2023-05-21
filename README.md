@@ -154,6 +154,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [css-gradient](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
+| [Dribbble](https://dribbble.com) | A community of designers showcasing their work, offering inspiration and insights.
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
