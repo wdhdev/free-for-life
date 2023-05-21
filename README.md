@@ -148,6 +148,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
   - [Lunacy](https://icons8.com/lunacy) - Free design software that keeps your flow with AI tools and built-in graphics.
   - [MDBootstrap](https://mdbootstrap.com) - Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community.
   - [Tailwind Elements](https://tailwind-elements.com) - Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities.
+  - [UI Gradients](https://uigradients.com) - A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements.
 
 
 [⬆ Back to Top](#table-of-contents)
