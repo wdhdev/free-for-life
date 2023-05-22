@@ -189,7 +189,6 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [eu.org](https://nic.eu.org) | Free eu.org domain. Request is usually approved in 14 days.
 | [Free Domains](https://freesubdomains.org) | Free subdomains for personal sites, open-source projects, and more.
 | [Freenom](https://freenom.com) | Free .tk, .ml, .ga, .cf and .gq domains.
-| [Infinity Free](https://www.infinityfree.net) | This website provides free subdomain names, free SSL, free DNS service and much more.
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers.
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers.
 | [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported).
