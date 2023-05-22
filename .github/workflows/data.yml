@@ -5,9 +5,6 @@ on:
         branches: [main]
         paths:
             - "data/*"
-            - ".github/workflows/data.yml"
-            - "scripts/update-data.sh"
-            - "README.md"
 
     workflow_dispatch: {}
 
