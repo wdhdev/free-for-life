@@ -1,0 +1,33 @@
+name: Data
+
+on:
+    push:
+        branches: [main]
+        paths:
+            - "data/*"
+            - ".github/workflows/data.yml"
+            - "scripts/update-data.sh"
+            - "README.md"
+
+    workflow_dispatch: {}
+
+jobs:
+    update-readme:
+        name: Update README
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v3
+
+            - name: Run Script
+              run: |
+                  chmod +x scripts/update-data.sh
+                  ./scripts/update-data.sh
+
+            - name: Commit
+              run: |
+                  git config --local user.email "actions@github.com"
+                  git config --local user.name "GitHub Actions"
+                  git add README.md
+                  git commit -m "Update README Data"
+                  git push
