@@ -1,12 +1,10 @@
 # 💲 Free For Life
-
 A massive list including a huge amount of products and services that are completely free!
 
 To contribute to the list, please see our [contributing guidelines](https://github.com/free-for-life/free-for-life/blob/main/CONTRIBUTING.md) for information.
 
 # Table of Contents
-
-- [APIs, Data & ML](#apis-data-and-ml)
+- [APIs, Data and ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
 - [Code Editors](#code-editors)
@@ -21,6 +19,17 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 - [Messaging and Streaming](#messaging-and-streaming)
 - [PaaS](#paas)
 - [Payment and Billing Integration](#payment-and-billing-integration)
+
+---
+
+## Recommended Services
+
+| Category | Website | Description |
+|:-:|:-:|-|
+| APIs, Data and ML | [WH API](https://api.wdh.gg) | A public API which has custom endpoints for services such as [Gravatar](https://gravatar.com) and wrappers for other APIs. |
+| Domains | [Free Domains](https://freesubdomains.org) | Free subdomains for personal sites, open-source projects, and more. |
+
+---
 
 ## APIs, Data and ML
 
@@ -65,6 +74,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
+| [WH API](https://api.wdh.gg) | A public API which has custom endpoints for services such as [Gravatar](https://gravatar.com) and wrappers for other APIs. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -157,6 +167,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
+| [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
