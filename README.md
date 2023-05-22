@@ -1,4 +1,4 @@
-# 💲 Free For Life
+# Free For Life
 A massive list including a huge amount of products and services that are completely free!
 
 To contribute to the list, please see our [contributing guidelines](https://github.com/free-for-life/free-for-life/blob/main/CONTRIBUTING.md) for information.
