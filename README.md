@@ -33,6 +33,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [API Mocha](https://apimocha.com) | Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
+| [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
@@ -52,14 +53,14 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [DB Designer](https://www.dbdesigner.net) | Cloud-based Database schema design and modeling tool with a free starter plan of 2 Database models and 10 tables per model. |
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
-| [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5K page requests monthly. |
+| [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
 | [ScrapingDog](https://scrapingdog.com) | ScrapingDog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans available. |
 | [scrapinghub.com](https://scrapinghub.com) | Data scraping with a visual interface and plugins. Free plan includes unlimited scraping on a shared server. |
-| [Select Star](https://www.selectstar.com) | Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables, and up to 10 Users. |
+| [Select Star](https://www.selectstar.com) | Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables, and up to 10 users. |
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
@@ -148,15 +149,18 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 
 | Website | Description |
 |:-:|-|
+| [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
-| [css-gradient](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
+| [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
+| [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
+| [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -194,16 +198,6 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
 | [pp.ua](https://nic.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
-
-[⬆ Back to Top](#table-of-contents)
-
-## For Students
-
-| Website | Description |
-|:-:|-|
-| [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
-| [GitHub Education](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
-| [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 
 [⬆ Back to Top](#table-of-contents)
 
@@ -260,6 +254,7 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Devicon](https://devicon.dev) | Devicon is a set of icons representing programming languages, designing, and development tools. |
 | [Everything Fonts](https://everythingfonts.com) | Offers multiple tools: @font-face, Units Converter, Font Hinter, and Font Submitter. |
 | [Font Awesome](https://fontawesome.com) | The Internet's icon library and toolkit, used by millions of designers, developers, and content creators. |
+| [Font Library](https://fontlibrary.org) | Font Library is a website that offers a collection of free and open-source fonts for various design projects. |
 | [Font of Web](https://fontofweb.com) | Identify all the fonts used on a website and how they are used. |
 | [Font Squirrel](https://www.fontsquirrel.com) | Freeware fonts that are licensed for commercial work. Hand-selected typefaces presented in an easy-to-use format. |
 | [FontGet](https://www.fontget.com) | Has a variety of fonts available to download and sorted neatly with tags. |
@@ -304,6 +299,16 @@ To contribute to the list, please see our [contributing guidelines](https://gith
 | [Web3Forms](https://web3forms.com) | Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows unlimited Forms, collect payments, CSV/JSON export, customizable reply-to email address. |
 | [WebAsk](https://webask.io) | Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single-page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks, etc for free. |
 | [Wufoo](https://www.wufoo.com) | Quick forms to use on websites. Free plan has a limit of 100 submissions each month. |
+
+[⬆ Back to Top](#table-of-contents)
+
+## For Students
+
+| Website | Description |
+|:-:|-|
+| [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
+| [GitHub Education](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
+| [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 
 [⬆ Back to Top](#table-of-contents)
 
