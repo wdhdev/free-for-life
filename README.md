@@ -312,8 +312,7 @@ To contribute to the list, please see our [contributing guidelines](https://free
 ## PaaS
 
 | Website | Description |
-| :-----: | ----------- |
-
+|:-:|-|
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
 | [Braintree](braintreepayments.com) | Boost Revenue with a Global Payments Partner. |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
@@ -343,7 +342,7 @@ To contribute to the list, please see our [contributing guidelines](https://free
 | [opeNode](https://openode.io) | Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository. |
 | [pipedream](https://pipedream.com) | An integration platform built for developers. Develop any workflow, free for 2 projects, from a static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, jobs, and managed databases with a powerful UI, Kubernetes, limited features but no resource limits. |
 | [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
-| [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers |
+| [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers. |
 | [Porter](https://getporter.dev) | A fully-managed PaaS that lets teams automate DevOps. The free basic tier for Porter Cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory. |
 | [PythonAnywhere](https://www.pythonanywhere.com) | Cloud Python app hosting. The beginner account is free worldwide. The free tier includes 100. |
 | [Railway](https://railway.app) | Railway is an infrastructure platform where you can provision infrastructure and free-tier PostgreSQL database limited to 2 connections and more. It includes free cloud hosting for hobby projects. |
