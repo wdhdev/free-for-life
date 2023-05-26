@@ -312,8 +312,10 @@ To contribute to the list, please see our [contributing guidelines](https://free
 ## PaaS
 
 | Website | Description |
-|:-:|-|
+| :-----: | ----------- |
+
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
+| [Braintree](braintreepayments.com) | Boost Revenue with a Global Payments Partner. |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
 | [Cyclic](https://www.cyclic.sh) | Fullstack app hosting. Push to Github for build and deploy of JavaScript/Node.js apps. Includes: Authentication, multi-regional deployments, and increased limits. |
@@ -321,6 +323,7 @@ To contribute to the list, please see our [contributing guidelines](https://free
 | [Deta](https://www.deta.sh) | Deploy an unlimited number of Node.js and Python apps for free. Includes free DBs, 1,000 rows and no backups, 0.5 GB storage, and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier. |
 | [Divio](https://www.divio.com) | A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, 3Gi/pod with a maximum of 8Gi/namespace, 5 GB traffic, 10,512 MB private file storage, 512 MB RAM, a default timeout of 15 seconds and 25, a global edge network, and APIs with git-based deployment and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources. |
 | [domcloud.co](https://domcloud.co) | Linux hosting service that also provides CI/CD with GitHub, based on any trigger. Workflows are code, boilerplate-free code, but with all the power of use programming languages. Free tier includes [1.000 yeps](https://yepcode.io/pricing). |
+| [Dwolla](www.dwolla.com) | Redefine your payment possibilities with sophisticated account-to-account solutions. |
 | [encore.dev](https://encore.dev) | Backend framework using static analysis to provide automatic infrastructure, Storage and Streaming logs. Paid plans include: branch-based environments, TypeScript, unlimited number of free sandbox environments supporting unlimited users, web apps, which you can run [for free](https://docs.pipedream.com/pricing). No server or cloud resources to manage. |
 | [fly.io](https://fly.io) | Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, one MySQL database. |
 | [gigalixir.com](https://gigalixir.com) | Gigalixir provides 1 free instance that never sleeps and then deploy to the cloud. 1 GB Disk, and WebAssembly at the edge, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, APIs, apps, Auth, and email. |
@@ -339,6 +342,8 @@ To contribute to the list, please see our [contributing guidelines](https://free
 | [OutSystems](https://www.outsystems.com) | Enterprise web development PaaS for on-premise or cloud, 2 cron jobs, and 1 database. |
 | [opeNode](https://openode.io) | Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository. |
 | [pipedream](https://pipedream.com) | An integration platform built for developers. Develop any workflow, free for 2 projects, from a static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, jobs, and managed databases with a powerful UI, Kubernetes, limited features but no resource limits. |
+| [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
+| [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers |
 | [Porter](https://getporter.dev) | A fully-managed PaaS that lets teams automate DevOps. The free basic tier for Porter Cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory. |
 | [PythonAnywhere](https://www.pythonanywhere.com) | Cloud Python app hosting. The beginner account is free worldwide. The free tier includes 100. |
 | [Railway](https://railway.app) | Railway is an infrastructure platform where you can provision infrastructure and free-tier PostgreSQL database limited to 2 connections and more. It includes free cloud hosting for hobby projects. |
