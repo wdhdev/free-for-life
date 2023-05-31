@@ -16,7 +16,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
 
-            - name: Run Script
+            - name: Update Data
               run: |
                   chmod +x scripts/update-data.sh
                   ./scripts/update-data.sh
