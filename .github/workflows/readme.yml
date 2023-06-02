@@ -1,4 +1,4 @@
-name: Data
+name: README
 
 on:
     push:
@@ -9,8 +9,8 @@ on:
     workflow_dispatch: {}
 
 jobs:
-    update-readme:
-        name: Update README
+    update-data:
+        name: Update Data
         runs-on: ubuntu-latest
 
         steps:
