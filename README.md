@@ -1,9 +1,9 @@
-# Free For Life
+# 💸 Free For Life
 A massive list including a huge amount of products and services that are completely free!
 
-To contribute to the list, please see our [contributing guidelines](https://free-for.life/#/contributing) for information.
+⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life) &bull; 🤝 [Contribute](https://free-for.life/#/contributing)
 
-# Table of Contents
+# 📜 Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
