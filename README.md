@@ -3,23 +3,6 @@ A massive list including a huge amount of products and services that are complet
 
 ⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life) &bull; 🤝 [Contribute](https://free-for.life/#/contributing)
 
-# 📜 Table of Contents
-- [APIs, Data & ML](#apis-data-and-ml)
-- [Artificial Intelligence](#artificial-intelligence)
-- [BaaS](#baas)
-- [Code Editors](#code-editors)
-- [Code Generation](#code-generation)
-- [DNS](#dns)
-- [Design & UI](#design-and-ui)
-- [Domains](#domains)
-- [Email](#email)
-- [Font](#font)
-- [For Students](#for-students)
-- [Forms](#forms)
-- [Messaging & Streaming](#messaging-and-streaming)
-- [PaaS](#paas)
-- [Payments & Billing](#payments-and-billing)
-
 ---
 
 <!-- data:start -->
