@@ -386,3 +386,5 @@ A massive list including a huge amount of products and services that are complet
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
 
 &copy; 2023 **Free For Life** - All Rights Reserved.
+
+[⬆️ Back to Top](#-table-of-contents)
