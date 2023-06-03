@@ -23,6 +23,8 @@ A massive list including a huge amount of products and services that are complet
 ---
 
 <!-- data:start -->
+
+<!-- APIs_Data_and_ML.md -->
 ## APIs, Data and ML
 
 | Website | Description |
@@ -68,6 +70,7 @@ A massive list including a huge amount of products and services that are complet
 | [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
 | [WH API](https://api.wdh.gg) | A public API which has custom endpoints for services such as [Gravatar](https://gravatar.com) and wrappers for other APIs. |
 
+<!-- Artificial_Intelligence.md -->
 ## Artificial Intelligence
 
 | Website | Description |
@@ -76,6 +79,7 @@ A massive list including a huge amount of products and services that are complet
 | [Bing Chat](https://bing.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
 | [ChatGPT](https://chat.openai.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 
+<!-- BaaS.md -->
 ## BaaS
 
 | Website | Description |
@@ -118,6 +122,7 @@ A massive list including a huge amount of products and services that are complet
 | [tyk.io](https://tyk.io) | API management with authentication, quotas, monitoring, and analytics. Free cloud offering. |
 | [Zapier](https://zapier.com) | Connect the apps you use to automate tasks. 5 zaps every 15 minutes and 100 tasks/month. |
 
+<!-- Code_Editors.md -->
 ## Code Editors
 
 | Website | Description |
@@ -130,6 +135,7 @@ A massive list including a huge amount of products and services that are complet
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
 
+<!-- Code_Generation.md -->
 ## Code Generation
 
 | Website | Description |
@@ -138,6 +144,7 @@ A massive list including a huge amount of products and services that are complet
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 
+<!-- DNS.md -->
 ## DNS
 
 | Website | Description |
@@ -152,6 +159,7 @@ A massive list including a huge amount of products and services that are complet
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
+<!-- Design_and_UI.md -->
 ## Design and UI
 
 | Website | Description |
@@ -170,6 +178,7 @@ A massive list including a huge amount of products and services that are complet
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 
+<!-- Domains.md -->
 ## Domains
 
 | Website | Description |
@@ -189,6 +198,7 @@ A massive list including a huge amount of products and services that are complet
 | [pp.ua](https://nic.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 
+<!-- Email.md -->
 ## Email
 
 | Website | Description |
@@ -230,6 +240,7 @@ A massive list including a huge amount of products and services that are complet
 | [verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
 
+<!-- Font.md -->
 ## Font
 
 | Website | Description |
@@ -248,6 +259,7 @@ A massive list including a huge amount of products and services that are complet
 | [Google Fonts](https://fonts.google.com) | Lots of free fonts that are easy and quick to install on a website via a download or a link to Google's CDN. |
 | [Nerd Fonts](https://www.nerdfonts.com) | Nerd Fonts is a tool designed for developers that enhances fonts by adding a plethora of glyphs, including icons. This is achieved by incorporating additional glyphs from well-known 'iconic fonts' such as Font Awesome, Devicons, and Octicons, among others. |
 
+<!-- For_Students.md -->
 ## For Students
 
 | Website | Description |
@@ -256,6 +268,7 @@ A massive list including a huge amount of products and services that are complet
 | [GitHub Education](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 
+<!-- Forms.md -->
 ## Forms
 
 | Website | Description |
@@ -292,6 +305,7 @@ A massive list including a huge amount of products and services that are complet
 | [WebAsk](https://webask.io) | Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single-page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks, etc for free. |
 | [Wufoo](https://www.wufoo.com) | Quick forms to use on websites. Free plan has a limit of 100 submissions each month. |
 
+<!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
 
 | Website | Description |
@@ -310,6 +324,7 @@ A massive list including a huge amount of products and services that are complet
 | [Upstash Kafka](https://upstash.com/kafka) | Serverless Kafka Cloud offering with per-request pricing. It has a free tier with a maximum of 10,000 messages per day. |
 | [webpushr](https://www.webpushr.com) | Web Push Notifications. Free for up to 10k subscribers, unlimited push notifications, and in-browser messaging. |
 
+<!-- PaaS.md -->
 ## PaaS
 
 | Website | Description |
@@ -351,6 +366,7 @@ A massive list including a huge amount of products and services that are complet
 | [WayScript](https://www.wayscript.com) | WayScript is an [internal developer platform (IDP)](https://blog.wayscript.com/what-is-an-internal-developer-platform-idp) that allows software engineers to self-serve secure, 3 GB persistent volume storage (total), and 160 GB outbound data transfer. |
 | [YepCode](https://yepcode.io) | An all-in-one platform to connect APIs and services in a serverless environment. It brings all the agility and benefits of NoCode tools, 2 GB SSD persistent storage. |
 
+<!-- Payments_and_Billing.md -->
 ## Payments and Billing
 
 | Website | Description |
@@ -369,3 +385,5 @@ A massive list including a huge amount of products and services that are complet
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
+
+&copy; 2023 **Free For Life** - All Rights Reserved.
