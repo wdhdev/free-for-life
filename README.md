@@ -23,6 +23,22 @@ A massive list including a huge amount of products and services that are complet
 ---
 
 <!-- data:start -->
+# 📜 Table of Contents
+- [APIs, Data & ML](#apis-data-and-ml)
+- [Artificial Intelligence](#artificial-intelligence)
+- [BaaS](#baas)
+- [Code Editors](#code-editors)
+- [Code Generation](#code-generation)
+- [DNS](#dns)
+- [Design & UI](#design-and-ui)
+- [Domains](#domains)
+- [Email](#email)
+- [Font](#font)
+- [For Students](#for-students)
+- [Forms](#forms)
+- [Messaging & Streaming](#messaging-and-streaming)
+- [PaaS](#paas)
+- [Payments & Billing](#payments-and-billing)
 
 <!-- APIs_Data_and_ML.md -->
 ## APIs, Data and ML
