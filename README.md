@@ -385,6 +385,4 @@ A massive list including a huge amount of products and services that are complet
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
 
-&copy; 2023 **Free For Life** - All Rights Reserved.
-
-[⬆️ Back to Top](#-table-of-contents)
+[⬆️ **Back to Top**](#-table-of-contents)
