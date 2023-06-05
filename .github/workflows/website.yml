@@ -4,6 +4,7 @@ on:
     push:
         branches: [main]
         paths:
+            - "website/"
             - "README.md"
 
     workflow_dispatch:
