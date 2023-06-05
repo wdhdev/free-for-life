@@ -1,0 +1,51 @@
+name: Website
+
+on:
+    push:
+        branches: [main]
+        paths:
+            - "README.md"
+
+    workflow_dispatch:
+
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
+jobs:
+    build:
+        name: Build
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v3
+
+            - uses: actions/configure-pages@v3
+
+            - name: Build with Jeykll
+              uses: actions/jekyll-build-pages@v1
+              with:
+                  source: ./website
+                  destination: ./_site
+
+            - name: Upload Artifact
+              uses: actions/upload-pages-artifact@v1
+
+    deploy:
+        name: Deploy
+        runs-on: ubuntu-latest
+        needs: build
+
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+
+        steps:
+            - name: Deploy to GitHub Pages
+              id: deployment
+              uses: actions/deploy-pages@v2
