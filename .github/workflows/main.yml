@@ -9,14 +9,14 @@ on:
     workflow_dispatch: {}
 
 jobs:
-    update-data:
-        name: Update Data
+    update:
+        name: Update
         runs-on: ubuntu-latest
 
         steps:
             - uses: actions/checkout@v3
 
-            - name: Update Data
+            - name: Update README
               run: |
                   chmod +x scripts/update-data.sh
                   ./scripts/update-data.sh
@@ -26,5 +26,5 @@ jobs:
                   git config --local user.email "actions@github.com"
                   git config --local user.name "GitHub Actions"
                   git add README.md
-                  git commit -m "Update README Data"
+                  git commit -m "Update README"
                   git push
