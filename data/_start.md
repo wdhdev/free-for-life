@@ -1,3 +1,5 @@
+<span id="top"></span>
+
 # 📜 Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
