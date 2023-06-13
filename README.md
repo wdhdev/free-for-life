@@ -6,6 +6,8 @@ A massive list including a huge amount of products and services that are complet
 ---
 
 <!-- data:start -->
+<span id="top"></span>
+
 # 📜 Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
