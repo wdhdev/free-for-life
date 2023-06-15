@@ -7,4 +7,5 @@
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 | [Microsoft 365](https://www.microsoft.com/education/products/office) | Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools. A valid school email is required. |
 | [JetBrains](https://www.jetbrains.com/community/education) | Get free access to all JetBrains IDEs for personal use at school or at home, as long as you're a teacher or a student. |
+| [Unity](https://unity.com/products/unity-educator) | Unity is free for educators at accredited educational institutions. |
 
