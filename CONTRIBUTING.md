@@ -52,9 +52,10 @@
 ```
 
 4. Add at least one service to the table.
-5. Open a pull request.
-6. Provide a reason in the description of your pull request for the adding of the category.
-7. Wait for your pull request to be approved.
+5. Add the category to the [Table of Contents](https://github.com/free-for-life/free-for-life/blob/main/data/_start.md).
+6. Open a pull request.
+7. Provide a reason in the description of your pull request for the adding of the category.
+8. Wait for your pull request to be approved.
 
 ---
 
