@@ -15,6 +15,7 @@ A massive list including a huge amount of products and services that are complet
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
 - [DNS](#dns)
+- [Databases](#databases)
 - [Design & UI](#design-and-ui)
 - [Domains](#domains)
 - [Email](#email)
