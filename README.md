@@ -14,7 +14,6 @@ A massive list including a huge amount of products and services that are complet
 - [BaaS](#baas)
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
-- [Databases](#databases)
 - [DNS](#dns)
 - [Design & UI](#design-and-ui)
 - [Domains](#domains)
@@ -167,7 +166,7 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
-| 
+
 
 
 <!-- Design_and_UI.md -->
