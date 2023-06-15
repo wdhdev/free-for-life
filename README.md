@@ -14,6 +14,7 @@ A massive list including a huge amount of products and services that are complet
 - [BaaS](#baas)
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
+- [Databases](#databases)
 - [DNS](#dns)
 - [Design & UI](#design-and-ui)
 - [Domains](#domains)
