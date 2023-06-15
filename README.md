@@ -160,6 +160,12 @@ A massive list including a huge amount of products and services that are complet
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
+<!-- Databases.md -->
+# Databases
+| Website | Description |
+|:-:|-|
+
+| [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
 <!-- Design_and_UI.md -->
 ## Design and UI
 
