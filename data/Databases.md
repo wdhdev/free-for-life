@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [Amazon DynamoDB](https://aws.amazon.com/dynamodb) | Fast, flexible NoSQL database service for single-digit millisecond performance at any scale. | 
 | [Apache Cassandra](https://cassandra.apache.org) | Manage massive amounts of data, fast, without losing sleep. |
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
