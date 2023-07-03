@@ -2,8 +2,8 @@
 
 | Website | Description |
 |:-:|-|
+| [1.1.1.1](https://1.1.1.1) | S free public DNS resolver provided by Cloudflare with fast and secure DNS resolution. |
 | [AdGuard DNS](https://adguard-dns.io) | AdGuard DNS allows you to control web traffic on your devices by blocking ads, trackers, and malicious domains. |
-| [1.1.1.1](https://1.1.1.1) | 1.1.1.1 is a free public DNS resolver provided by Cloudflare. It offers fast and secure DNS resolution, but please note that it is not a hosting service. |
 | [Bunny DNS](https://bunny.net/dns) | Bunny DNS provides DNS hosting with 20 million free queries. |
 | [Cloudflare](https://www.cloudflare.com/dns) | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
 | [Duck DNS](https://www.duckdns.org) | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
