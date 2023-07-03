@@ -171,7 +171,8 @@ A massive list including a huge amount of products and services that are complet
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
-| [Realm](https://www.mongodb.com/docs/realm) | Realm is a mobile-first database designed for modern, data-driven applications. |
+| [MongoDB](https://www.mongodb.com) | MongoDB is a open-source cross-platform document-oriented database program. |
+| [MongoDB Realm](https://www.mongodb.com/docs/realm) | Realm is a mobile-first database designed for modern, data-driven applications. |
 | [MySQL](https://www.mysql.com) | Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software. |
 | [Oracle Database](https://www.oracle.com/database) | Oracle database services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system. |
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
@@ -179,7 +180,6 @@ A massive list including a huge amount of products and services that are complet
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. | 
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | 
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
-
 
 
 <!-- Design_and_UI.md -->
@@ -207,19 +207,18 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [cluster.ws & wip.la](https://github.com/Olivr/free-domain) | Free cluster.ws and wip.la subdomains for developers. |
-| [dee.al](https://domain.dee.al) | Free .dee.al, .gal.aw, .devz.id instant domains for your blog site & others. |
 | [eu.org](https://nic.eu.org) | Free eu.org domain. Request is usually approved in 14 days. |
 | [Free Domains](https://freesubdomains.org) | Free subdomains for personal sites, open-source projects, and more. |
 | [Freenom](https://freenom.com) | Free .tk, .ml, .ga, .cf, and .gq domains. |
-| [getlocalcert](https://www.getlocalcert.net) | Free subdomains for private network use. |
+| [getlocalcert.net](https://www.getlocalcert.net) | Free subdomains for private network use. |
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. |
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. |
-| [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Free .is-an.app and .1bt.uk subdomains (wildcards, A, NS, AAAA, CNAME, TXT records are supported). |
+| [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Grab your own subdomain (for personal sites, open-source projects, and more) for free. |
 | [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
-| [pp.ua](https://nic.ua) | Free pp.ua subdomains. |
+| [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 
 <!-- Email.md -->
@@ -234,11 +233,11 @@ A massive list including a huge amount of products and services that are complet
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
-| [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** You must pay if you use .casa, .cf, .click, .email, .fit, .ga, .gdn, .gq, .loan, .london, .men, .ml, .pl, .rest, .ru, .tk, .top, .work TLDs due to spam). |
+| [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
 | [ImprovMX](https://improvmx.com) | Free email forwarding. |
 | [inboxkitten](https://inboxkitten.com) | Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open sourced, and can be self-hosted. |
-| [mail7](https://www.mail7.io) | Free temporary email address for QA Developers. Create email addresses instantly using Web Interface or API. |
+| [Mail7](https://www.mail7.io) | Free temporary email address for QA Developers. Create email addresses instantly using Web Interface or API. |
 | [Mailazy](https://mailazy.com) | Mailazy is the only simple transactional email service you'll need. 10500 emails/month free forever (350 emails/day sending limit). |
 | [Mailchimp](https://mailchimp.com) | 2,000 subscribers and 12,000 emails/month free. |
 | [MailerLite](https://www.mailerlite.com) | 1,000 subscribers/month, 12,000 emails/month free. |
@@ -250,9 +249,9 @@ A massive list including a huge amount of products and services that are complet
 | [mailsac](https://mailsac.com) | Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit). |
 | [Mail Tester](https://www.mail-tester.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month. |
 | [Mailtie](https://mailtie.com) | Free Email Forwarding for Your Domain. No registration required. Free Forever. |
-| [mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
+| [Mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
 | [Mail Validator](https://mailvalidator.io) | Verify 300 emails/month for free, real-time API with bulk processing available. |
-| [moosend](https://moosend.com) | Mailing list management service. Free account for 6 months for startups. |
+| [Moosend](https://moosend.com) | Mailing list management service. Free account for 6 months for startups. |
 | [Mutant Mail](https://www.mutantmail.com) | Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs. |
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
 | [Parsio](https://parsio.io) | Free email parser (Forward email, extract the data, send it to your server). |
@@ -261,7 +260,7 @@ A massive list including a huge amount of products and services that are complet
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
-| [verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
+| [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
 
 <!-- Font.md -->
@@ -289,12 +288,11 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
-| [GitHub Education](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
+| [GitHub Education Pack](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
 | [JetBrains](https://www.jetbrains.com/community/education) | Get free access to all JetBrains IDEs for personal use at school or at home, as long as you're a teacher or a student. |
 | [Microsoft 365](https://www.microsoft.com/education/products/office) | Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools. A valid school email is required. |
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 | [Unity](https://unity.com/products/unity-educator) | Unity is free for educators at accredited educational institutions. |
-
 
 <!-- Forms.md -->
 ## Forms
