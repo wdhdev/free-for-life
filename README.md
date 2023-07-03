@@ -181,7 +181,6 @@ A massive list including a huge amount of products and services that are complet
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | 
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
 
-
 <!-- Design_and_UI.md -->
 ## Design and UI
 
