@@ -132,6 +132,7 @@ A massive list including a huge amount of products and services that are complet
 | [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
 | [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
 | [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
