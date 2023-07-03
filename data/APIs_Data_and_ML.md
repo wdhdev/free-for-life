@@ -35,7 +35,6 @@
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
 | [ScrapingDog](https://scrapingdog.com) | ScrapingDog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans available. |
-| [scrapinghub.com](https://scrapinghub.com) | Data scraping with a visual interface and plugins. Free plan includes unlimited scraping on a shared server. |
 | [Select Star](https://www.selectstar.com) | Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables, and up to 10 users. |
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
