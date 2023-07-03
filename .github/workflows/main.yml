@@ -16,10 +16,10 @@ jobs:
         steps:
             - uses: actions/checkout@v3
 
-            - name: Update README
+            - name: Run Script
               run: |
-                  chmod +x scripts/update-data.sh
-                  ./scripts/update-data.sh
+                  chmod +x scripts/update-readme.sh
+                  ./scripts/update-readme.sh
 
             - name: Commit
               run: |
