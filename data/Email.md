@@ -36,5 +36,8 @@
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
+| [Tempail](https://tempail.com) | Free temporary/disposable email for 1 hour per session with qr codes to regain the session. |
+| [TempMail](https://temp-mail.org) | Free temporary/disposable email per session. |
+| [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 | [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
