@@ -8,6 +8,7 @@
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
+| [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
 | [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
@@ -37,7 +38,7 @@
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
 | [Tempail](https://tempail.com) | Free temporary/disposable email for 1 hour per session with qr codes to regain the session. |
-| [TempMail](https://temp-mail.org) | Free temporary/disposable email per session. |
+| [Temp Mail](https://temp-mail.org) | Free temporary/disposable email per session. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 | [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
