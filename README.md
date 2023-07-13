@@ -2,7 +2,9 @@
 # 💸 Free For Life
 A massive list including a huge amount of products and services that are completely free!
 
-⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life) &bull; 🤝 [Contribute](https://free-for.life/#/contributing)
+⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life)
+<br>
+🤝 [Contribute](https://free-for.life/#/contributing)
 
 <span id="top"></span>
 
