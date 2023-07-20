@@ -23,6 +23,7 @@ A massive list including a huge amount of products and services that are complet
 - [For Students](#for-students)
 - [Forms](#forms)
 - [Messaging & Streaming](#messaging-and-streaming)
+- [Linux Distributions](#linux-distributions)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
 
@@ -336,6 +337,14 @@ A massive list including a huge amount of products and services that are complet
 | [WebAsk](https://webask.io) | Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single-page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks, etc for free. |
 | [Wufoo](https://www.wufoo.com) | Quick forms to use on websites. Free plan has a limit of 100 submissions each month. |
 
+<!-- Linux_Distributions.md -->
+| Website | Description |
+|:-:|-|
+| [Kubuntu](https://kubuntu.org/) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
+| [Arch Linux](https://archlinux.org/) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
+| [Debian](https://www.debian.org/) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
+| [Kali Linux](https://www.kali.org/) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
+| [Ubuntu](https://ubuntu.com/) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
 
