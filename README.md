@@ -6,10 +6,7 @@ A massive list including a huge amount of products and services that are complet
 **|**
 🤝 [Contribute](https://free-for.life/#/contributing)
 
-<span id="top"></span>
-
-# 📜 Table of Contents
-
+# Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
