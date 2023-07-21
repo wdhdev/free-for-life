@@ -2,12 +2,13 @@
 A massive list including a huge amount of products and services that are completely free!
 
 ⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life)
-<br>
+**|**
 🤝 [Contribute](https://free-for.life/#/contributing)
 
 <span id="top"></span>
 
 # 📜 Table of Contents
+
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
@@ -21,7 +22,7 @@ A massive list including a huge amount of products and services that are complet
 - [Font](#font)
 - [For Students](#for-students)
 - [Forms](#forms)
-- [Messaging & Streaming](#messaging-and-streaming)
 - [Linux Distributions](#linux-distributions)
+- [Messaging & Streaming](#messaging-and-streaming)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
