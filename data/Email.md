@@ -10,7 +10,7 @@
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
 | [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
-| [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
+| [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.lat`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
 | [ImprovMX](https://improvmx.com) | Free email forwarding. |
 | [inboxkitten](https://inboxkitten.com) | Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open sourced, and can be self-hosted. |
