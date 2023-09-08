@@ -160,6 +160,7 @@ A massive list including a huge amount of products and services that are complet
 | [Duck DNS](https://www.duckdns.org) | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Google Public DNS is a DNS service developed by Google. |
+| [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Privacy-focused and nolog DoH/DoT DNS service, with optional blocking of ads, trackers, malware, pornography, gambling and social media sites. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
