@@ -344,10 +344,11 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
+| [Artix Linux](https://artixlinux.org) | Arch Linux fork without the [much-hated systemd init service](https://without-systemd.org/wiki/index_php/Main_Page/). You can choose from various init systems used in other popular distros, like OpenRC (Gentoo, Alpine), runit (Void), etc. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
-| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
-| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
-| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Keep in mind that actual security researches do not use this, as they use their favourite distro and install these tools on it. Based on Ubuntu. |
+| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. Basically Ubuntu with KDE desktop environment. |
+| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, generally used by newbies. Well-known for being too bloated and being backed by a company, that [has telemetry in it](https://www.omgubuntu.co.uk/2018/05/this-is-the-data-ubuntu-collects-about-your-system). Based on Debian. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
