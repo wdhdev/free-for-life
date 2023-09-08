@@ -160,6 +160,7 @@ A massive list including a huge amount of products and services that are complet
 | [Duck DNS](https://www.duckdns.org) | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Google Public DNS is a DNS service developed by Google. |
+| [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Privacy-focused and nolog DoH/DoT DNS service, with optional blocking of ads, trackers, malware, pornography, gambling and social media sites. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
@@ -342,11 +343,12 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
-| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
-| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
-| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
-| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible GNU/Linux distribution that tries to [Keep It Simple](https://wiki.archlinux.org/title/Arch_terminology#KISS). |
+| [Artix Linux](https://artixlinux.org) | Arch Linux fork without the [much-hated systemd init service](https://without-systemd.org/wiki/index_php/Main_Page). You can choose from various init systems used in other popular distros, like OpenRC (Gentoo, Alpine), runit (Void), etc. |
+| [Debian](https://www.debian.org) | Debian is a GNU/Linux distro for a wide range of devices including laptops, desktops and servers.  |
+| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Keep in mind that actual security researches do not use this, as they use their favourite distro and install these tools on it. Based on Ubuntu. |
+| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. Basically Ubuntu with KDE desktop environment. |
+| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, generally used by newbies. Well-known for being too bloated and being backed by a company, that [has telemetry in it](https://www.omgubuntu.co.uk/2018/05/this-is-the-data-ubuntu-collects-about-your-system). Based on Debian. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
