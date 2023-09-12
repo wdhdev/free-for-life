@@ -160,7 +160,6 @@ A massive list including a huge amount of products and services that are complet
 | [Duck DNS](https://www.duckdns.org) | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Google Public DNS is a DNS service developed by Google. |
-| [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Privacy-focused and nolog DoH/DoT DNS service, with optional blocking of ads, trackers, malware, pornography, gambling and social media sites. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
@@ -343,12 +342,11 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible GNU/Linux distribution that tries to [Keep It Simple](https://wiki.archlinux.org/title/Arch_terminology#KISS). |
-| [Artix Linux](https://artixlinux.org) | Arch Linux fork without the [much-hated systemd init service](https://without-systemd.org/wiki/index_php/Main_Page). You can choose from various init systems used in other popular distros, like OpenRC (Gentoo, Alpine), runit (Void), etc. |
-| [Debian](https://www.debian.org) | Debian is a GNU/Linux distro for a wide range of devices including laptops, desktops and servers.  |
-| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. Keep in mind that actual security researches do not use this, as they use their favourite distro and install these tools on it. Based on Ubuntu. |
-| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. Basically Ubuntu with KDE desktop environment. |
-| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, generally used by newbies. Well-known for being too bloated and being backed by a company, that [has telemetry in it](https://www.omgubuntu.co.uk/2018/05/this-is-the-data-ubuntu-collects-about-your-system). Based on Debian. |
+| [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
+| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
+| [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
+| [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
+| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
@@ -388,7 +386,6 @@ A massive list including a huge amount of products and services that are complet
 | [fly.io](https://fly.io) | Fly is a platform for applications that need to run globally. It runs your code close to users and scales compute in cities where your app is busiest. Write your code, one MySQL database. |
 | [gigalixir.com](https://gigalixir.com) | Gigalixir provides 1 free instance that never sleeps and then deploy to the cloud. 1 GB Disk, and WebAssembly at the edge, API & CLI. Seamlessly scale containers from version control and external Docker registries. Free tier includes 2 services, APIs, apps, Auth, and email. |
 | [Glitch](https://glitch.com) | Free public hosting with features such as code sharing and real-time collaboration. Free plan has a 1000 hours/month limit. |
-| [Heroku](https://www.heroku.com) | Whether you're building a simple prototype or a business-critical product, Heroku's fully-managed platform gives you the simplest path to delivering apps quickly. |
 | [Koyeb](https://www.koyeb.com) | Koyeb is a developer-friendly serverless platform to deploy apps globally. Seamlessly run Docker containers, schedule cron tasks, and more. 100 hours of [free runtime per month](https://www.wayscript.com/pricing), SSH, and MariaDB/Postgres database. The free version has 1 GB storage and 1 GB network/month limit and limited to a free domain. |
 | [Krucible](https://usekrucible.com) | Krucible is a platform for creating Kubernetes clusters for testing and development. Free tier accounts come with 25 cluster-hours per month. |
 | [M3O](https://m3o.com) | A cloud platform for API services development. M3O is a fully managed Micro as a Service offering focusing on Go microservices development in the Cloud. Free tier provides enough to run 5 services and collaborate with others. |
