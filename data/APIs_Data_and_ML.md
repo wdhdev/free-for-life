@@ -42,4 +42,3 @@
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
-| [WH API](https://api.wdh.gg) | A public API which has custom endpoints for services such as [Gravatar](https://gravatar.com) and wrappers for other APIs. |
