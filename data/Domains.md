@@ -15,4 +15,4 @@
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
-| [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get ur own proj.sbs / proj.at subdomains here, free for open-source developers. |
+| [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
