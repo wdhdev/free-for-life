@@ -81,6 +81,7 @@ A massive list including a huge amount of products and services that are complet
 | [ChatGPT](https://chat.openai.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
+| [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
 
 <!-- BaaS.md -->
 ## BaaS
@@ -223,6 +224,7 @@ A massive list including a huge amount of products and services that are complet
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
+| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
 
 <!-- Email.md -->
 ## Email
@@ -348,6 +350,7 @@ A massive list including a huge amount of products and services that are complet
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
