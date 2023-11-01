@@ -16,3 +16,4 @@
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
+| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
