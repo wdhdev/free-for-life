@@ -139,6 +139,7 @@ A massive list including a huge amount of products and services that are complet
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
+| [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -351,6 +352,11 @@ A massive list including a huge amount of products and services that are complet
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
+| [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
+| [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
+| [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
+| [Debian](https://debian.org) | Debian is known for its stability and commitment to free and open-source software. It provides a strong foundation for other distributions and is popular among system administrators. |
+| [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
@@ -432,5 +438,15 @@ A massive list including a huge amount of products and services that are complet
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
+
+<!-- SSL.md -->
+## SSL
+
+| Website | Description |
+|:-:|-|
+| [Let's Encrypt](https://letsencrypt.org) |  Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
+| [FreeSSL](https://www.freessl.org) |  FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
+| [WoSign](https://www.wosign.com/) |  WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt.  |
+| [SSL.com](https://letsencrypt.org/) |  SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options.  |
 
 ⬆️ [**Back to Top**](#table-of-contents)
