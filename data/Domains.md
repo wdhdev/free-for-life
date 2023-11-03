@@ -12,8 +12,8 @@
 | [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. |
+| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
-| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
-| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
+| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
