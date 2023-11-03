@@ -24,6 +24,7 @@ A massive list including a huge amount of products and services that are complet
 - [Messaging & Streaming](#messaging-and-streaming)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
+- [SSL](#ssl)
 
 <!-- APIs_Data_and_ML.md -->
 ## APIs, Data and ML
@@ -130,6 +131,7 @@ A massive list including a huge amount of products and services that are complet
 | [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
 | [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
 | [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free. |
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
@@ -139,7 +141,6 @@ A massive list including a huge amount of products and services that are complet
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
-| [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -221,11 +222,11 @@ A massive list including a huge amount of products and services that are complet
 | [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. |
+| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
-| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
-| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
+| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 
 <!-- Email.md -->
 ## Email
@@ -347,16 +348,15 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
-| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
+| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
+| [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
-| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
-| [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
-| [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
-| [Debian](https://debian.org) | Debian is known for its stability and commitment to free and open-source software. It provides a strong foundation for other distributions and is popular among system administrators. |
 | [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
+| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
@@ -444,9 +444,9 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [Let's Encrypt](https://letsencrypt.org) |  Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
-| [FreeSSL](https://www.freessl.org) |  FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
-| [SSL.com](https://ssl.com) |  SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options. |
-| [WoSign](https://www.wosign.com) |  WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt. |
+| [Let's Encrypt](https://letsencrypt.org) | Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
+| [FreeSSL](https://www.freessl.org) | FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
+| [SSL.com](https://ssl.com) | SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options. |
+| [WoSign](https://www.wosign.com) | WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt. |
 
 ⬆️ [**Back to Top**](#table-of-contents)
