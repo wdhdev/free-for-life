@@ -137,10 +137,12 @@ A massive list including a huge amount of products and services that are complet
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
+| [Neovim](https://neovim.io) | Neovim is a fork of Vim aiming to improve the codebase, allowing for easier implementation of APIs, improved user experience and plugin implementation.|
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
+| [VSCodium](https://vscodium.com) | Free/Libre Open Source Software Binaries of VS Code. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -350,6 +352,7 @@ A massive list including a huge amount of products and services that are complet
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
 | [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
+| [Fedora Linux](https://fedoraproject.org) | Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
