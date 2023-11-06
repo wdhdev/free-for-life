@@ -2,8 +2,6 @@
 
 | Website | Description |
 |:-:|-|
-## Email
-
 [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
 [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free.
 [Antideo](https://www.antideo.com) - 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required.
