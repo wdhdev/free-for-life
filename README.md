@@ -357,7 +357,6 @@ A massive list including a huge amount of products and services that are complet
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
-| [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
