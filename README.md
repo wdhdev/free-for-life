@@ -178,6 +178,7 @@ A massive list including a huge amount of products and services that are complet
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
+| [MariaDB](https://mariadb.com) | MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is a open-source cross-platform document-oriented database program. |
