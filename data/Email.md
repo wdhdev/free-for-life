@@ -7,6 +7,7 @@
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
+| [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
 | [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
