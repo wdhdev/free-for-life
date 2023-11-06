@@ -137,12 +137,10 @@ A massive list including a huge amount of products and services that are complet
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
-| [Neovim](https://neovim.io) | Neovim is a fork of Vim aiming to improve the codebase, allowing for easier implementation of APIs, improved user experience and plugin implementation.|
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
-| [VSCodium](https://vscodium.com) | Free/Libre Open Source Software Binaries of VS Code. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -166,6 +164,7 @@ A massive list including a huge amount of products and services that are complet
 | [Glauca](https://docs.glauca.digital/hexdns) | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Google Public DNS is a DNS service developed by Google. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
+| [No-IP](https://www.noip.com) | Create an easy to remember hostname and never lose your connection again. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 
 <!-- Databases.md -->
@@ -178,7 +177,6 @@ A massive list including a huge amount of products and services that are complet
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
-| [MariaDB](https://mariadb.com) | MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is a open-source cross-platform document-oriented database program. |
@@ -207,6 +205,7 @@ A massive list including a huge amount of products and services that are complet
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
+| [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 
@@ -241,6 +240,7 @@ A massive list including a huge amount of products and services that are complet
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
+| [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
 | [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
@@ -353,11 +353,11 @@ A massive list including a huge amount of products and services that are complet
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
 | [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
-| [Fedora Linux](https://fedoraproject.org) | Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
+| [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
@@ -447,8 +447,9 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [Let's Encrypt](https://letsencrypt.org) | Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
 | [FreeSSL](https://www.freessl.org) | FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
+| [InfinityFree](https://dash.infinityfree.com/sslCertificates) | InfinityFree not only provides free hosting but also offers free SSL certificates with fast installation for your InfinityFree account. |
+| [Let's Encrypt](https://letsencrypt.org) | Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
 | [SSL.com](https://ssl.com) | SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options. |
 | [WoSign](https://www.wosign.com) | WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt. |
 
