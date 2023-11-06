@@ -178,6 +178,7 @@ A massive list including a huge amount of products and services that are complet
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
+| [MariaDB](https://mariadb.com) | MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is a open-source cross-platform document-oriented database program. |
@@ -357,7 +358,6 @@ A massive list including a huge amount of products and services that are complet
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
-| [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
