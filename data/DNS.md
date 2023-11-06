@@ -10,5 +10,5 @@
 | [Glauca](https://docs.glauca.digital/hexdns) | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Google Public DNS is a DNS service developed by Google. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
-| [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
 | [No-IP](https://www.noip.com) | Create an easy to remember hostname and never lose your connection again. |
+| [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
