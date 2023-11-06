@@ -24,6 +24,7 @@ A massive list including a huge amount of products and services that are complet
 - [Messaging & Streaming](#messaging-and-streaming)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
+- [SSL](#ssl)
 
 <!-- APIs_Data_and_ML.md -->
 ## APIs, Data and ML
@@ -81,6 +82,7 @@ A massive list including a huge amount of products and services that are complet
 | [ChatGPT](https://chat.openai.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
+| [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
 
 <!-- BaaS.md -->
 ## BaaS
@@ -129,15 +131,18 @@ A massive list including a huge amount of products and services that are complet
 | [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
 | [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
 | [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free. |
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
+| [Neovim](https://neovim.io) | Neovim is a fork of Vim aiming to improve the codebase, allowing for easier implementation of APIs, improved user experience and plugin implementation.|
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
+| [VSCodium](https://vscodium.com) | Free/Libre Open Source Software Binaries of VS Code. |
 
 <!-- Code_Generation.md -->
 ## Code Generation
@@ -173,6 +178,7 @@ A massive list including a huge amount of products and services that are complet
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
+| [MariaDB](https://mariadb.com) | MariaDB is a community-developed, commercially supported fork of the MySQL relational database management system (RDBMS), intended to remain free and open-source software under the GNU General Public License. Development is led by some of the original developers of MySQL. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is a open-source cross-platform document-oriented database program. |
@@ -219,10 +225,11 @@ A massive list including a huge amount of products and services that are complet
 | [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. |
+| [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. |
-| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. |
+| [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. |
 
 <!-- Email.md -->
 ## Email
@@ -344,10 +351,15 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
-| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers.  |
+| [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
+| [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
+| [Fedora Linux](https://fedoraproject.org) | Fedora Linux is a Linux distribution developed by the Fedora Project. It was originally developed in 2003 as a continuation of the Red Hat Linux project. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
+| [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
+| [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
 <!-- Messaging_and_Streaming.md -->
 ## Messaging and Streaming
@@ -429,5 +441,15 @@ A massive list including a huge amount of products and services that are complet
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
+
+<!-- SSL.md -->
+## SSL
+
+| Website | Description |
+|:-:|-|
+| [Let's Encrypt](https://letsencrypt.org) | Let's Encrypt is a widely trusted and fully automated SSL certificate provider, offering free SSL certificates to secure your website. |
+| [FreeSSL](https://www.freessl.org) | FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
+| [SSL.com](https://ssl.com) | SSL.com offers free 90-day SSL certificates for single domains and provides various paid certificate options. |
+| [WoSign](https://www.wosign.com) | WoSign provides free SSL certificates for single domains; however, they are not as widely trusted as Let's Encrypt. |
 
 ⬆️ [**Back to Top**](#table-of-contents)
