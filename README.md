@@ -31,7 +31,6 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [A11yWatch](https://a11ywatch.com) | Powerful web accessibility tool at scale. Free site-wide web accessibility testing and beyond that resets daily. |
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
