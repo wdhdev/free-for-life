@@ -7,7 +7,7 @@
 | [Free Domains](https://freesubdomains.org) | Free subdomains for personal sites, open-source projects, and more. |
 | [getlocalcert.net](https://www.getlocalcert.net) | Free subdomains for private network use. |
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. |
-| [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. |
+| [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. Offers free website hosting. |
 | [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Grab your own subdomain (for personal sites, open-source projects, and more) for free. |
 | [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
