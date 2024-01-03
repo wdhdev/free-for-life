@@ -93,6 +93,7 @@ A massive list including a huge amount of products and services that are complet
 | [Back4App](https://www.back4app.com) | Back4App is an easy-to-use, flexible, and scalable backend based on the Parse Platform. |
 | [Backendless](https://backendless.com) | Mobile and Web Baas, with 1 GB file storage free, push notifications 50,000/month, and 1000 data objects in a table. |
 | [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) | The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps. |
+| [ConnectyCube](https://connectycube.com) | API and SDK for chat messages, voice & video calls, file attachments, and push notifications. Free for apps up to 1K MAU. |
 | [Convex](https://convex.dev) | Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month. |
 | [Darklang](https://darklang.com) | Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta. |
 | [Engagespot](https://engagespot.co) | Notification infrastructure for developers. Free for up to 100 monthly active users. |
@@ -220,7 +221,7 @@ A massive list including a huge amount of products and services that are complet
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. |
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. Offers free website hosting. |
 | [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Grab your own subdomain (for personal sites, open-source projects, and more) for free. |
-| [is-amaz.ing](https://github.com/is-amazing/register) | A place for software devs to host their really cool projects and personal websites for free. |
+| [is-really.cool](https://github.com/is-really-cool/register) | A place for software devs to host their really cool projects and personal websites for free. |
 | [js.cool](https://github.com/willin/js.cool) | Free js.cool subdomains for GitHub Pages and Vercel. |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. |
 | [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. |
@@ -368,7 +369,6 @@ A massive list including a huge amount of products and services that are complet
 | [Ably](https://www.ably.com) | Real-time messaging service with presence, persistence, and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections, and 100 peak channels. |
 | [cloudamqp](https://www.cloudamqp.com) | RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's. |
 | [cloudkarafka](https://www.cloudkarafka.com) | Free Shared Kafka cluster, up to 5 topics, 10MB data per topic, and 28 days of data retention. |
-| [connectycube](https://connectycube.com) | Unlimited chat messages, p2p voice & video calls, file attachments, and push notifications. Free for apps up to 20K MAU. |
 | [courier](https://www.courier.com) | Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo. |
 | [eyeson API](https://developers.eyeson.team) | A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows Real-Time Data Injection, Video Layouts, Recordings, a fully-featured hosted web UI (quickstart), or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes per month. |
 | [Knock](https://knock.app) | Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. Free plan includes 10,000 messages/mo. |
