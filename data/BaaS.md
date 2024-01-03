@@ -7,6 +7,7 @@
 | [Back4App](https://www.back4app.com) | Back4App is an easy-to-use, flexible, and scalable backend based on the Parse Platform. |
 | [Backendless](https://backendless.com) | Mobile and Web Baas, with 1 GB file storage free, push notifications 50,000/month, and 1000 data objects in a table. |
 | [BMC Developer Program](https://developers.bmc.com/site/global/bmc_helix_platform/program/overview/index.gsp) | The BMC Developer Program provides documentation and resources to build and deploy digital innovations for your enterprise. Access to a comprehensive, personal sandbox which includes the platform, SDK, and a library of components that can be used to build and tailor apps. |
+| [ConnectyCube](https://connectycube.com) | API and SDK for chat messages, voice & video calls, file attachments, and push notifications. Free for apps up to 1K MAU. |
 | [Convex](https://convex.dev) | Reactive backend as a service, hosting your data (documents with relationships & serializable ACID transactions), serverless functions, and websockets to stream updates to various clients. Free for small projects - up to 1M records, 5M function calls per month. |
 | [Darklang](https://darklang.com) | Hosted language combined with editor and infrastructure. Free during the beta, generous free tier planned after beta. |
 | [Engagespot](https://engagespot.co) | Notification infrastructure for developers. Free for up to 100 monthly active users. |

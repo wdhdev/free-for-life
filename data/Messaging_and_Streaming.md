@@ -5,7 +5,6 @@
 | [Ably](https://www.ably.com) | Real-time messaging service with presence, persistence, and guaranteed delivery. Free plan includes 3m messages per month, 100 peak connections, and 100 peak channels. |
 | [cloudamqp](https://www.cloudamqp.com) | RabbitMQ as a Service. Little Lemur plan: max 1 million messages/month, max 20 concurrent connections, max 100 queues, max 10,000 queued messages, multiple nodes in different AZ's. |
 | [cloudkarafka](https://www.cloudkarafka.com) | Free Shared Kafka cluster, up to 5 topics, 10MB data per topic, and 28 days of data retention. |
-| [connectycube](https://connectycube.com) | Unlimited chat messages, p2p voice & video calls, file attachments, and push notifications. Free for apps up to 20K MAU. |
 | [courier](https://www.courier.com) | Single API for push, in-app, email, chat, SMS, and other messaging channels with template management and other features. Free plan includes 10,000 messages/mo. |
 | [eyeson API](https://developers.eyeson.team) | A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows Real-Time Data Injection, Video Layouts, Recordings, a fully-featured hosted web UI (quickstart), or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes per month. |
 | [Knock](https://knock.app) | Notifications infrastructure for developers. Send to multiple channels like in-app, email, SMS, Slack, and push with a single API call. Free plan includes 10,000 messages/mo. |
