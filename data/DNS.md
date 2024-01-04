@@ -12,3 +12,4 @@
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [No-IP](https://www.noip.com) | Create an easy to remember hostname and never lose your connection again. |
 | [OpenDNS](https://www.opendns.com) | OpenDNS offers a suite of consumer products that aim to make your internet faster, safer, and more reliable. |
+| [Quad9](https://quad9.net) | A security and privacy focused non-profit DNS service with no IP logging. |
