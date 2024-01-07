@@ -412,7 +412,6 @@ A massive list including a huge amount of products and services that are complet
 | [Okteto Cloud](https://okteto.com) | Managed Kubernetes service designed for remote development. Free developer accounts come with 5 Kubernetes namespaces, 1 GB RAM, 1 Python web application at your-username.pythonanywhere.com domain, 1 CPU/pod with a maximum of 4 CPUs/namespace, and 5 GB Disk space. The apps sleep after 24 hours of inactivity. |
 | [Oracle Cloud](https://www.oracle.com/cloud) | A complete cloud infrastructure platform for every workload. |
 | [OutSystems](https://www.outsystems.com) | Enterprise web development PaaS for on-premise or cloud, 2 cron jobs, and 1 database. |
-| [opeNode](https://openode.io) | Free Node.js hosting for Open Source projects. 100 GB Bandwidth/month with 100 MB memory & 1000 MB storage. Deploy using CLI or existing Git repository. |
 | [pipedream](https://pipedream.com) | An integration platform built for developers. Develop any workflow, free for 2 projects, from a static website to advanced microservice architectures. mogenius comes with fully managed hyper-scaling cloud resources, jobs, and managed databases with a powerful UI, Kubernetes, limited features but no resource limits. |
 | [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
 | [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers. |
