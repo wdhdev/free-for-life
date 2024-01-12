@@ -439,6 +439,7 @@ A massive list including a huge amount of products and services that are complet
 | [FraudLabsPRO](https://www.fraudlabspro.com) | Help merchants prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. |
 | [MailPopin](https://mailpop.in) | Get the most of your Stripe notifications with contextualized information. |
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
+| [Paymenter](https://paymenter.org) | Free and open-source solution for hostings. Free forever |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
 
