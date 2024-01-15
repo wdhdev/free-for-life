@@ -1,0 +1,37 @@
+name: Generate RSS Feed
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+    contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+        cache: pip
+
+    - name: Install dependencies
+      run: |
+        pip install -r rss-requirements.txt
+
+    - name: Run script
+      run: python rss.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add website/rss.xml
+        git commit -m "chore: Update RSS feed"
+        git push
