@@ -27,7 +27,7 @@ jobs:
         pip install -r rss-requirements.txt
 
     - name: Run script
-      run: python rss.py
+      run: python scripts/rss.py
 
     - name: Commit and push changes
       run: |
