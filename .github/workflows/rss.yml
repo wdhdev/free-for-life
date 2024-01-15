@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +20,7 @@ jobs:
       with:
         python-version: 3.11
         cache: pip
+        cache-dependency-path: rss-requirements.txt
 
     - name: Install dependencies
       run: |
