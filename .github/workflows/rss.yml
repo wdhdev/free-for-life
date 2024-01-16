@@ -26,7 +26,7 @@ jobs:
                   cache-dependency-path: scripts/rss/requirements.txt
 
             - name: Install Dependencies
-              run: pip install -r rss-requirements.txt
+              run: pip install -r scripts/rss/requirements.txt
 
             - name: Update RSS Feed
               run: python scripts/rss/main.py
