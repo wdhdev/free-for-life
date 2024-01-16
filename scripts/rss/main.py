@@ -38,7 +38,10 @@ def main():
     print("Starting to generate RSS feed...")
     add_entry(fg, END_ENTRY)
 
-    for filename in os.listdir(DATA_DIR):
+    # Get the list of files and sort them
+    data_files = sorted(os.listdir(DATA_DIR))
+
+    for filename in data_files:
         if not filename.endswith(".md"):
             continue
         if filename in [START_ENTRY, END_ENTRY]:
