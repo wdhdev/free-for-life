@@ -1,0 +1,40 @@
+name: RSS Feed
+
+on:
+    push:
+        branches: [main]
+        paths:
+            - "data/*"
+
+    workflow_dispatch: {}
+
+permissions:
+    contents: write
+
+jobs:
+    generate:
+        name: Generate
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: actions/setup-python@v5
+              with:
+                  python-version: 3.11
+                  cache: pip
+                  cache-dependency-path: rss-requirements.txt
+
+            - name: Install Dependencies
+              run: pip install -r rss-requirements.txt
+
+            - name: Update RSS Feed
+              run: python scripts/rss.py
+
+            - name: Commit
+              run: |
+                  git config --local user.email "actions@github.com"
+                  git config --local user.name "GitHub Actions"
+                  git add website/rss.xml
+                  git commit -m "chore: update rss feed"
+                  git push
