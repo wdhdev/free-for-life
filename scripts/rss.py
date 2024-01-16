@@ -8,9 +8,12 @@ RSS_PATH = "website/rss.xml"
 START_ENTRY = "_start.md"
 END_ENTRY = "_end.md"
 
+
 def add_entry(feed: FeedGenerator, filename: str):
     print(f"Adding entry for file: {filename}")
+
     start_time = time.time()
+
     with open(f"{DATA_DIR}/{filename}", "r") as f:
         md_content = f.read()
         html_content = markdown.markdown(md_content, extensions=["markdown.extensions.tables"])
@@ -19,8 +22,10 @@ def add_entry(feed: FeedGenerator, filename: str):
         fe.title(formatted_filename)
         fe.link(href=f"https://free-for.life/#/?id={formatted_filename}")
         fe.description(html_content)
+
     end_time = time.time()
     print(f"Added entry for file: {filename} in {end_time - start_time} seconds.")
+
 
 def main():
     start_time = time.time()
@@ -43,8 +48,11 @@ def main():
     add_entry(fg, START_ENTRY)
 
     fg.rss_file(RSS_PATH)
+
     end_time = time.time()
+
     print(f"RSS feed generated and saved to: {RSS_PATH} in {end_time - start_time} seconds.")
+
 
 if __name__ == "__main__":
     print("Starting script...")
