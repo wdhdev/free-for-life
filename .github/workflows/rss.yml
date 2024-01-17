@@ -35,6 +35,7 @@ jobs:
               run: |
                   git config --local user.email "actions@github.com"
                   git config --local user.name "GitHub Actions"
+                  git pull
                   git add website/rss.xml
                   git commit -m "chore: update rss feed"
                   git push
