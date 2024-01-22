@@ -4,7 +4,7 @@ A massive list including a huge amount of products and services that are complet
 
 ⭐ [Star on GitHub](https://github.com/free-for-life/free-for-life)
 &bull;
-🤝 [Contribute](https://free-for.life/#/contributing)
+🤝 [Contribute](https://free.wdh.gg/#/contributing)
 
 # Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
