@@ -2,7 +2,7 @@
 
 ---
 
-**Do NOT update the `README.md` file. It is updated from the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder automatically.**
+**Do NOT update the `README.md` file. It is updated from the [`/data`](https://github.com/wdhdev/free-for-life/tree/main/data) folder automatically.**
 
 # 💻 Services
 
@@ -15,7 +15,7 @@
 ## ✏️ Adding Services
 1. Check if the service is already on the list.
 2. Make sure your service is not a [disallowed service](#-disallowed-services).
-3. Go to the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder and click on the category the service matches and add it.
+3. Go to the [`/data`](https://github.com/wdhdev/free-for-life/tree/main/data) folder and click on the category the service matches and add it.
     - Make sure it is in the proper format.
         - e.g. `| [Service](https://example.com) | Description of the service. |`
     - Make sure it is in the correct category.
@@ -27,7 +27,7 @@
 5. Wait for your pull request to be approved.
 
 ## 🗑️ Removing Services
-1. Go to the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder and click on the category the service is in.
+1. Go to the [`/data`](https://github.com/wdhdev/free-for-life/tree/main/data) folder and click on the category the service is in.
 2. Remove the service from the file.
 3. Open a pull request.
 4. Provide a reason in the description of your pull request for the removal of the service.
@@ -49,7 +49,7 @@
 ```
 
 4. Add at least one service to the table.
-5. Add the category to the [Table of Contents](https://github.com/free-for-life/free-for-life/blob/main/data/_start.md).
+5. Add the category to the [Table of Contents](https://github.com/wdhdev/free-for-life/blob/main/data/_start.md).
 6. Open a pull request.
 7. Provide a reason in the description of your pull request for the adding of the category.
 8. Wait for your pull request to be approved.
@@ -58,7 +58,7 @@
 
 # 📜 Scripts
 ## 📝 Editing Scripts
-1. Test that the updated script works in a [fork](https://github.com/free-for-life/free-for-life/fork) of this repository.
+1. Test that the updated script works in a [fork](https://github.com/wdhdev/free-for-life/fork) of this repository.
 2. Open a pull request.
 3. Provide a reason in the description of your pull request with the specified changes.
 4. Wait for your pull request to be approved.
