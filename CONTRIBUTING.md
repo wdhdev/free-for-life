@@ -2,6 +2,8 @@
 
 ---
 
+**Do NOT update the `README.md` file. It is updated from the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder automatically.**
+
 # 💻 Services
 
 ## 🚫 Disallowed Services
@@ -11,8 +13,6 @@
 - Unfinished services
 
 ## ✏️ Adding Services
-**Do NOT update the README.md file. It is updated using the data in the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder automatically.**
-
 1. Check if the service is already on the list.
 2. Make sure your service is not a [disallowed service](#-disallowed-services).
 3. Go to the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder and click on the category the service matches and add it.
@@ -27,8 +27,6 @@
 5. Wait for your pull request to be approved.
 
 ## 🗑️ Removing Services
-**Do NOT update the README.md file. It is updated using the data in the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder automatically.**
-
 1. Go to the [`/data`](https://github.com/free-for-life/free-for-life/tree/main/data) folder and click on the category the service is in.
 2. Remove the service from the file.
 3. Open a pull request.
@@ -38,7 +36,6 @@
 ---
 
 # 📖 Categories
-
 ## ✏️ Adding Categories
 1. Create a file with the name of the category you want to add.
     - e.g. `APIs_Data_and_ML.md`
@@ -60,7 +57,6 @@
 ---
 
 # 📜 Scripts
-
 ## 📝 Editing Scripts
 1. Test that the updated script works in a [fork](https://github.com/free-for-life/free-for-life/fork) of this repository.
 2. Open a pull request.
