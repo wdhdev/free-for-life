@@ -218,7 +218,7 @@ A massive list including a huge amount of products and services that are complet
 |:-:|-|:-:|
 | [cluster.ws & wip.la](https://github.com/Olivr/free-domain) | Free cluster.ws and wip.la subdomains for developers. | ❌ |
 | [eu.org](https://nic.eu.org) | Free eu.org domain. Request is usually approved in 14 days. | ✅ |
-| [Free Domains](https://freesubdomains.org) | Free subdomains for personal sites, open-source projects, and more. | ❌ |
+| [Free Domains](https://github.com/free-domains/register) | Free subdomains for personal sites, open-source projects, and more. | ❌ |
 | [getlocalcert.net](https://www.getlocalcert.net) | Free subdomains for private network use. | ❌ |
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. | ❌ |
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. | ❌ |
