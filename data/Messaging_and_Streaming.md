@@ -11,6 +11,7 @@
 | [PubNub](https://www.pubnub.com) | Swift, Kotlin, and React messaging at 1 million transactions each month. Transactions may contain multiple messages. |
 | [Pusher](https://pusher.com) | Real-time messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day. |
 | [Scaledrone](https://www.scaledrone.com) | Real-time messaging service. Free for up to 20 simultaneous connections and 100,000 events/day. |
+| [SuprSend](https://www.suprsend.com) | Multi-channel Notification Infrastructure. Added multi-tenants, user preferences, inapp notification center. Free for up to 10k notifications per month for developers. |
 | [Synadia](https://synadia.com/ngs) | [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k message size, 50 active connections, and 5GB of data per month. |
 | [Upstash Kafka](https://upstash.com/kafka) | Serverless Kafka Cloud offering with per-request pricing. It has a free tier with a maximum of 10,000 messages per day. |
 | [webpushr](https://www.webpushr.com) | Web Push Notifications. Free for up to 10k subscribers, unlimited push notifications, and in-browser messaging. |
