@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 20 Feb 2024 00:23:53 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 25 Mar 2024 08:03:41 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -1325,8 +1325,8 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://bard.google.com"&gt;Bard AI&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Bard AI is an artificial intelligence chatbot developed by Google.&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://aitestkitchen.withgoogle.com"&gt;AI Test Kitchen&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;AI Test Kitchen is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://bing.com"&gt;Bing Chat&lt;/a&gt;&lt;/td&gt;
@@ -1335,6 +1335,10 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://chat.openai.com"&gt;ChatGPT&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://gemini.google.com"&gt;Google Gemini&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://perplexity.ai"&gt;Perplexity.ai&lt;/a&gt;&lt;/td&gt;
