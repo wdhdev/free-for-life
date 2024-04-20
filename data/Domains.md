@@ -11,6 +11,7 @@
 | [is-an.app & 1bt.uk](https://github.com/tarampampam/free-domains) | Grab your own subdomain (for personal sites, open-source projects, and more) for free. | ❌ |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
 | [Netfy Domains](https://netfy.domains) | Get a netfy.* domain. | ❌ |
+| [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ❌ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. | ❌ |
