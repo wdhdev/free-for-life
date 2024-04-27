@@ -80,10 +80,10 @@ A massive list including a huge amount of products and services that are complet
 | [Bing Chat](https://bing.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
 | [ChatGPT](https://chat.openai.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
+| [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
-
 <!-- BaaS.md -->
 ## BaaS
 
@@ -139,20 +139,20 @@ A massive list including a huge amount of products and services that are complet
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
+| [OnlineGDB](https://www.onlinegdb.com) | Online compiler and debugger for C/C++ and other languages. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
 | [VSCodium](https://vscodium.com) | Highly configurable and open source code editor with plugins, themes, and more. Runs everywhere. Visual Studio Code built from the source, stripped of Microsoft's telemetry and tracking. |
-
 <!-- Code_Generation.md -->
 ## Code Generation
 
 | Website | Description |
 |:-:|-|
+| [Blackbox](https://www.blackbox.ai) | AI code generation, chat and search. |
 | [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
-
 <!-- DNS.md -->
 ## DNS
 
