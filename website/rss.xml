@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 20 Apr 2024 23:25:19 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 27 Apr 2024 11:02:53 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -1096,6 +1096,10 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://www.blackbox.ai"&gt;Blackbox&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;AI code generation, chat and search.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.codeium.com"&gt;Codeium&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs.&lt;/td&gt;
 &lt;/tr&gt;
@@ -1156,6 +1160,10 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://notepad-plus-plus.org"&gt;Notepad++&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;A free and open-source text and source code editor for use with Microsoft Windows.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://www.onlinegdb.com"&gt;OnlineGDB&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Online compiler and debugger for C/C++ and other languages.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.sublimetext.com"&gt;Sublime Text&lt;/a&gt;&lt;/td&gt;
@@ -1344,6 +1352,10 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://gemini.google.com"&gt;Google Gemini&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://huggingface.co"&gt;Hugging Face&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The platform where the machine learning community collaborates on models, datasets, and applications.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://perplexity.ai"&gt;Perplexity.ai&lt;/a&gt;&lt;/td&gt;
