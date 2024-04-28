@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 27 Apr 2024 11:02:53 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 28 Apr 2024 01:43:52 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -11,6 +11,7 @@
 &lt;li&gt;&lt;a href="#baas"&gt;BaaS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#code-editors"&gt;Code Editors&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#code-generation"&gt;Code Generation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#courses"&gt;Courses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#dns"&gt;DNS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#databases"&gt;Databases&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#design-and-ui"&gt;Design &amp;amp; UI&lt;/a&gt;&lt;/li&gt;
@@ -1084,6 +1085,20 @@
 &lt;td style="text-align: center;"&gt;&lt;a href="https://quad9.net"&gt;Quad9&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;Resolver&lt;/td&gt;
 &lt;td&gt;A security and privacy focused non-profit DNS service with no IP logging.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>courses</title><link>https://free.wdh.gg/#/?id=courses</link><description>&lt;h2&gt;Courses&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;Website&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://hackerrank.com"&gt;HackerRank&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;HackerRank is a platform for improving programming skills, finding jobs, and connecting with tech companies.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>code-generation</title><link>https://free.wdh.gg/#/?id=code-generation</link><description>&lt;h2&gt;Code Generation&lt;/h2&gt;
