@@ -71,6 +71,7 @@ A massive list including a huge amount of products and services that are complet
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
+| [Statsig]([https://statsig.com/) | All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month. |
 
 <!-- Artificial_Intelligence.md -->
 ## Artificial Intelligence
