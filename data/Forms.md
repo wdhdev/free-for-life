@@ -20,6 +20,7 @@
 | [HeroTofu.com](https://herotofu.com) | Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, 250 submissions per month, 250MB file storage, ActiveCampaign, and Zapier. |
 | [HeyForm.net](https://heyform.net) | Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, one form, or Zapier. Use your own frontend, redirects, single email notifications. |
 | [Hyperforms.app](https://hyperforms.app) | Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free. |
+| [Jotform](https://jotform.com) | An easy, but feature-rich website to create forms. |
 | [Kwes.io](https://kwes.io) | Feature-rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month. |
 | [Pageclip](https://pageclip.co) | Free plan allows one site, anti-spam, auto-response, but allows unlimited envelopes + signatures. |
 | [Qualtrics Survey](https://qualtrics.com/free-account) | Create professional forms & survey using this first-class tool. 50+ expert-designed survey templates. Free Account has a limit of 1 active survey, 1 form, 10 elements per survey. |
