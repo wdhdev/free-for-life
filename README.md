@@ -71,7 +71,6 @@ A massive list including a huge amount of products and services that are complet
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
-| [Statsig]([https://statsig.com/) | All-in-one platform spanning across analytics, feature flagging, and A/B testing. Free for up to 1m metered events per month. |
 
 <!-- Artificial_Intelligence.md -->
 ## Artificial Intelligence
@@ -343,6 +342,7 @@ A massive list including a huge amount of products and services that are complet
 | [HeroTofu.com](https://herotofu.com) | Forms backend with bot detection and encrypted archive. Forward submissions via UI to email, 250 submissions per month, 250MB file storage, ActiveCampaign, and Zapier. |
 | [HeyForm.net](https://heyform.net) | Drag and drop online form builder. Free tier lets you create unlimited forms and collect unlimited submissions. Comes with pre-built templates, one form, or Zapier. Use your own frontend, redirects, single email notifications. |
 | [Hyperforms.app](https://hyperforms.app) | Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free. |
+| [Jotform](https://jotform.com) | An easy, but feature-rich website to create forms. |
 | [Kwes.io](https://kwes.io) | Feature-rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month. |
 | [Pageclip](https://pageclip.co) | Free plan allows one site, anti-spam, auto-response, but allows unlimited envelopes + signatures. |
 | [Qualtrics Survey](https://qualtrics.com/free-account) | Create professional forms & survey using this first-class tool. 50+ expert-designed survey templates. Free Account has a limit of 1 active survey, 1 form, 10 elements per survey. |
