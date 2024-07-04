@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 25 Jun 2024 01:39:03 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 04 Jul 2024 02:30:31 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -119,6 +119,10 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://paymenter.org"&gt;Paymenter&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free and open-source solution for hostings. Free forever&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://qonversion.io"&gt;Qonversion&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.revenuecat.com"&gt;RevenueCat&lt;/a&gt;&lt;/td&gt;
