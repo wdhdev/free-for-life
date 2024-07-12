@@ -239,6 +239,7 @@ A massive list including a huge amount of products and services that are complet
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [proj.at & proj.sbs](https://github.com/proj-at/subdomains) | Get your own proj.sbs / proj.at subdomains, free for open-source developers. | ❌ |
 | [thedev.id](https://thedev.id) | A free thedev.id subdomain for developers. | ❌ |
+| [thedev.me](https://thedev.me) | Free {name}.thedev.me domain for projects and personal sites. | ❌ |
 
 <!-- Email.md -->
 ## Email
