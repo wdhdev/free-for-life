@@ -22,7 +22,6 @@
 | [MailerSend](https://www.mailersend.com) | Email API, SMTP, 12,000 emails/month free for transactional emails. |
 | [mailinator](https://www.mailinator.com) | Free, public email system where you can use any inbox you want. |
 | [mailjet](https://www.mailjet.com) | 6,000 emails/month free (200 emails daily sending limit). |
-| [mailkitchen](https://www.mailkitchen.com) | Free for life without commitment, 10,000 emails/month, 1,000 emails/day. |
 | [Mailnesia](https://mailnesia.com) | Free temporary/disposable email, which auto-visit registration link. |
 | [mailsac](https://mailsac.com) | Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit). |
 | [Mail Tester](https://www.mail-tester.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month. |
