@@ -27,5 +27,5 @@ jobs:
                   git config --local user.name "GitHub Actions"
                   git pull
                   git add README.md
-                  git commit -m "docs(readme): update data"
+                  git commit -m "chore: update readme"
                   git push
