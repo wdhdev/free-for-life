@@ -21,6 +21,9 @@ jobs:
                   chmod +x scripts/update-readme.sh
                   ./scripts/update-readme.sh
 
+            - name: Sleep for 30 seconds
+              run: sleep 30
+
             - name: Commit
               run: |
                   git config --local user.email "actions@github.com"
