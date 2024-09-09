@@ -237,6 +237,7 @@ A massive list including a huge amount of products and services that are complet
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
 | [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
+| [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with PSL support, and on `pride.moe`, `pride.ngo` without PSL support. | ℹ️ `pride.moe` and `pride.ngo` are not listed, the rest are however. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
 
@@ -246,6 +247,7 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [10minutemail](https://10minutemail.com) | Free, temporary email for testing. |
+| [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
