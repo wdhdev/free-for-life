@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 04 Sep 2024 10:27:29 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2024 09:55:22 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -838,6 +838,11 @@
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://dot.nyc.mn"&gt;NYC.mn&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Free subdomains for individuals and businesses related to New York City. New York City IP address required for application.&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://obl.ong"&gt;Obl.ong&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today!&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
@@ -850,6 +855,11 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://pp.ua"&gt;pp.ua&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free pp.ua subdomains.&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://nic.us.kg"&gt;us.kg&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation.&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -1018,6 +1028,11 @@
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.cloudflare.com/dns"&gt;Cloudflare&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;Nameservers&lt;/td&gt;
 &lt;td&gt;Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://controld.com/free-dns"&gt;Control-D Free DNS&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Resolver&lt;/td&gt;
+&lt;td&gt;Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.duckdns.org"&gt;Duck DNS&lt;/a&gt;&lt;/td&gt;
@@ -1483,6 +1498,10 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.diggernaut.com"&gt;Diggernaut&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://freeflarum.com"&gt;FreeFlarum&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://ip.city"&gt;IP.City&lt;/a&gt;&lt;/td&gt;

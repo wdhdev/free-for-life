@@ -171,6 +171,7 @@ A massive list including a huge amount of products and services that are complet
 | [AdGuard DNS](https://adguard-dns.io) | Resolver | AdGuard DNS allows you to control web traffic on your devices by blocking ads, trackers, and malicious domains. |
 | [Bunny DNS](https://bunny.net/dns) | Nameservers | Bunny DNS provides DNS hosting with 20 million free queries. |
 | [Cloudflare](https://www.cloudflare.com/dns) | Nameservers | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
+| [Control-D Free DNS](https://controld.com/free-dns) | Resolver | Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules. |
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns/) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
@@ -231,9 +232,11 @@ A massive list including a huge amount of products and services that are complet
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. | ✅ |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
+| [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
 | [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
+| [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
 
 <!-- Email.md -->
 ## Email
