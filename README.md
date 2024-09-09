@@ -60,6 +60,7 @@ A massive list including a huge amount of products and services that are complet
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [Mockae](https://mockae.com/) | Fake REST API powered by Lua. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
@@ -232,6 +233,7 @@ A massive list including a huge amount of products and services that are complet
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. | ✅ |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
+| [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
 | [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
