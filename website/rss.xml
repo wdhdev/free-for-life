@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2024 09:55:22 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 09 Sep 2024 09:58:32 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -835,6 +835,11 @@
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://js.org"&gt;js.org&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free js.org subdomains for GitHub Pages for the JavaScript community.&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://nic.ngo.us"&gt;NGO.us&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Free &lt;code&gt;.ngo.us&lt;/code&gt; subdomains for verified not-for-profit organizations, NGOs, and similar initiatives.&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
