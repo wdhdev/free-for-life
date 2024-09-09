@@ -10,3 +10,4 @@
 | [Obl.ong](https://obl.ong) | Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
+| [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
