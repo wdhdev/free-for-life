@@ -11,6 +11,7 @@
 - Illegal services
 - Self hosted services
 - Unfinished services
+- Free subdomain providers that are not listed on the [Public Suffix List](https://publicsuffix.org)
 
 ## ✏️ Adding Services
 1. Check if the service is already on the list.
