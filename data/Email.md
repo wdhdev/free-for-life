@@ -3,6 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [10minutemail](https://10minutemail.com) | Free, temporary email for testing. |
+| [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
