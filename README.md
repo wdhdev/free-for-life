@@ -216,6 +216,7 @@ A massive list including a huge amount of products and services that are complet
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
+| [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
@@ -235,7 +236,7 @@ A massive list including a huge amount of products and services that are complet
 |:-:|-|:-:|
 | [getlocalcert.net](https://www.getlocalcert.net) | Free subdomains for private network use. | ✅ |
 | [is-a.dev](https://www.is-a.dev) | Free is-a.dev subdomain for developers. | ✅ |
-| [is-a-good.dev](https://is-a-good.dev) | A free is-a-good-dev subdomain for developers. | ✅ |
+| [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [js.org](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
