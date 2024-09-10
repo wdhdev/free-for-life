@@ -171,7 +171,9 @@ A massive list including a huge amount of products and services that are complet
 | Website | Type | Description |
 |:-:|:-:|-|
 | [1.1.1.1](https://1.1.1.1) | Resolver | A free public DNS resolver provided by Cloudflare with fast and secure DNS resolution. |
+| [1984 Hosting FreeDNS](https://1984.hosting/product/freedns) | Nameservers | 1984 is a green ethical hosting company in Iceland. Founded in 2006, 1984 has been dedicated to freedom of speech. You register a user on the 1984 home page and after that you can use FreeDNS for your domains. You will have full control over any domain you register to the FreeDNS service. It's all for free. |
 | [AdGuard DNS](https://adguard-dns.io) | Resolver | AdGuard DNS allows you to control web traffic on your devices by blocking ads, trackers, and malicious domains. |
+| [Afraid.org FreeDNS](https://freedns.afraid.org) | Nameservers | Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting. |
 | [Bunny DNS](https://bunny.net/dns) | Nameservers | Bunny DNS provides DNS hosting with 20 million free queries. |
 | [Cloudflare](https://www.cloudflare.com/dns) | Nameservers | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
 | [Control-D Free DNS](https://controld.com/free-dns) | Resolver | Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules. |
@@ -314,6 +316,7 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
+| [AWS Educate](https://aws.amazon.com/education/awseducate) | AWS Educate provides students and educators with no-cost access to cloud computing skills training developed by AWS experts, plus career pathways for students. |
 | [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
 | [GitHub Education Pack](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
 | [JetBrains](https://www.jetbrains.com/community/education) | Get free access to all JetBrains IDEs for personal use at school or at home, as long as you're a teacher or a student. |
