@@ -26,8 +26,8 @@ jobs:
 
             - name: Commit
               run: |
-                  git config --local user.email "actions@github.com"
-                  git config --local user.name "GitHub Actions"
+                  git config --global user.email "actions@github.com"
+                  git config --global user.name "GitHub Actions"
                   git add README.md
                   git pull
                   git commit -m "chore: update readme"
