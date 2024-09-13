@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.wdh.gg/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 10 Sep 2024 00:23:30 +0000</lastBuildDate><item><title>-start</title><link>https://free.wdh.gg/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 10 Sep 2024 00:23:30 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
-🤝 &lt;a href="https://free.wdh.gg/#/contributing"&gt;Contribute&lt;/a&gt;&lt;/p&gt;
+🤝 &lt;a href="https://free.hrsn.dev/#/contributing"&gt;Contribute&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;Table of Contents&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="#apis-data-and-ml"&gt;APIs, Data &amp;amp; ML&lt;/a&gt;&lt;/li&gt;
@@ -25,7 +25,7 @@
 &lt;li&gt;&lt;a href="#paas"&gt;PaaS&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#payments-and-billing"&gt;Payments &amp;amp; Billing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#ssl"&gt;SSL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>ssl</title><link>https://free.wdh.gg/#/?id=ssl</link><description>&lt;h2&gt;SSL&lt;/h2&gt;
+&lt;/ul&gt;</description></item><item><title>ssl</title><link>https://free.hrsn.dev/#/?id=ssl</link><description>&lt;h2&gt;SSL&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -55,7 +55,7 @@
 &lt;td&gt;Provides account driven SSL management and monitoring, certificates are provisioned with a 90 day lifespan on the free tier.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>payments-and-billing</title><link>https://free.wdh.gg/#/?id=payments-and-billing</link><description>&lt;h2&gt;Payments and Billing&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>payments-and-billing</title><link>https://free.hrsn.dev/#/?id=payments-and-billing</link><description>&lt;h2&gt;Payments and Billing&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -129,7 +129,7 @@
 &lt;td&gt;Instant VAT number validation and EU VAT rates API. Free 100 API requests/month.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>paas</title><link>https://free.wdh.gg/#/?id=paas</link><description>&lt;h2&gt;PaaS&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>paas</title><link>https://free.hrsn.dev/#/?id=paas</link><description>&lt;h2&gt;PaaS&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -283,7 +283,7 @@
 &lt;td&gt;Free API Management platform to design, build, and deploy APIs to the edge. Add Authentication, Rate Limiting, API Documentation, and Monetization in minutes.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>messaging-and-streaming</title><link>https://free.wdh.gg/#/?id=messaging-and-streaming</link><description>&lt;h2&gt;Messaging and Streaming&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>messaging-and-streaming</title><link>https://free.hrsn.dev/#/?id=messaging-and-streaming</link><description>&lt;h2&gt;Messaging and Streaming&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -345,7 +345,7 @@
 &lt;td&gt;Web Push Notifications. Free for up to 10k subscribers, unlimited push notifications, and in-browser messaging.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>linux-distributions</title><link>https://free.wdh.gg/#/?id=linux-distributions</link><description>&lt;h2&gt;Linux Distributions&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>linux-distributions</title><link>https://free.hrsn.dev/#/?id=linux-distributions</link><description>&lt;h2&gt;Linux Distributions&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -395,7 +395,7 @@
 &lt;td&gt;Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>forms</title><link>https://free.wdh.gg/#/?id=forms</link><description>&lt;h2&gt;Forms&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>forms</title><link>https://free.hrsn.dev/#/?id=forms</link><description>&lt;h2&gt;Forms&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -533,7 +533,7 @@
 &lt;td&gt;Quick forms to use on websites. Free plan has a limit of 100 submissions each month.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>for-students</title><link>https://free.wdh.gg/#/?id=for-students</link><description>&lt;h2&gt;For Students&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>for-students</title><link>https://free.hrsn.dev/#/?id=for-students</link><description>&lt;h2&gt;For Students&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -575,7 +575,7 @@
 &lt;td&gt;Unity is free for educators at accredited educational institutions.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>font</title><link>https://free.wdh.gg/#/?id=font</link><description>&lt;h2&gt;Font&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>font</title><link>https://free.hrsn.dev/#/?id=font</link><description>&lt;h2&gt;Font&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -637,7 +637,7 @@
 &lt;td&gt;Nerd Fonts is a tool designed for developers that enhances fonts by adding a plethora of glyphs, including icons. This is achieved by incorporating additional glyphs from well-known 'iconic fonts' such as Font Awesome, Devicons, and Octicons, among others.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>email</title><link>https://free.wdh.gg/#/?id=email</link><description>&lt;h2&gt;Email&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>email</title><link>https://free.hrsn.dev/#/?id=email</link><description>&lt;h2&gt;Email&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -811,7 +811,7 @@
 &lt;td&gt;Free for 5 users. 5GB/user &amp;amp; 25 MB attachment limit, 1 domain.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>domains</title><link>https://free.wdh.gg/#/?id=domains</link><description>&lt;h2&gt;Domains&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>domains</title><link>https://free.hrsn.dev/#/?id=domains</link><description>&lt;h2&gt;Domains&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -877,7 +877,7 @@
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>design-and-ui</title><link>https://free.wdh.gg/#/?id=design-and-ui</link><description>&lt;h2&gt;Design and UI&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>design-and-ui</title><link>https://free.hrsn.dev/#/?id=design-and-ui</link><description>&lt;h2&gt;Design and UI&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -947,7 +947,7 @@
 &lt;td&gt;A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>databases</title><link>https://free.wdh.gg/#/?id=databases</link><description>&lt;h2&gt;Databases&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>databases</title><link>https://free.hrsn.dev/#/?id=databases</link><description>&lt;h2&gt;Databases&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1017,7 +1017,7 @@
 &lt;td&gt;Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>dns</title><link>https://free.wdh.gg/#/?id=dns</link><description>&lt;h2&gt;DNS&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>dns</title><link>https://free.hrsn.dev/#/?id=dns</link><description>&lt;h2&gt;DNS&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1108,7 +1108,7 @@
 &lt;td&gt;A security and privacy focused non-profit DNS service with no IP logging.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>courses</title><link>https://free.wdh.gg/#/?id=courses</link><description>&lt;h2&gt;Courses&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>courses</title><link>https://free.hrsn.dev/#/?id=courses</link><description>&lt;h2&gt;Courses&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1130,7 +1130,7 @@
 &lt;td&gt;This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>code-generation</title><link>https://free.wdh.gg/#/?id=code-generation</link><description>&lt;h2&gt;Code Generation&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>code-generation</title><link>https://free.hrsn.dev/#/?id=code-generation</link><description>&lt;h2&gt;Code Generation&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1156,7 +1156,7 @@
 &lt;td&gt;Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>code-editors</title><link>https://free.wdh.gg/#/?id=code-editors</link><description>&lt;h2&gt;Code Editors&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>code-editors</title><link>https://free.hrsn.dev/#/?id=code-editors</link><description>&lt;h2&gt;Code Editors&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1226,7 +1226,7 @@
 &lt;td&gt;Highly configurable and open source code editor with plugins, themes, and more. Runs everywhere. Visual Studio Code built from the source, stripped of Microsoft's telemetry and tracking.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>baas</title><link>https://free.wdh.gg/#/?id=baas</link><description>&lt;h2&gt;BaaS&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>baas</title><link>https://free.hrsn.dev/#/?id=baas</link><description>&lt;h2&gt;BaaS&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1372,7 +1372,7 @@
 &lt;td&gt;Connect the apps you use to automate tasks. 5 zaps every 15 minutes and 100 tasks/month.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>artificial-intelligence</title><link>https://free.wdh.gg/#/?id=artificial-intelligence</link><description>&lt;h2&gt;Artificial Intelligence&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>artificial-intelligence</title><link>https://free.hrsn.dev/#/?id=artificial-intelligence</link><description>&lt;h2&gt;Artificial Intelligence&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1414,7 +1414,7 @@
 &lt;td&gt;Poe is chat-based AI. Uses GPT-3.5.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>apis-data-and-ml</title><link>https://free.wdh.gg/#/?id=apis-data-and-ml</link><description>&lt;h2&gt;APIs, Data and ML&lt;/h2&gt;
+&lt;/table&gt;</description></item><item><title>apis-data-and-ml</title><link>https://free.hrsn.dev/#/?id=apis-data-and-ml</link><description>&lt;h2&gt;APIs, Data and ML&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1588,4 +1588,4 @@
 &lt;td&gt;Free URL Shortening API without authorization and no request limits.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>-end</title><link>https://free.wdh.gg/#/?id=-end</link><description>&lt;p&gt;⬆️ &lt;a href="#table-of-contents"&gt;&lt;strong&gt;Back to Top&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;/table&gt;</description></item><item><title>-end</title><link>https://free.hrsn.dev/#/?id=-end</link><description>&lt;p&gt;⬆️ &lt;a href="#table-of-contents"&gt;&lt;strong&gt;Back to Top&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>

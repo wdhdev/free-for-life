@@ -3,7 +3,7 @@ A massive list including a huge amount of products and services that are complet
 
 ⭐ [Star on GitHub](https://github.com/wdhdev/free-for-life)
 &bull;
-🤝 [Contribute](https://free.wdh.gg/#/contributing)
+🤝 [Contribute](https://free.hrsn.dev/#/contributing)
 
 # Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)

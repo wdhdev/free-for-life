@@ -20,7 +20,7 @@ def add_entry(feed: FeedGenerator, filename: str):
         fe = feed.add_entry()
         formatted_filename = filename.lower()[:-3].replace("_", "-")
         fe.title(formatted_filename)
-        fe.link(href=f"https://free.wdh.gg/#/?id={formatted_filename}")
+        fe.link(href=f"https://free.hrsn.dev/#/?id={formatted_filename}")
         fe.description(html_content)
 
     end_time = time.time()
@@ -31,7 +31,7 @@ def main():
     start_time = time.time()
     fg = FeedGenerator()
     fg.title("Free For Life")
-    fg.link(href="https://free.wdh.gg/", rel="alternate")
+    fg.link(href="https://free.hrsn.dev/", rel="alternate")
     fg.description("A massive list including a huge amount of products and services that are completely free!")
     fg.language("en")
 
