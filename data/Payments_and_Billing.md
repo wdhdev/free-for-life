@@ -14,6 +14,7 @@
 | [FraudLabsPRO](https://www.fraudlabspro.com) | Help merchants prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month. |
 | [MailPopin](https://mailpop.in) | Get the most of your Stripe notifications with contextualized information. |
 | [Nami ML](https://www.namiml.com) | Complete platform for in-app purchases and subscriptions on iOS and Android, including no-code paywalls, CRM, and analytics. Free for all base features to run an IAP business. |
+| [ParityVend](https://www.ambeteco.com/ParityVend) | Automatically adjust pricing based on visitor location to expand your business globally and reach new markets (purchasing power parity). The free plan includes 7,500 API requests/month. |
 | [Paymenter](https://paymenter.org) | Free and open-source solution for hostings. Free forever |
 | [Qonversion](https://qonversion.io) | All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
