@@ -62,8 +62,8 @@ A massive list including a huge amount of products and services that are complet
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
-| [JSONing](https://jsoning.com/api/) | Create a mock API from a JSON file for testing and prototyping. |
-| [Mockae](https://mockae.com/) | Fake REST API powered by Lua. |
+| [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
+| [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
@@ -162,7 +162,7 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
-| [CS50x](https://cs50.harvard.edu/x) | Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience.|
+| [CS50x](https://cs50.harvard.edu/x) | Harvard University's introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience.|
 | [freeCodeCamp](https://www.freecodecamp.org) | freeCodeCamp is a non-profit educational organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning software development accessible to anyone. |
 | [HackerRank](https://hackerrank.com) | HackerRank is a platform for improving programming skills, finding jobs, and connecting with tech companies. |
 | [Harvard Online Courses](https://pll.harvard.edu/catalog/free) | Provides free courses in computer science and programming, among other fields. |
@@ -184,7 +184,7 @@ A massive list including a huge amount of products and services that are complet
 | [Cloudflare](https://www.cloudflare.com/dns) | Nameservers | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
 | [Control-D Free DNS](https://controld.com/free-dns) | Resolver | Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules. |
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
-| [Glauca](https://docs.glauca.digital/hexdns/) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
+| [Glauca](https://docs.glauca.digital/hexdns) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
 | [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Resolver | Mullvad offers free DNS resolvers with DoT (DNS over TLS), DoH (DNS over HTTPS), and optional domain blocklists. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Nameservers | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
@@ -384,7 +384,7 @@ A massive list including a huge amount of products and services that are complet
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
 | [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 | [Tails](https://tails.net) | Tails (The Amnesic Incognito Live System) is a privacy-focused Linux distribution designed to protect users' anonymity and security online. |
-| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe. |
+| [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world's most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
 
 <!-- Messaging_and_Streaming.md -->
