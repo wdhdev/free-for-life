@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 12 Oct 2024 09:11:04 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 12 Oct 2024 09:12:35 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;h1&gt;💸 Free For Life&lt;/h1&gt;
 &lt;p&gt;A massive list including a huge amount of products and services that are completely free!&lt;/p&gt;
 &lt;p&gt;⭐ &lt;a href="https://github.com/wdhdev/free-for-life"&gt;Star on GitHub&lt;/a&gt;
 &amp;bull;
@@ -396,7 +396,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://ubuntu.com"&gt;Ubuntu&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;The Ubuntu desktop is by far the world’s most widely used Linux workstation platform, powering the work of engineers across the globe.&lt;/td&gt;
+&lt;td&gt;The Ubuntu desktop is by far the world's most widely used Linux workstation platform, powering the work of engineers across the globe.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://zorin.com/os"&gt;Zorin OS&lt;/a&gt;&lt;/td&gt;
@@ -1076,7 +1076,7 @@
 &lt;td&gt;Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://docs.glauca.digital/hexdns/"&gt;Glauca&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://docs.glauca.digital/hexdns"&gt;Glauca&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;Nameservers&lt;/td&gt;
 &lt;td&gt;Glauca offers free DNS hosting for up to 3 domains with DNSSEC support.&lt;/td&gt;
 &lt;/tr&gt;
@@ -1127,7 +1127,7 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://cs50.harvard.edu/x"&gt;CS50x&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience.&lt;/td&gt;
+&lt;td&gt;Harvard University's introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.freecodecamp.org"&gt;freeCodeCamp&lt;/a&gt;&lt;/td&gt;
@@ -1572,11 +1572,11 @@
 &lt;td&gt;100 free IP geo-location requests per day.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://jsoning.com/api/"&gt;JSONing&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://jsoning.com/api"&gt;JSONing&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Create a mock API from a JSON file for testing and prototyping.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://mockae.com/"&gt;Mockae&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://mockae.com"&gt;Mockae&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Fake REST API powered by Lua.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
