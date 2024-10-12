@@ -32,8 +32,8 @@
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
-| [JSONing](https://jsoning.com/api/) | Create a mock API from a JSON file for testing and prototyping. |
-| [Mockae](https://mockae.com/) | Fake REST API powered by Lua. |
+| [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
+| [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
