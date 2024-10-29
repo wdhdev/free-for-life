@@ -13,3 +13,5 @@
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it` with PSL support, and on `pride.moe`, `pride.ngo` without PSL support. | ℹ️ `pride.moe` and `pride.ngo` are not listed, the rest are however. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
+| [part-of.my.id](https://part-of.my.id/) | your id on the web | ✅ |
+| [really.is-a.dev](https://really.is-a.dev/) | really.is-a.dev is a free sub-domain service offering nested sub-domains like ukriu.really.is-a.dev! | ✅ |
