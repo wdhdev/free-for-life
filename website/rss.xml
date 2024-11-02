@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 01 Nov 2024 09:17:10 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 02 Nov 2024 14:12:27 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -423,11 +423,15 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://form-data.com"&gt;Form-Data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;No-code forms backend. Spam filter, 000 submissions per month.&lt;/td&gt;
+&lt;td&gt;Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://form.taxi"&gt;Form.taxi&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://formbricks.com"&gt;Formbricks&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;An open source Qualtrics alternative. Free plan offers unlimited surveys, unlimited team members and 1500 monthly responses.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://formcake.com"&gt;Formcake.com&lt;/a&gt;&lt;/td&gt;
@@ -443,7 +447,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.formingo.co"&gt;formingo.co&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Easy HTML forms for static websites, free plan allows unlimited forms, free plan allows unlimited forms, get started for free without registering an account. Free plan allows 500 submissions per month, no server code required. Free plan gives unlimited forms and 100 submissions per month.&lt;/td&gt;
+&lt;td&gt;Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.formkeep.com"&gt;FormKeep.com&lt;/a&gt;&lt;/td&gt;
@@ -455,7 +459,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://formpost.app"&gt;formpost.app&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Free, 20 submissions/month, and additional 2000 submissions with Form-Data badge.&lt;/td&gt;
+&lt;td&gt;Free endpoint for HTML forms&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://formspark.io"&gt;formspark.io&lt;/a&gt;&lt;/td&gt;
