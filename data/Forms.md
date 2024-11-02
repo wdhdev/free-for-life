@@ -5,6 +5,7 @@
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
 | [Form-Data](https://form-data.com) | No-code forms backend. Spam filter, 000 submissions per month. |
 | [Form.taxi](https://form.taxi) | Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications. |
+| [Formbricks](https://formbricks.com) | An open source Qualtrics alternative. Free plan offers unlimited surveys, unlimited team members and 1500 monthly responses. |
 | [Formcake.com](https://formcake.com) | Form backend for devs, spam protection, support by Customer assistance team. |
 | [Formcarry.com](https://formcarry.com) | HTTP POST form endpoint. |
 | [Formester.com](https://formester.com) | Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free. |
