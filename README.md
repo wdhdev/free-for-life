@@ -345,15 +345,16 @@ A massive list including a huge amount of products and services that are complet
 | Website | Description |
 |:-:|-|
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
-| [Form-Data](https://form-data.com) | No-code forms backend. Spam filter, 000 submissions per month. |
+| [Form-Data](https://form-data.com) |Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
 | [Form.taxi](https://form.taxi) | Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications. |
+| [Formbricks](https://formbricks.com) | An open source Qualtrics alternative. Free plan offers unlimited surveys, unlimited team members and 1500 monthly responses. |
 | [Formcake.com](https://formcake.com) | Form backend for devs, spam protection, support by Customer assistance team. |
 | [Formcarry.com](https://formcarry.com) | HTTP POST form endpoint. |
 | [Formester.com](https://formester.com) | Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free. |
-| [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows unlimited forms, free plan allows unlimited forms, get started for free without registering an account. Free plan allows 500 submissions per month, no server code required. Free plan gives unlimited forms and 100 submissions per month. |
+| [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required. |
 | [FormKeep.com](https://www.formkeep.com) | Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email, and others. |
 | [formlets.com](https://formlets.com) | Online forms, Airtable, AJAX or POST, and more. Free plan offers unlimited forms and 100MB file storage. |
-| [formpost.app](https://formpost.app) | Free, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
+| [formpost.app](https://formpost.app) | Free endpoint for HTML forms |
 | [formspark.io](https://formspark.io) | Form to Email service, file upload, forever free plan allows 50 submissions per month, form logic. Free plan allows 100 submissions per month. |
 | [Formspree.io](https://formspree.io) | Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month. |
 | [Formsubmit.co](https://formsubmit.co) | Easy form endpoints for your HTML forms. Free Forever. No registration required. |
