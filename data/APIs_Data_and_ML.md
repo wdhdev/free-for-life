@@ -34,6 +34,7 @@
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
+| [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
