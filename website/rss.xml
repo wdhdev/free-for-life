@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 05 Nov 2024 03:28:05 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 05 Nov 2024 03:29:15 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -1193,8 +1193,8 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;td&gt;Tabnine helps developers create better software, faster by providing insights learned from all the code in the world.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://zzzcode.ai/"&gt;ZZZ Code AI&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Welcome on ZZZ Code AI, our coding website powered by AI!&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://zzzcode.ai"&gt;ZZZ Code AI&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Welcome to ZZZ Code AI, our coding website powered by AI!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>code-editors</title><link>https://free.hrsn.dev/#/?id=code-editors</link><description>&lt;h2&gt;Code Editors&lt;/h2&gt;
