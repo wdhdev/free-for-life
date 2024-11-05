@@ -3,7 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
-| [Form-Data](https://form-data.com) |Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
+| [Form-Data](https://form-data.com) | Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
 | [Form.taxi](https://form.taxi) | Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications. |
 | [Formbricks](https://formbricks.com) | An open source Qualtrics alternative. Free plan offers unlimited surveys, unlimited team members and 1500 monthly responses. |
 | [Formcake.com](https://formcake.com) | Form backend for devs, spam protection, support by Customer assistance team. |
