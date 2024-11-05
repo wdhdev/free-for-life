@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 05 Nov 2024 03:29:15 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 05 Nov 2024 08:20:30 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -1591,6 +1591,10 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://mockae.com"&gt;Mockae&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Fake REST API powered by Lua.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://cntest.ontarionet.ca"&gt;OntarioNet CN Test&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://scrapersproxy.com"&gt;Scraper's Proxy&lt;/a&gt;&lt;/td&gt;
