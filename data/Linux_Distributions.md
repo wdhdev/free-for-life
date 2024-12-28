@@ -9,6 +9,7 @@
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |
 | [openSUSE](https://opensuse.org) | openSUSE is a flexible distribution available in both Leap (a stable version) and Tumbleweed (a rolling release) editions. It's known for its robust configuration tools and support for various desktop environments. |
+| [NixOS](https://nixos.org) | NixOS is a free and open source Linux distribution based on the Nix package manager. |
 | [Red Hat Enterprise Linux](https://redhat.com) | RHEL is a commercially supported distribution designed for enterprise and business use. It offers long-term support, stability, and security features. |
 | [Tails](https://tails.net) | Tails (The Amnesic Incognito Live System) is a privacy-focused Linux distribution designed to protect users' anonymity and security online. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world's most widely used Linux workstation platform, powering the work of engineers across the globe. |
