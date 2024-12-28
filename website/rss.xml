@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 13:02:00 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 13:04:27 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -42,6 +42,10 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.freessl.org"&gt;FreeSSL&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://cloud.google.com/certificate-manager/docs/public-ca-tutorial"&gt;Google Trust Services&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Helping build a safer Internet by providing a transparent, trusted, and reliable Certificate Authority.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://dash.infinityfree.com/sslCertificates"&gt;InfinityFree&lt;/a&gt;&lt;/td&gt;
