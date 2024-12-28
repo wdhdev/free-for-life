@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 08:00:32 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 08:54:04 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -830,13 +830,13 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;tr&gt;
 &lt;th style="text-align: center;"&gt;Website&lt;/th&gt;
 &lt;th&gt;Description&lt;/th&gt;
-&lt;th style="text-align: center;"&gt;&lt;a href="https://github.com/publicsuffix/list"&gt;PSL&lt;/a&gt; Status&lt;/th&gt;
+&lt;th style="text-align: center;"&gt;Listed on the &lt;a href="https://github.com/publicsuffix/list"&gt;Public Suffix List&lt;/a&gt;?&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://www.is-a.dev"&gt;is-a.dev&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Free is-a.dev subdomain for developers.&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://is-a.dev"&gt;is-a.dev&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Grab your own sweet-looking &lt;code&gt;.is-a.dev&lt;/code&gt; subdomain.&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -845,12 +845,12 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://js.org"&gt;js.org&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://js.org"&gt;JS.ORG&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free js.org subdomains for GitHub Pages for the JavaScript community.&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://localcert.net"&gt;Local Cert&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://localcert.net"&gt;LocalCert&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Free subdomains for private network use.&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;✅&lt;/td&gt;
 &lt;/tr&gt;
