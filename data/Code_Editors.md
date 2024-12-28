@@ -13,6 +13,7 @@
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [OnlineGDB](https://www.onlinegdb.com) | Online compiler and debugger for C/C++ and other languages. |
+| [Project IDX](https://idx.dev) | An online code editor made by Google for developers which incorporates AI. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
 | [Vim](https://www.vim.org) | A highly configurable terminal-based text editor built to make creating and changing any kind of text. |
 | [Visual Studio Code](https://code.visualstudio.com) | Code editing. Redefined. Free. Built on open source. Runs everywhere. |
