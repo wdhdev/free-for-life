@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 13:04:27 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sat, 28 Dec 2024 13:07:30 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -1431,15 +1431,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://aitestkitchen.withgoogle.com"&gt;AI Test Kitchen&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;AI Test Kitchen is a platform with currently 3 AI's: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://bing.com"&gt;Bing Chat&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: center;"&gt;&lt;a href="https://chat.openai.com"&gt;ChatGPT&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://chatgpt.com"&gt;ChatGPT&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1447,8 +1439,16 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;td&gt;Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://labs.google/fx"&gt;Google Labs - fx&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;fx is a platform with 3 AI models: ImageFX: allows you to make AI images, MusicFX: Allows you to generate AI Music, TextFX: Can explain words.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://huggingface.co"&gt;Hugging Face&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;The platform where the machine learning community collaborates on models, datasets, and applications.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://copilot.microsoft.com"&gt;Microsoft Copilot&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://perplexity.ai"&gt;Perplexity.ai&lt;/a&gt;&lt;/td&gt;
