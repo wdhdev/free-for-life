@@ -28,9 +28,8 @@
         <meta name="twitter:image" content="https://free.hrsn.dev/media/cover.png">
 
         <!-- Stylesheets -->
-        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css" title="docsify-darklight-theme" type="text/css">
-    </head>
+        <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+        <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">    </head>
 
     <body>
         <noscript>This page requires JavaScript to work, please enable it or read the list <a href="https://github.com/wdhdev/free-for-life#readme">here</a>.</noscript>
@@ -46,24 +45,11 @@
                     "/": "https://raw.githubusercontent.com/wdhdev/free-for-life/main/README.md",
                     "/contributing": "https://raw.githubusercontent.com/wdhdev/free-for-life/main/CONTRIBUTING.md",
                     "/license": "https://raw.githubusercontent.com/wdhdev/free-for-life/main/LICENSE"
-                },
-                darklightTheme: {
-                    siteFont: "Source Sans Pro, Helvetica Neue",
-                    defaultTheme: "light",
-                    codeFontFamily: "Roboto Mono, Monaco, courier, monospace",
-                    bodyFontSize: "15px"
                 }
             }
         </script>
 
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
         <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-        <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
-
-        <style>
-            blockquote:first-of-type {
-                background-color: rgba(235, 248, 242, 0.363);
-            }
-        </style>
     </body>
 </html>
