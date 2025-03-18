@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Sun, 02 Mar 2025 13:44:09 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 06:24:31 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -1091,6 +1091,11 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;td style="text-align: center;"&gt;&lt;a href="https://controld.com/free-dns"&gt;Control-D Free DNS&lt;/a&gt;&lt;/td&gt;
 &lt;td style="text-align: center;"&gt;Resolver&lt;/td&gt;
 &lt;td&gt;Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://desec.io"&gt;deSEC&lt;/a&gt;&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;Nameservers&lt;/td&gt;
+&lt;td&gt;deSEC is a DNS hosting service designed with security in mind. Free for everyone to use, it is run by a registered non-profit organization based in Germany.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://www.duckdns.org"&gt;Duck DNS&lt;/a&gt;&lt;/td&gt;
