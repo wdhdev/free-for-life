@@ -194,6 +194,7 @@ A massive list including a huge amount of products and services that are complet
 | [Bunny DNS](https://bunny.net/dns) | Nameservers | Bunny DNS provides DNS hosting with 20 million free queries. |
 | [Cloudflare](https://www.cloudflare.com/dns) | Nameservers | Cloudflare DNS is an enterprise-grade authoritative DNS service. It offers fast response times, high redundancy, advanced security features like built-in DDoS mitigation and DNSSEC. |
 | [Control-D Free DNS](https://controld.com/free-dns) | Resolver | Control-D is a DNS service that provides free public DNS resolvers to block ads, malware, and other unwanted content. It doesn't log data, supports encryption protocols, and operates with low latency using Anycast. It also offers paid plans with extra features like a transparent proxy and custom rules. |
+| [deSEC](https://desec.io) | Nameservers | deSEC is a DNS hosting service designed with security in mind. Free for everyone to use, it is run by a registered non-profit organization based in Germany. |
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
