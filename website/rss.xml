@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 06:24:31 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Free For Life</title><link>https://free.hrsn.dev/</link><description>A massive list including a huge amount of products and services that are completely free!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 18 Mar 2025 06:25:33 +0000</lastBuildDate><item><title>-start</title><link>https://free.hrsn.dev/#/?id=-start</link><description>&lt;!--
 ### DO NOT UPDATE THIS FILE DIRECTLY! ###
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 --&gt;
@@ -14,6 +14,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;li&gt;&lt;a href="#apis-data-and-ml"&gt;APIs, Data &amp;amp; ML&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#artificial-intelligence"&gt;Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#baas"&gt;BaaS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#calendar"&gt;Calendar&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#code-editors"&gt;Code Editors&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#code-generation"&gt;Code Generation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="#courses"&gt;Courses&lt;/a&gt;&lt;/li&gt;
@@ -1287,6 +1288,32 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 &lt;tr&gt;
 &lt;td style="text-align: center;"&gt;&lt;a href="https://vscodium.com"&gt;VSCodium&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Highly configurable and open source code editor with plugins, themes, and more. Runs everywhere. Visual Studio Code built from the source, stripped of Microsoft's telemetry and tracking.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>calendar</title><link>https://free.hrsn.dev/#/?id=calendar</link><description>&lt;h2&gt;Calendar&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center;"&gt;Website&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://www.chronolink.app"&gt;ChronoLink&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Flexibly synchronize calendars, create rules for selecting and transforming events. The free plan is restricted to one sync connection.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://gmail.com"&gt;Gmail&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Free personal email and calendar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://outlook.com"&gt;Outlook&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Free personal email and calendar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;a href="https://tutanota.com"&gt;Tutanota&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>baas</title><link>https://free.hrsn.dev/#/?id=baas</link><description>&lt;h2&gt;BaaS&lt;/h2&gt;
