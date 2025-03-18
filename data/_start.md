@@ -14,6 +14,7 @@ A massive list including a huge amount of products and services that are complet
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
+- [Calendar](#calendar)
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
 - [Courses](#courses)
