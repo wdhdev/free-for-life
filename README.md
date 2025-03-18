@@ -15,6 +15,7 @@ A massive list including a huge amount of products and services that are complet
 - [APIs, Data & ML](#apis-data-and-ml)
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
+- [Calendar](#calendar)
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
 - [Courses](#courses)
@@ -134,6 +135,16 @@ A massive list including a huge amount of products and services that are complet
 | [Supabase](https://supabase.com) | The Open Source Firebase Alternative to build backends. Free Plan offers Authentication, Realtime Database & Object Storage. |
 | [Tyk](https://tyk.io) | API management with authentication, quotas, monitoring, and analytics. Free cloud offering. |
 | [Zapier](https://zapier.com) | Connect the apps you use to automate tasks. 5 zaps every 15 minutes and 100 tasks/month. |
+
+<!-- Calendar.md -->
+## Calendar
+
+| Website | Description |
+|:-:|-|
+| [ChronoLink](https://www.chronolink.app) | Flexibly synchronize calendars, create rules for selecting and transforming events. The free plan is restricted to one sync connection. |
+| [Gmail](https://gmail.com) | Free personal email and calendar. |
+| [Outlook](https://outlook.com) | Free personal email and calendar. |
+| [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 
 <!-- Code_Editors.md -->
 ## Code Editors
