@@ -178,6 +178,7 @@ A massive list including a huge amount of products and services that are complet
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 | [ZZZ Code AI](https://zzzcode.ai) | Welcome to ZZZ Code AI, our coding website powered by AI! |
+| [Fynix](https://www.fynix.ai/) | Fynix combines real-time AI coding assistance with agent-powered code reviews. |
 
 <!-- Courses.md -->
 ## Courses
