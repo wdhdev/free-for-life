@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- HTML Meta Tags -->
+        <title>Free For Life</title>
+        <meta name="description" content="An extended list including a huge amount of products and services that are completely free!">
+
+        <!-- Google / Search Engine Tags -->
+        <meta itemprop="name" content="Free For Life">
+        <meta itemprop="description" content="An extended list including a huge amount of products and services that are completely free!">
+        <meta itemprop="image" content="https://free.hrsn.dev/media/cover.png">
+
+        <!-- Facebook Meta Tags -->
+        <meta property="og:url" content="https://free.hrsn.dev/readme">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Free For Life">
+        <meta property="og:description" content="An extended list including a huge amount of products and services that are completely free!">
+        <meta property="og:image" content="https://free.hrsn.dev/media/cover.png">
+
+        <!-- Twitter Meta Tags -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Free For Life">
+        <meta name="twitter:description" content="An extended list including a huge amount of products and services that are completely free!">
+        <meta name="twitter:image" content="https://free.hrsn.dev/media/cover.png">
+
+        <!-- Files -->
+        <link rel="preload" href="https://raw.githubusercontent.com/wdhdev/free-for-life/refs/heads/main/README.md" as="fetch" crossorigin="anonymous">
+
+        <!-- Stylesheets -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.8.1/github-markdown.min.css" rel="prefetch">
+
+        <!-- Scripts -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/15.0.7/marked.min.js" rel="prefetch"></script>
+    </head>
+
+    <style>
+        body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background-color: #0d1117;
+            }
+        }
+    </style>
+
+    <body>
+        <div class="markdown-body" id="content"><p>Loading...</p></div>
+
+        <script>
+            const markdownUrl = "https://raw.githubusercontent.com/wdhdev/free-for-life/refs/heads/main/README.md";
+
+            const container = document.getElementById("content");
+
+            // Fetch the Markdown file
+            fetch(markdownUrl)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Error fetching the file: ${response.statusText}`);
+                    }
+                    return response.text();
+                })
+                .then(markdown => {
+                    // Convert Markdown to HTML using Marked.js
+                    const htmlContent = marked.parse(markdown);
+
+                    // Insert the HTML into the container
+                    container.innerHTML = htmlContent;
+                })
+                .catch(err => {
+                    console.error(err);
+                    container.innerHTML = `<h3>An error occurred</h3><pre><code>${err}</code></pre>`;
+                });
+        </script>
+    </body>
+</html>
