@@ -59,17 +59,15 @@
             const markdownUrl = "https://raw.githubusercontent.com/wdhdev/free-for-life/refs/heads/main/README.md";
             const container = document.getElementById("content");
 
-            // Create custom renderer to add ID attributes to headings
-            const renderer = new marked.Renderer();
-            const slugger = new marked.Slugger();
-
-            renderer.heading = function (text, level, raw, slugger) {
-                const id = slugger.slug(raw);
-                return `<h${level} id="${id}">${text}</h${level}>\n`;
+            const renderer = {
+                heading(text, level, raw, slugger) {
+                    const id = slugger.slug(raw);
+                    return `<h${level} id="${id}">${text}</h${level}>\n`;
+                }
             };
-            marked.setOptions({ renderer });
-
-            // Fetch the Markdown file
+        
+            marked.use({ renderer });
+        
             fetch(markdownUrl)
                 .then(response => {
                     if (!response.ok) {
