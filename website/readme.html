@@ -61,6 +61,8 @@
 
             // Create custom renderer to add ID attributes to headings
             const renderer = new marked.Renderer();
+            const slugger = new marked.Slugger();
+
             renderer.heading = function (text, level, raw, slugger) {
                 const id = slugger.slug(raw);
                 return `<h${level} id="${id}">${text}</h${level}>\n`;
