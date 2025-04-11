@@ -57,8 +57,15 @@
 
         <script>
             const markdownUrl = "https://raw.githubusercontent.com/wdhdev/free-for-life/refs/heads/main/README.md";
-
             const container = document.getElementById("content");
+
+            // Create custom renderer to add ID attributes to headings
+            const renderer = new marked.Renderer();
+            renderer.heading = function (text, level, raw, slugger) {
+                const id = slugger.slug(raw);
+                return `<h${level} id="${id}">${text}</h${level}>\n`;
+            };
+            marked.setOptions({ renderer });
 
             // Fetch the Markdown file
             fetch(markdownUrl)
@@ -69,10 +76,7 @@
                     return response.text();
                 })
                 .then(markdown => {
-                    // Convert Markdown to HTML using Marked.js
                     const htmlContent = marked.parse(markdown);
-
-                    // Insert the HTML into the container
                     container.innerHTML = htmlContent;
                 })
                 .catch(err => {
