@@ -5,7 +5,6 @@
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
-| [API Mocha](https://apimocha.com) | Completely free online API mocking for testing and prototyping. Make up to 500 requests per day, fully customizable API responses, download mock rules as a Postman collection. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
@@ -44,4 +43,3 @@
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
-| [shrtcode API](https://shrtco.de/docs) | Free URL Shortening API without authorization and no request limits. |
