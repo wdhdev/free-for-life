@@ -265,6 +265,7 @@ A massive list including a huge amount of products and services that are complet
 | [is-a.dev](https://is-a.dev) | Grab your own sweet-looking `.is-a.dev` subdomain. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
+| [yeet.su](httpas://yeet.su) | Get your free subdomain with an easy graphical interface. | ❓ |
 | [LocalCert](https://localcert.net) | Free subdomains for private network use. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
