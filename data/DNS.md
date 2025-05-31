@@ -13,7 +13,7 @@
 | [Duck DNS](https://www.duckdns.org) | Nameservers | Duck DNS offers free dynamic DNS (DDNS) with support for up to 5 domains on the free tier. It provides configuration guides for various setups. |
 | [Glauca](https://docs.glauca.digital/hexdns) | Nameservers | Glauca offers free DNS hosting for up to 3 domains with DNSSEC support. |
 | [Google Public DNS](https://developers.google.com/speed/public-dns) | Resolver | Google Public DNS is a DNS service developed by Google. |
-| [LocalCert] | Nameservers | Free `.localcert.net` subdomains for hosting internal applications with HTTPS. |
+| [LocalCert](https://localcert.net) | Nameservers | Free `.localcert.net` subdomains for hosting internal applications with HTTPS. |
 | [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Resolver | Mullvad offers free DNS resolvers with DoT (DNS over TLS), DoH (DNS over HTTPS), and optional domain blocklists. |
 | [Namecheap FreeDNS](https://www.namecheap.com/domains/freedns) | Nameservers | Namecheap FreeDNS allows you to keep your domain visible on the internet. It provides DNS hosting with secondary DNS backup to ensure availability. |
 | [NextDNS](https://nextdns.io) | Resolver | Similiar to AdGuard DNS, a DNS resolution service which allows you to specify allow/deny lists |
