@@ -257,6 +257,7 @@ A massive list including a huge amount of products and services that are complet
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
+| [FlyonUI](https://flyonui.com/) | Free, open-source component library for Tailwind CSS, offering pre-built UI elements, interactive plugins, and seamless framework integration. |
 
 <!-- Domains.md -->
 ## Domains
