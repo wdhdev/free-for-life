@@ -29,6 +29,7 @@ A massive list including a huge amount of products and services that are complet
 - [Forms](#forms)
 - [Linux Distributions](#linux-distributions)
 - [Messaging & Streaming](#messaging-and-streaming)
+- [Monitoring](#monitoring)
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
 - [SSL](#ssl)
@@ -431,6 +432,14 @@ A massive list including a huge amount of products and services that are complet
 | [Synadia](https://synadia.com/ngs) | [NATS.io](https://nats.io) as a service. Global, AWS, GCP, and Azure. Free forever with 4k message size, 50 active connections, and 5GB of data per month. |
 | [Upstash Kafka](https://upstash.com/kafka) | Serverless Kafka Cloud offering with per-request pricing. It has a free tier with a maximum of 10,000 messages per day. |
 | [webpushr](https://www.webpushr.com) | Web Push Notifications. Free for up to 10k subscribers, unlimited push notifications, and in-browser messaging. |
+
+<!-- Monitoring.md -->
+## Monitoring
+
+| Website | Description |
+|:-:|-|
+| [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
+| [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 
 <!-- PaaS.md -->
 ## PaaS
