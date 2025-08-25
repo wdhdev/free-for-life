@@ -5,6 +5,7 @@
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
 | [elementary OS](https://elementary.io) | elementary OS is known for its beautiful and user-friendly design. It provides a simple and elegant user interface. |
+| [Garuda Linux](https://garudalinux.org) | Simple by default, powerful when needed. Garuda Linux provides opinionated settings that make the Arch Linux base easy to use. |
 | [Kali Linux](https://www.kali.org) | Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering. |
 | [Kubuntu](https://kubuntu.org) | Kubuntu is an operating system built by a worldwide community of developers, testers, supporters and translators. |
 | [Linux Mint](https://linuxmint.com) | Linux Mint is one of most popular linux distributions ever. Mission of Linux Mint is to keep it simple and fun. |

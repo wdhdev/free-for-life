@@ -29,6 +29,8 @@
 | [Mailtie](https://mailtie.com) | Free Email Forwarding for Your Domain. No registration required. Free Forever. |
 | [Mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
 | [Mail Validator](https://mailvalidator.io) | Verify 300 emails/month for free, real-time API with bulk processing available. |
+| [Mail.gw](https://mail.gw) | Temporary emails valid for 10 days. Option to manually delete (kill) email addresses. |
+| [Mail.tm](https://mail.tm/en) | Unlimited temporary emails with email + password support and option to create custom aliases (alternative email addresses pointing to the same inbox). |
 | [Moosend](https://moosend.com) | Mailing list management service. Free account for 6 months for startups. |
 | [Mutant Mail](https://www.mutantmail.com) | Free 10 Email IDs, 1 Domain, 1 Mailbox. Single Mailbox for All Email IDs. |
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
