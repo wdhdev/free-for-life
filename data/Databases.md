@@ -17,3 +17,4 @@
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. | 
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | 
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
+| [Turso](https://turso.tech) | Turso is a serverless, edge-deployed SQLite database that gives you low-latency, globally replicated data without managing servers. |
