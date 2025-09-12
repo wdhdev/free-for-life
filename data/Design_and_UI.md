@@ -9,6 +9,7 @@
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
+| [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
