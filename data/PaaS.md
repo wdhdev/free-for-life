@@ -3,7 +3,6 @@
 | Website | Description |
 |:-:|-|
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
-| [Braintree](braintreepayments.com) | Boost Revenue with a Global Payments Partner. |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
 | [Deno Deploy](https://deno.com/deploy) | Distributed system that runs JavaScript, native autoscaling, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview. |
