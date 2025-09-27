@@ -16,3 +16,4 @@
 | [Tails](https://tails.net) | Tails (The Amnesic Incognito Live System) is a privacy-focused Linux distribution designed to protect users' anonymity and security online. |
 | [Ubuntu](https://ubuntu.com) | The Ubuntu desktop is by far the world's most widely used Linux workstation platform, powering the work of engineers across the globe. |
 | [Zorin OS](https://zorin.com/os) | Zorin OS is designed to mimic the look and feel of Windows, making it a popular choice for users transitioning from Windows to Linux. |
+| [AnduinOS](https://www.anduinos.com) | AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux. |
