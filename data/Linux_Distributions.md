@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [AnduinOS](https://www.anduinos.com) | AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux. |
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
 | [Drauger OS](https://draugeros.org) | Drauger OS is an Ubuntu-based Linux desktop gaming distribution that ships with many modifications and optimizations |
