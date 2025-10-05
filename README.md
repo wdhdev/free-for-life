@@ -91,6 +91,7 @@ A massive list including a huge amount of products and services that are complet
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
 | [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
+| [Lumo](https://lumo.proton.me) | Lumo is a privacy respecting AI chatbot made by Proton. |
 | [Microsoft Copilot](https://copilot.microsoft.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
 | [Mistral](https://mistral.ai) | Mistral AI offers open-source and commercial AI models including Mistral Large 2 and Mistral Small 3.1. Features multilingual support, code generation, and can run on consumer hardware. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
@@ -145,6 +146,7 @@ A massive list including a huge amount of products and services that are complet
 | [ChronoLink](https://www.chronolink.app) | Flexibly synchronize calendars, create rules for selecting and transforming events. The free plan is restricted to one sync connection. |
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
 | [Outlook](https://outlook.com) | Free personal email and calendar. |
+| [Proton Calendar](https://proton.me/calendar) | A free and private calendar that prioritizes privacy and end to end encryption. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 
 <!-- Code_Editors.md -->
@@ -257,9 +259,10 @@ A massive list including a huge amount of products and services that are complet
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
+| [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
-| [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
@@ -405,6 +408,7 @@ A massive list including a huge amount of products and services that are complet
 
 | Website | Description |
 |:-:|-|
+| [AnduinOS](https://www.anduinos.com) | AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux. |
 | [Arch Linux](https://archlinux.org) | Arch Linux is a lightweight and flexible Linux® distribution that tries to Keep It Simple. |
 | [Debian](https://www.debian.org) | Debian is a Linux-based operating system for a wide range of devices including laptops, desktops and servers. |
 | [Drauger OS](https://draugeros.org) | Drauger OS is an Ubuntu-based Linux desktop gaming distribution that ships with many modifications and optimizations |
