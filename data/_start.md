@@ -4,7 +4,7 @@ PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 -->
 
 # 💸 Free For Life
-A massive list including a huge amount of products and services that are completely free!
+A huge list of great stuff you can get for free!
 
 ⭐ [Star on GitHub](https://github.com/wdhdev/free-for-life)
 &bull;
