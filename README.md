@@ -57,6 +57,7 @@ A huge list of great stuff you can get for free!
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
 | [CurrencyScoop](https://currencyscoop.com) | Real-time currency data API for Fintech apps. Free plan includes 5000 calls per month. |
+| [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month. |
 | [Data Fetcher](https://datafetcher.com) | Connect Airtable to any application or API with no-code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month. |
 | [Dataimporter.io](https://www.dataimporter.io) | Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month. |
 | [Data Miner](https://dataminer.io) | A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month. |
@@ -76,6 +77,7 @@ A huge list of great stuff you can get for free!
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
 | [ScrapingDog](https://scrapingdog.com) | ScrapingDog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans available. |
+| [ScrapX](https://www.scrapx.io/) | Monitor for any visual or textual change in a target website and data extraction. Free plan allows upto 5 URLs a month. |
 | [SearchApi](https://www.searchapi.io) | SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages. Free plan includes 100 successful API calls per month. |
 | [Select Star](https://www.selectstar.com) | Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables, and up to 10 users. |
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
