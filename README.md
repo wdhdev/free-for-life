@@ -83,6 +83,8 @@ A huge list of great stuff you can get for free!
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
+| [Fake JSON Data](https://formatjsononline.com/dummy-api) | Simulate API testing with our free Dummy API tool. Generate JSON data for development. |
+
 
 <!-- Artificial_Intelligence.md -->
 ## Artificial Intelligence
