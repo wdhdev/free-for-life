@@ -57,7 +57,6 @@ A huge list of great stuff you can get for free!
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
 | [CurrencyScoop](https://currencyscoop.com) | Real-time currency data API for Fintech apps. Free plan includes 5000 calls per month. |
-| [CustomJS](https://www.customjs.io) | HTML to PDF or PDF to PNG/Text & PDF merging/extraction/merging APIs. Free tier has 600 calls a month. |
 | [Data Fetcher](https://datafetcher.com) | Connect Airtable to any application or API with no-code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month. |
 | [Dataimporter.io](https://www.dataimporter.io) | Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month. |
 | [Data Miner](https://dataminer.io) | A browser extension (Google Chrome, MS Edge) for data extraction from web pages CSV or Excel. The free plan gives you 500 pages/month. |
@@ -77,7 +76,6 @@ A huge list of great stuff you can get for free!
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
 | [ScrapingDog](https://scrapingdog.com) | ScrapingDog handles millions of proxies, browsers, and CAPTCHAs to provide you with the HTML of any web page in a single API call. It also provides Web Scraper for Chrome & Firefox and software for instant scraping demand. Free plans available. |
-| [ScrapX](https://www.scrapx.io/) | Monitor for any visual or textual change in a target website and data extraction. Free plan allows upto 5 URLs a month. |
 | [SearchApi](https://www.searchapi.io) | SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages. Free plan includes 100 successful API calls per month. |
 | [Select Star](https://www.selectstar.com) | Select Star is an intelligent data discovery platform that automatically analyzes and documents your data. Free light tier with 1 Data Source, up to 100 tables, and up to 10 users. |
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
@@ -198,6 +196,7 @@ A huge list of great stuff you can get for free!
 | [Khan Academy](https://www.khanacademy.org) | Offers free coding classes, especially good for beginners and younger learners. |
 | [MIT OpenCourseWare](https://ocw.mit.edu) | Provides free introductory programming courses from MIT. |
 | [PY4E - Python for Everybody](https://www.py4e.com) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. |
+| [The Odin Project](https://www.theodinproject.com) | The Odin Project provides a free open source coding curriculum that can be taken entirely online. |
 | [W3Schools](https://www.w3schools.com) | Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more. |
 
 <!-- DNS.md -->
@@ -229,7 +228,7 @@ A huge list of great stuff you can get for free!
 
 | Website | Description |
 |:-:|-|
-| [Amazon DynamoDB](https://aws.amazon.com/dynamodb) | Fast, flexible NoSQL database service for single-digit millisecond performance at any scale. | 
+| [Amazon DynamoDB](https://aws.amazon.com/dynamodb) | Fast, flexible NoSQL database service for single-digit millisecond performance at any scale. |
 | [Apache Cassandra](https://cassandra.apache.org) | Manage massive amounts of data, fast, without losing sleep. |
 | [Appwrite](https://appwrite.io) | Appwrite is a backend platform for developing Web, Mobile, and Flutter applications. |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
@@ -241,8 +240,8 @@ A huge list of great stuff you can get for free!
 | [Oracle Database](https://www.oracle.com/database) | Oracle database services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system. |
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
-| [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. | 
-| [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. | 
+| [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
+| [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
 | [Turso](https://turso.tech) | Turso is a serverless, edge-deployed SQLite database that gives you low-latency, globally replicated data without managing servers. |
 
@@ -517,7 +516,7 @@ A huge list of great stuff you can get for free!
 | [Qonversion](https://qonversion.io) | All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue. |
 | [RevenueCat](https://www.revenuecat.com) | Hosted backend for in-app purchases and subscriptions (iOS and Android). Free up to $10k/mo in tracked revenue. |
 | [VAT Layer](https://vatlayer.com) | Instant VAT number validation and EU VAT rates API. Free 100 API requests/month. |
-| [Xendit](https://www.xendit.co) | The most complete and secure payment gateway solution, helping your business accept and send payments through 38+ payment methods.
+| [Xendit](https://www.xendit.co) | The most complete and secure payment gateway solution, helping your business accept and send payments through 38+ payment methods. |
 
 <!-- SSL.md -->
 ## SSL
