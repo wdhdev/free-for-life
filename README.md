@@ -278,7 +278,7 @@ A huge list of great stuff you can get for free!
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
-| [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
+| [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
