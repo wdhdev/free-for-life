@@ -14,6 +14,7 @@
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. All this, in bulk.|
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
