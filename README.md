@@ -506,6 +506,7 @@ A huge list of great stuff you can get for free!
 | [Coin360](https://api.coin360.com) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. |
 | [CoinGecko](https://www.coingecko.com/en/api) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution. |
 | [CoinMarketCap](https://coinmarketcap.com/api) | Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month. |
+| [Free Crypto Price API](https://crypto-price-landing.vercel.app) | Real-time mid prices for 275+ crypto assets via Hyperliquid DEX. No API key, no signup, no rate limits — completely free forever. Simple JSON response. |
 | [Currencyapi.com](https://currencyapi.com) | Free currency conversion and exchange rate data API. 10 requests/hour without an API key, 50,000 requests per month when you register for free. |
 | [CurrencyApi](https://currencyapi.net) | Live Currency Rates for Physical and Crypto currencies, delivered in JSON and XML. Free tier offers 1,250 API requests/month. |
 | [CurrencyFreaks](https://currencyfreaks.com) | Provides current and historical currency exchange rates. Free DEVELOPER plan available with 1000 requests/month. |
