@@ -3,6 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
+| [Agent Gateway](https://agent-gateway-kappa.vercel.app) | Free unified REST API for real-time crypto price data (500+ tokens via Hyperliquid) and 35+ AI agent infrastructure services. No API key required for basic use. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
