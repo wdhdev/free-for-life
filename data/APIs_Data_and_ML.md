@@ -30,6 +30,7 @@
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
+| [Frostbyte API](https://api-catalog-three.vercel.app) | Unified developer API gateway with 40+ free tools including IP geolocation, web scraping, screenshots, DNS lookup, crypto prices, PDF generation, code execution, and web search. Free tier includes 200 credits. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
