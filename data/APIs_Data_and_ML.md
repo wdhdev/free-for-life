@@ -34,6 +34,7 @@
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
+| [PDFBolt](https://pdfbolt.com) | HTML to PDF conversion API with Chromium rendering, templates, and AI generation. Free plan includes 500 PDF conversions per month. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
