@@ -5,6 +5,7 @@
 | [Brackets](https://brackets.io) | A modern text editor that makes it easy to design in the browser. |
 | [Code::Blocks](https://www.codeblocks.org) | A free and open-source IDE that supports multiple programming languages including C, C++, and Fortran. |
 | [CodeLite](https://codelite.org) | An open-source, free, cross-platform IDE, specialized in C, C++, Rust, Python, PHP, and JavaScript. |
+| [Cursor](https://cursor.com) | Cursor is a specialized AI-powered code editor, built as a fork of Visual Studio Code. |
 | [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free. |
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
