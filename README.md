@@ -66,6 +66,7 @@ A huge list of great stuff you can get for free!
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
@@ -242,6 +243,7 @@ A huge list of great stuff you can get for free!
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
+| [SQLable](https://sqlable.com/) | SQLable is a suite of database tools, including SQL and CSV utilities, test data generation, and sandboxes for SQLite, MySQL, and PostgreSQL. |
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
 | [Turso](https://turso.tech) | Turso is a serverless, edge-deployed SQLite database that gives you low-latency, globally replicated data without managing servers. |
