@@ -254,6 +254,7 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
+| [BeginThings](https://beginthings.com) | 96+ free browser-based tools for developers and freelancers — JSON formatter, Base64 encoder, image compressor, QR code generator, regex tester, and more. No login required. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
