@@ -46,3 +46,4 @@
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
+| [ToolPipe](https://toolpipe.dev) | Free developer utility API with 240+ endpoints including JSON/CSV conversion, QR codes, hashing, UUID generation, DNS lookup, base64 encoding, markdown rendering, JWT decoding, fake data generation, WHOIS, SEO analysis, and web scraping. No authentication required for basic usage. |
