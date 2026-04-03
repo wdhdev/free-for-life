@@ -12,4 +12,5 @@
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
 | [DigitalPlat](https://domain.digitalplat.org) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. DigitalPlat manages domains (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`) | ✅ `us.kg`, `qzz.io`, `dpdns.org`, `xx.kg` |
-| [Zone.ID](https://www.zone.id/) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. This domain is managed by PT. Geksa, a verified PT`p` company in Indonesia. It also manages the `nett.to` domain. | ✅ `zone.id`, `nett.to` |
+| [Zone.ID](https://www.zone.id/) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. This domain is managed by [PT. Geksa](https://gx1.org/), a verified PTp company in Indonesia. It also manages the `nett.to` domain. | ✅ `zone.id`, `nett.to` |
+| [stackryze](https://domain.stackryze.com/) - Free subdomains for `indevs.in` & `sryze.cc` | ✅ `indevs.in` are listed. ⚠️ `sryze.cc` are not listed. |
