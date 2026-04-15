@@ -379,6 +379,7 @@ A huge list of great stuff you can get for free!
 | [Microsoft 365](https://www.microsoft.com/education/products/office) | Students and educators at eligible institutions can sign up for Office 365 Education for free, including Word, Excel, PowerPoint, OneNote, and now Microsoft Teams, plus additional classroom tools. A valid school email is required. |
 | [Microsoft Azure](https://azure.microsoft.com) | Microsoft Azure provides a student plan that grants free access to various services, although some limitations may apply. Please note that the educational "trial" period is valid for one year. |
 | [Roadmap.sh](https://roadmap.sh) | Roadmap.sh is a free platform that provides learning roadmaps for technical topics such as Blockchain, UX Design, and Frontend Development. |
+| [TotallyNotQuizlet](https://totallynotquizlet.github.io/study) | TotallyNotQuizlet is a fast, privacy‑friendly study tool with flashcards, learn, type, test, and matching modes. It runs entirely in the browser with no ads, no logins, and no data collection. Study sets are stored locally on-device or shared through Base64 links, making it ideal for both quick studying and classrooms. |
 
 <!-- Forms.md -->
 ## Forms
