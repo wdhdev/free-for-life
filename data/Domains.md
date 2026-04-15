@@ -2,6 +2,7 @@
 
 | Website | Description | Listed on the [Public Suffix List](https://github.com/publicsuffix/list)? |
 |:-:|-|:-:|
+| [DigitalPlat](https://domain.digitalplat.org) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. DigitalPlat manages domains (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`) | ✅ `us.kg`, `qzz.io`, `dpdns.org`, `xx.kg` |
 | [is-a.dev](https://is-a.dev) | Grab your own sweet-looking `.is-a.dev` subdomain. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
@@ -11,6 +12,5 @@
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
 | [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
-| [DigitalPlat](https://domain.digitalplat.org) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. DigitalPlat manages domains (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`) | ✅ `us.kg`, `qzz.io`, `dpdns.org`, `xx.kg` |
+| [stackryze](https://domain.stackryze.com) | Free subdomains for `indevs.in` & `sryze.cc`. | ✅ `indevs.in` |
 | [Zone.ID](https://www.zone.id) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. This domain is managed by [PT. Geksa](https://gx1.org), a verified PTp company in Indonesia. It also manages the `nett.to` domain. | ✅ `zone.id`, `nett.to` |
-| [stackryze](https://domain.stackryze.com) | Free subdomains for `indevs.in` & `sryze.cc`. | ✅ `indevs.in` are listed. ⚠️ `sryze.cc` are not listed. |
