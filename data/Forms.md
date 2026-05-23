@@ -12,7 +12,6 @@
 | [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required. |
 | [FormKeep.com](https://www.formkeep.com) | Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email, and others. |
 | [formlets.com](https://formlets.com) | Online forms, Airtable, AJAX or POST, and more. Free plan offers unlimited forms and 100MB file storage. |
-| [formpost.app](https://formpost.app) | Free endpoint for HTML forms |
 | [formspark.io](https://formspark.io) | Form to Email service, file upload, forever free plan allows 50 submissions per month, form logic. Free plan allows 100 submissions per month. |
 | [Formspree.io](https://formspree.io) | Send email using an HTTP POST request. Free tier limits to 50 submissions per form per month. |
 | [Formsubmit.co](https://formsubmit.co) | Easy form endpoints for your HTML forms. Free Forever. No registration required. |
