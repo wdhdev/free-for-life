@@ -5,6 +5,7 @@
 | [DigitalPlat](https://domain.digitalplat.org) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. DigitalPlat manages domains (`us.kg`, `qzz.io`, `dpdns.org` & `xx.kg`) | ✅ `us.kg`, `qzz.io`, `dpdns.org`, `xx.kg` |
 | [is-a.dev](https://is-a.dev) | Grab your own sweet-looking `.is-a.dev` subdomain. | ✅ |
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
+| [ing.ng](https://ing.ng) | Free `*.ing.ng` subdomains with full DNS (A/AAAA/CNAME/MX/TXT/NS/SRV), claimable from the CLI (`npx ingng`), API, or web. ENS + browser resolution, no renewal fees. | ⚠️ Pending PSL inclusion |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
 | [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
