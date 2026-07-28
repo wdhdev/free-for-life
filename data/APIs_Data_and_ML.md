@@ -37,6 +37,7 @@
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
+| [Planomy Tax Data](https://planomy.net/data?utm_source=free-for-life&utm_medium=oss-listing&utm_campaign=open-data) | Current US federal tax and retirement figures as JSON: income tax brackets, standard deductions, 401(k)/IRA/HSA/FSA contribution limits, Social Security, Medicare IRMAA tiers and RMD ages. No key, no signup, CORS-open, every figure cited to its IRS, SSA or CMS source. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
