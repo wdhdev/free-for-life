@@ -8,6 +8,7 @@
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
+| [Colour Blindness Simulator](https://alltoolsverse.com/tools/color-blindness-simulator) | Simulate how a selected color appears across eight color vision deficiencies, with adjustable severity and downloadable results. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
