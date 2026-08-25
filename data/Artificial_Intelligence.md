@@ -4,6 +4,7 @@
 |:-:|-|
 | [ChatGPT](https://chatgpt.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Claude](https://claude.ai) | Claude is an AI assistant developed by Anthropic, known for its helpful, harmless, and honest conversational abilities. Free tier available. |
+| [Ember AI](https://github.com/arancool3000/EmberAI) | Ember AI is a free, open-source AI agent for macOS and Windows that sees your screen and controls the mouse, keyboard, browser, files and shell. Bring your own model key or run it fully offline. |
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
 | [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
