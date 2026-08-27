@@ -27,7 +27,7 @@
 | [mailsac](https://mailsac.com) | Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit). |
 | [Mail Tester](https://www.mail-tester.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month. |
 | [Mailtie](https://mailtie.com) | Free Email Forwarding for Your Domain. No registration required. Free Forever. |
-| [Mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
+| [Mailtrap](https://mailtrap.io) | Email API and SMTP for sending transactional and bulk emails. Free plan includes 4,000 emails/month. |
 | [Mail Validator](https://mailvalidator.io) | Verify 300 emails/month for free, real-time API with bulk processing available. |
 | [Mail.gw](https://mail.gw) | Temporary emails valid for 10 days. Option to manually delete (kill) email addresses. |
 | [Mail.tm](https://mail.tm/en) | Unlimited temporary emails with email + password support and option to create custom aliases (alternative email addresses pointing to the same inbox). |
