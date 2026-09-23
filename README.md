@@ -350,6 +350,7 @@ A huge list of great stuff you can get for free!
 | [phplist](https://phplist.com) | Hosted version allows 300 emails/month for free. |
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
+| [Stripo](https://stripo.email) | Email design platform. Free plan: 2 users, 3 projects, 10 stored emails, 4 exports/month. |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
 | [Tempail](https://tempail.com) | Free temporary/disposable email for 1 hour per session with qr codes to regain the session. |
 | [Temp Mail](https://temp-mail.org) | Free temporary/disposable email per session. |
