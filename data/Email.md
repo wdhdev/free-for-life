@@ -47,3 +47,4 @@
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 | [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
+| [9mail](https://9mail.xyz) – Free temporary inbox with no signup and several domains to choose from. Receive-only; addresses expire after about 60 minutes.
