@@ -194,6 +194,7 @@ A huge list of great stuff you can get for free!
 | [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
 | [Lovable](https://lovable.dev) | AI-powered app builder that creates apps and websites by chatting with AI. Features natural language prompts, visual editing, live preview, Supabase integration, and built-in publishing capabilities. |
+| [MySpec](https://myspec.dev) | AI-native Spec-Driven Development platform generating 4-file spec bundles, Mermaid diagrams, and task roadmaps with built-in MCP server for AI coding agents. Free tier includes unlimited public specs. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 | [ZZZ Code AI](https://zzzcode.ai) | Welcome to ZZZ Code AI, our coding website powered by AI! |
 <!-- Courses.md -->
