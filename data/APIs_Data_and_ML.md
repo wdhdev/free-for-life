@@ -51,3 +51,4 @@
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
 | [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
+| [HostDeFi](https://hostdefi.com/docs/api/) | Free A+–F token-safety grades for Solana/EVM tokens via on-chain checks. Free tier: 100 checks/day per IP, no API key. |
