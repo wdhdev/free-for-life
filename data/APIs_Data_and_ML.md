@@ -32,6 +32,7 @@
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
 | [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
+| [FXMacroData](https://fxmacrodata.com?utm_source=github&utm_medium=referral&utm_campaign=free-for-life&utm_content=readme) | Macroeconomic data API built from central bank and statistical agency releases, with the publication time of each figure. The free tier needs no account or API key: US indicator releases from the last 90 days (each readable 15 minutes after publication), the US release calendar and the data catalogue for all 22 currencies, up to 100 requests/day. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
