@@ -13,3 +13,4 @@
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
+| [ScaleReach](https://www.scalereach.ai) | Turns long videos into vertical 9:16 short clips with AI captions and face-tracking crop. Free plan available, clips are watermarked. |
