@@ -50,4 +50,5 @@
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
+| [Wadifa Info API](https://www.wadifa-info.com/developpeurs) | Free, keyless JSON API on Moroccan public-sector jobs, civil-service salaries by grade, public holidays and school breaks. Data under CC BY 4.0, OpenAPI 3.1 spec. |
 | [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
