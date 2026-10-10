@@ -101,6 +101,7 @@ A huge list of great stuff you can get for free!
 |:-:|-|
 | [ChatGPT](https://chatgpt.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Claude](https://claude.ai) | Claude is an AI assistant developed by Anthropic, known for its helpful, harmless, and honest conversational abilities. Free tier available. |
+| [Dexio](https://dexio.wiki) | One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same markdown pages over MCP, and you see what they know as a page graph. Free for one person, with unlimited agents, no page limit and 100 MB for files. |
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
 | [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
@@ -483,6 +484,7 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [Muscula](https://muscula.com) | Application monitoring platform for developers to debug production issues using AI agents with natural language. |
+| [RealUptime](https://realuptime.io) | Uptime, heartbeat and SSL monitoring from multiple regions. The free plan includes 10 monitors with 60-second checks and 1 status page. |
 | [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
 | [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 | [Vacato](https://vacato.io) | Free RDAP domain availability watchlist (10 domains free). Scheduled checks with Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. |
