@@ -12,6 +12,7 @@
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
+| [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
 | [Colaboratory](https://colab.research.google.com) | Free web-based Python notebook environment with Nvidia Tesla K80 GPU. |
 | [Collect2](https://collect2.com) | Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert. |
 | [Conversion Tools](https://conversiontools.io) | Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and the number of conversions per day. |
