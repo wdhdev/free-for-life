@@ -30,6 +30,7 @@
 | [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
 | [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers. |
 | [Porter](https://getporter.dev) | A fully-managed PaaS that lets teams automate DevOps. The free basic tier for Porter Cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory. |
+| [Prisma Compute](https://www.prisma.io/compute) | Hosts TypeScript apps (Node.js, Bun or Next.js) next to Prisma Postgres. The free plan includes 1M requests per month, no credit card required. |
 | [PythonAnywhere](https://www.pythonanywhere.com) | Cloud Python app hosting. The beginner account is free worldwide. The free tier includes 100. |
 | [Railway](https://railway.app) | Railway is an infrastructure platform where you can provision infrastructure and free-tier PostgreSQL database limited to 2 connections and more. It includes free cloud hosting for hobby projects. |
 | [Replit](https://repl.it) | Online IDE with many coding languages. Offers a free teir with 10 GB of storage and an AI debugger. |
