@@ -15,6 +15,7 @@ A huge list of great stuff you can get for free!
 - [Artificial Intelligence](#artificial-intelligence)
 - [BaaS](#baas)
 - [Calendar](#calendar)
+- [CI/CD](#cicd)
 - [Code Editors](#code-editors)
 - [Code Generation](#code-generation)
 - [Courses](#courses)
