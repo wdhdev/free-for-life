@@ -22,6 +22,7 @@
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
+| [CurlShot](https://curlshot.com) | Screenshot API that turns a URL, HTML or Markdown into PNG, JPEG, WebP or PDF. Free plan includes 100 screenshots per month, no card required. |
 | [CurrencyScoop](https://currencyscoop.com) | Real-time currency data API for Fintech apps. Free plan includes 5000 calls per month. |
 | [Data Fetcher](https://datafetcher.com) | Connect Airtable to any application or API with no-code. Postman-like interface for running API requests in Airtable. Pre-built integrations with dozens of apps. The free plan includes 100 runs per month. |
 | [Dataimporter.io](https://www.dataimporter.io) | Tool for connecting, cleaning, and importing data into Salesforce. Free Plan includes up to 20,000 records per month. |
