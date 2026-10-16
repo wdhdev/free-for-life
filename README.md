@@ -49,10 +49,12 @@ A huge list of great stuff you can get for free!
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
+| [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
 | [Colaboratory](https://colab.research.google.com) | Free web-based Python notebook environment with Nvidia Tesla K80 GPU. |
 | [Collect2](https://collect2.com) | Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert. |
 | [Conversion Tools](https://conversiontools.io) | Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and the number of conversions per day. |
 | [Coupler](https://www.coupler.io) | Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month, and unlimited integrations. |
+| [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
@@ -74,9 +76,11 @@ A huge list of great stuff you can get for free!
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
+| [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
+| [Requesty](https://www.requesty.ai/free-models) | OpenAI compatible LLM API gateway. The free plan gives access to the free models in the catalog with 200 requests per day and no credit card required. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
@@ -87,6 +91,7 @@ A huge list of great stuff you can get for free!
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
 | [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
+| [Twinbay](https://twinbay.ai) | Hosted API replicas for testing integrations and AI agents. Free plan includes 10 twin-hours per month and access to every twin in the catalog. |
 | [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
 
 <!-- Artificial_Intelligence.md -->
@@ -96,6 +101,7 @@ A huge list of great stuff you can get for free!
 |:-:|-|
 | [ChatGPT](https://chatgpt.com) | ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched in November 2022. It is built on top of OpenAI's GPT-3 family of large language models. |
 | [Claude](https://claude.ai) | Claude is an AI assistant developed by Anthropic, known for its helpful, harmless, and honest conversational abilities. Free tier available. |
+| [Dexio](https://dexio.wiki) | One wiki for all your AI agents. Claude, ChatGPT, Codex, Cursor, Hermes and OpenClaw read and write the same markdown pages over MCP, and you see what they know as a page graph. Free for one person, with unlimited agents, no page limit and 100 MB for files. |
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
 | [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
@@ -282,6 +288,7 @@ A huge list of great stuff you can get for free!
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
 | [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
+| [kdpbook.io KDP Cover Size Calculator](https://kdpbook.io/kdp/cover-size-calculator) | Free full-wrap KDP cover size calculator for any trim, paper and page count, paperback or hardcover, with a downloadable SVG cover template (bleed, spine, safe area and barcode guides) that opens at true size in Illustrator, Affinity, Inkscape or Canva. No account needed. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
@@ -477,6 +484,7 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [Muscula](https://muscula.com) | Application monitoring platform for developers to debug production issues using AI agents with natural language. |
+| [RealUptime](https://realuptime.io) | Uptime, heartbeat and SSL monitoring from multiple regions. The free plan includes 10 monitors with 60-second checks and 1 status page. |
 | [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
 | [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 | [Vacato](https://vacato.io) | Free RDAP domain availability watchlist (10 domains free). Scheduled checks with Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. |
