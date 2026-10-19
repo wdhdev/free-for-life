@@ -7,3 +7,4 @@
 | [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
 | [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 | [Vacato](https://vacato.io) | Free RDAP domain availability watchlist (10 domains free). Scheduled checks with Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. |
+| [VPS Host Review](https://vpshostreview.com) | Independent VPS hosting reviews, free YABS benchmark result intake and a weekly VPS provider network report. Free to read, no account needed. |
