@@ -22,6 +22,7 @@
 | [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
 | [kdpbook.io KDP Cover Size Calculator](https://kdpbook.io/kdp/cover-size-calculator) | Free full-wrap KDP cover size calculator for any trim, paper and page count, paperback or hardcover, with a downloadable SVG cover template (bleed, spine, safe area and barcode guides) that opens at true size in Illustrator, Affinity, Inkscape or Canva. No account needed. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
+| [Mark Studios Free Tools](https://www.markstudios.com/tools) | Free browser tools for video and YouTube: aspect ratio calculator, thumbnail, banner and end screen checkers, social safe-zone checker, caption checker and a teleprompter. No signup required. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
