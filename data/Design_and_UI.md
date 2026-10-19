@@ -8,6 +8,7 @@
 | [Calculora](https://calculora.net) | 259+ free calculator tools, no signup required. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
+| [Color by Tej SolPro](https://tejsolpro.github.io/color?utm_source=free-for-life&utm_medium=directory&utm_campaign=early_distribution) | Free, open-source (MPL-2.0) tool that turns one brand color into accessible semantic UI color tokens, checks each intended pair against WCAG 2.2, and exports CSS or JSON. Runs in the browser, no account needed. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
