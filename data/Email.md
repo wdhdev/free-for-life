@@ -6,6 +6,7 @@
 | [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
+| [Aster Mail](https://astermail.org) | End-to-end encrypted email with post-quantum protection, PGP, aliases and custom domains. The free plan includes 10 GB of storage. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
 | [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
