@@ -283,6 +283,7 @@ A huge list of great stuff you can get for free!
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
+| [Emote Resizer](https://emoteresize.com) | Free browser-based emote resizer for Twitch, Discord, 7TV, Slack, and custom sizes, with batch ZIP downloads and animated GIF support. Files are processed locally without an account. |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Free Image Merger](https://freeimagemerger.com) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
