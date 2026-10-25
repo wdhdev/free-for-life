@@ -321,7 +321,6 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [10minutemail](https://10minutemail.com) | Free, temporary email for testing. |
-| [TempMail10min](https://temp-mail10min.online) | Free disposable temporary email generator with 5, 10, 15, and 30-minute auto-destruct inboxes for fast OTP verification. |
 | [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
@@ -363,6 +362,7 @@ A huge list of great stuff you can get for free!
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
 | [Tempail](https://tempail.com) | Free temporary/disposable email for 1 hour per session with qr codes to regain the session. |
 | [Temp Mail](https://temp-mail.org) | Free temporary/disposable email per session. |
+| [TempMail10min](https://temp-mail10min.online) | Free disposable temporary email generator with 5, 10, 15, and 30-minute auto-destruct inboxes for fast OTP verification. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 | [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |
