@@ -259,6 +259,7 @@ A huge list of great stuff you can get for free!
 | [Oracle Database](https://www.oracle.com/database) | Oracle database services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system. |
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Managed PostgreSQL with a free plan of 1.01 GB storage, 200,000 operations per month and up to 50 databases, no credit card required. |
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
 | [SQLable](https://sqlable.com/) | SQLable is a suite of database tools, including SQL and CSV utilities, test data generation, and sandboxes for SQLite, MySQL, and PostgreSQL. |
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
@@ -522,6 +523,7 @@ A huge list of great stuff you can get for free!
 | [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
 | [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers. |
 | [Porter](https://getporter.dev) | A fully-managed PaaS that lets teams automate DevOps. The free basic tier for Porter Cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory. |
+| [Prisma Compute](https://www.prisma.io/compute) | Hosts TypeScript apps (Node.js, Bun or Next.js) next to Prisma Postgres. The free plan includes 1M requests per month, no credit card required. |
 | [PythonAnywhere](https://www.pythonanywhere.com) | Cloud Python app hosting. The beginner account is free worldwide. The free tier includes 100. |
 | [Railway](https://railway.app) | Railway is an infrastructure platform where you can provision infrastructure and free-tier PostgreSQL database limited to 2 connections and more. It includes free cloud hosting for hobby projects. |
 | [Replit](https://repl.it) | Online IDE with many coding languages. Offers a free teir with 10 GB of storage and an AI debugger. |
