@@ -56,3 +56,4 @@
 | [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
 | [Twinbay](https://twinbay.ai) | Hosted API replicas for testing integrations and AI agents. Free plan includes 10 twin-hours per month and access to every twin in the catalog. |
 | [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |
+| [HostDeFi](https://hostdefi.com/docs/api/) | Free A+–F token-safety grades for Solana/EVM tokens via on-chain checks. Free tier: 100 checks/day per IP, no API key. |
