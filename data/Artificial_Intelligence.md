@@ -14,3 +14,4 @@
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
+| [Yap Voice Typing](https://yapapp.cc/voice-typing-extension) | Free Chrome and Firefox extension for voice typing in any text box. OpenAI's Whisper runs inside the browser, so audio never leaves your computer. No account needed, 99 languages. |
