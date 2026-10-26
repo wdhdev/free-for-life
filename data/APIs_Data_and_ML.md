@@ -10,6 +10,7 @@
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Beeceptor](https://beeceptor.com?utm_source=free-for-life) | Create a Mock API server in a few seconds. Free 50 requests per day for life, and no need of credit card. Beeceptor is a no-code solution to iterate API design faster and allow parallel development.|
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
+| [Chempirical](https://chempirical.com) | Free read-only JSON API for chemical compounds: search by name, CAS, formula, SMILES or substructure, with identifiers, physical data and structure images. No API key or sign-up needed, please keep to a few requests per second. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
 | [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
