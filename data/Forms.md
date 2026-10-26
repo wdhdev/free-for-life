@@ -36,4 +36,5 @@
 | [WaiverStevie.com](https://waiverstevie.com) | Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, 50 submissions, 100 responses/survey & 8 response types. |
 | [Web3Forms](https://web3forms.com) | Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows unlimited Forms, collect payments, CSV/JSON export, customizable reply-to email address. |
 | [WebAsk](https://webask.io) | Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single-page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks, etc for free. |
+| [WishKit](https://www.wishkit.io) | In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free plan has 1 project, iOS and web SDKs, unlimited users, and shows the first 5 feature requests. |
 | [Wufoo](https://www.wufoo.com) | Quick forms to use on websites. Free plan has a limit of 100 submissions each month. |
