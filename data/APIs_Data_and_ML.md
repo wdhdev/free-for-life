@@ -10,6 +10,7 @@
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Beeceptor](https://beeceptor.com?utm_source=free-for-life) | Create a Mock API server in a few seconds. Free 50 requests per day for life, and no need of credit card. Beeceptor is a no-code solution to iterate API design faster and allow parallel development.|
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
+| [Chempirical](https://chempirical.com) | Free read-only JSON API for chemical compounds: search by name, CAS, formula, SMILES or substructure, with identifiers, physical data and structure images. No API key or sign-up needed, please keep to a few requests per second. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
 | [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
@@ -18,6 +19,7 @@
 | [Conversion Tools](https://conversiontools.io) | Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and the number of conversions per day. |
 | [Coupler](https://www.coupler.io) | Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month, and unlimited integrations. |
 | [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
+| [CoworkingView](https://api.coworkingview.com/v1) | REST API for 420+ coworking spaces and private offices in 60+ European and UAE cities, plus a per-city coworking price index in JSON and CSV under CC BY 4.0. Free with no key or account, 120 requests per minute. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
@@ -38,6 +40,7 @@
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
+| [localscreenshot](https://localscreenshot.com) | Screenshot and PDF rendering API for any public page, from 227 countries. Free plan with 50 credits every month, no card required. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |

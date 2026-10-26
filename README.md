@@ -47,6 +47,7 @@ A huge list of great stuff you can get for free!
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Beeceptor](https://beeceptor.com?utm_source=free-for-life) | Create a Mock API server in a few seconds. Free 50 requests per day for life, and no need of credit card. Beeceptor is a no-code solution to iterate API design faster and allow parallel development.|
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
+| [Chempirical](https://chempirical.com) | Free read-only JSON API for chemical compounds: search by name, CAS, formula, SMILES or substructure, with identifiers, physical data and structure images. No API key or sign-up needed, please keep to a few requests per second. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
 | [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
@@ -55,6 +56,7 @@ A huge list of great stuff you can get for free!
 | [Conversion Tools](https://conversiontools.io) | Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and the number of conversions per day. |
 | [Coupler](https://www.coupler.io) | Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month, and unlimited integrations. |
 | [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
+| [CoworkingView](https://api.coworkingview.com/v1) | REST API for 420+ coworking spaces and private offices in 60+ European and UAE cities, plus a per-city coworking price index in JSON and CSV under CC BY 4.0. Free with no key or account, 120 requests per minute. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
@@ -75,6 +77,7 @@ A huge list of great stuff you can get for free!
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
+| [localscreenshot](https://localscreenshot.com) | Screenshot and PDF rendering API for any public page, from 227 countries. Free plan with 50 credits every month, no card required. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
@@ -105,6 +108,7 @@ A huge list of great stuff you can get for free!
 | [Google Gemini](https://gemini.google.com) | Google Gemini is a assistant like ChatGPT, but you can upload photos and for free and it can access the internet. Successor of Google Bard. |
 | [Google Labs FX](https://labs.google/fx) | Google Labs FX is an experimental hub for AI-powered video, image and text tools from Google. It showcases early prototypes like ImageFX and VideoFX image/video generation and other creative AI features. |
 | [Hugging Face](https://huggingface.co) | The platform where the machine learning community collaborates on models, datasets, and applications. |
+| [Kavel](https://www.kavel.ai) | AI image generator with a free image API that needs no API key or account. Generate from a prompt over plain HTTP; SDKs for Python, JavaScript, Go, Rust and more. |
 | [Lumo](https://lumo.proton.me) | Lumo is a privacy respecting AI chatbot made by Proton. |
 | [Microsoft Copilot](https://copilot.microsoft.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
 | [Mistral](https://mistral.ai) | Mistral AI offers open-source and commercial AI models including Mistral Large 2 and Mistral Small 3.1. Features multilingual support, code generation, and can run on consumer hardware. |
@@ -199,6 +203,7 @@ A huge list of great stuff you can get for free!
 | [Bolt](https://bolt.new) | AI-powered app builder that generates, tests, and deploys web apps using modern frameworks. Features browser-based IDE with package support and deployment to Netlify. |
 | [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
+| [Frink](https://frink.dev) | Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. |
 | [Lovable](https://lovable.dev) | AI-powered app builder that creates apps and websites by chatting with AI. Features natural language prompts, visual editing, live preview, Supabase integration, and built-in publishing capabilities. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 | [ZZZ Code AI](https://zzzcode.ai) | Welcome to ZZZ Code AI, our coding website powered by AI! |
@@ -259,6 +264,7 @@ A huge list of great stuff you can get for free!
 | [Oracle Database](https://www.oracle.com/database) | Oracle database services and products offer customers cost-optimized and high-performance versions of Oracle Database, the world's leading converged, multi-model database management system. |
 | [PocketBase](https://pocketbase.io) | Open Source backend for your next SaaS and Mobile app in 1 file. |
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
+| [Prisma Postgres](https://www.prisma.io/postgres) | Managed PostgreSQL with a free plan of 1.01 GB storage, 200,000 operations per month and up to 50 databases, no credit card required. |
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
 | [SQLable](https://sqlable.com/) | SQLable is a suite of database tools, including SQL and CSV utilities, test data generation, and sandboxes for SQLite, MySQL, and PostgreSQL. |
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
@@ -281,6 +287,7 @@ A huge list of great stuff you can get for free!
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
+| [Emote Resizer](https://emoteresize.com) | Free browser-based emote resizer for Twitch, Discord, 7TV, Slack, and custom sizes, with batch ZIP downloads and animated GIF support. Files are processed locally without an account. |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Free Image Merger](https://freeimagemerger.com) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
@@ -324,11 +331,13 @@ A huge list of great stuff you can get for free!
 | [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
+| [Aster Mail](https://astermail.org) | End-to-end encrypted email with post-quantum protection, PGP, aliases and custom domains. The free plan includes 10 GB of storage. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
 | [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
 | [Email Spam Tester](https://email-spam-tester.com) | Send one email and get SPF/DKIM/DMARC, blocklist and content checks plus the inbox or spam folder at Gmail, Yahoo and other providers. Free, no signup; 5 tests per IP per day stay free after the first 100,000 reports. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
+| [EpicMail](https://epicmail.org?utm_source=free_for_life&utm_medium=referral&utm_campaign=epicmail_multi_inbox_2026&utm_content=email_catalog) | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Web and Android. The Adventurer plan supports up to three connected accounts and 1 GB of storage. A valid card is required before adding email accounts. The Adventurer plan remains $0 unless the user upgrades. |
 | [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
 | [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.lat`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
@@ -404,6 +413,7 @@ A huge list of great stuff you can get for free!
 
 | Website | Description |
 |:-:|-|
+| [BootForm](https://bootform.com) | Form backend for static sites: point an HTML form at a URL and it works before you sign up. Free plan offers 250 submissions per month, unlimited forms, email and Discord notifications, and honeypot and Cloudflare Turnstile spam protection. |
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
 | [Form-Data](https://form-data.com) | Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
 | [Form.taxi](https://form.taxi) | Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications. |
@@ -411,6 +421,7 @@ A huge list of great stuff you can get for free!
 | [Formcake.com](https://formcake.com) | Form backend for devs, spam protection, support by Customer assistance team. |
 | [Formcarry.com](https://formcarry.com) | HTTP POST form endpoint. |
 | [Formester.com](https://formester.com) | Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free. |
+| [Formgong](https://formgong.com) | Form backend for HTML, static and AI-built sites. Free plan includes email and Telegram notifications for every submission, webhooks and Turnstile spam protection. |
 | [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required. |
 | [FormKeep.com](https://www.formkeep.com) | Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email, and others. |
 | [formlets.com](https://formlets.com) | Online forms, Airtable, AJAX or POST, and more. Free plan offers unlimited forms and 100MB file storage. |
@@ -486,6 +497,7 @@ A huge list of great stuff you can get for free!
 | [Muscula](https://muscula.com) | Application monitoring platform for developers to debug production issues using AI agents with natural language. |
 | [RealUptime](https://realuptime.io) | Uptime, heartbeat and SSL monitoring from multiple regions. The free plan includes 10 monitors with 60-second checks and 1 status page. |
 | [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
+| [SolidPing](https://www.solidping.io) | Uptime and synthetic monitoring with status pages and alerts. Free forever plan: 100 monitors, 5 team members, 1 private agent. |
 | [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 | [Vacato](https://vacato.io) | Free RDAP domain availability watchlist (10 domains free). Scheduled checks with Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. |
 
@@ -497,6 +509,7 @@ A huge list of great stuff you can get for free!
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
+| [deed.page](https://deed.page) | Static hosting built for AI agents: publish HTML or a folder of files to a permanent HTTPS URL with one PUT or POST, no account needed. Free plan includes 25 sites, 25 MB per site and 1 custom domain. |
 | [Deno Deploy](https://deno.com/deploy) | Distributed system that runs JavaScript, native autoscaling, no infrastructure configuration). The product is provided by Serverless Inc. and currently under public preview. |
 | [Deta](https://www.deta.sh) | Deploy an unlimited number of Node.js and Python apps for free. Includes free DBs, 1,000 rows and no backups, 0.5 GB storage, and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier. |
 | [Divio](https://www.divio.com) | A platform to manage cloud application deploying only using Docker. Available free subscription for development projects, 3Gi/pod with a maximum of 8Gi/namespace, 5 GB traffic, 10,512 MB private file storage, 512 MB RAM, a default timeout of 15 seconds and 25, a global edge network, and APIs with git-based deployment and built-in service mesh and discovery. Koyeb provides two nano services to run your apps with its forever-free tier and also sponsors open-source projects with free resources. |
@@ -522,6 +535,7 @@ A huge list of great stuff you can get for free!
 | [Paylike](paylike.io) | Easy and simple payments for managers and developers. |
 | [PayPal Developer](developer.paypal.com) | Build a payment solution that's right for you with PayPal for Developers. |
 | [Porter](https://getporter.dev) | A fully-managed PaaS that lets teams automate DevOps. The free basic tier for Porter Cloud offers management of 1 cluster with up to 10 vCPU and 20 GB memory. |
+| [Prisma Compute](https://www.prisma.io/compute) | Hosts TypeScript apps (Node.js, Bun or Next.js) next to Prisma Postgres. The free plan includes 1M requests per month, no credit card required. |
 | [PythonAnywhere](https://www.pythonanywhere.com) | Cloud Python app hosting. The beginner account is free worldwide. The free tier includes 100. |
 | [Railway](https://railway.app) | Railway is an infrastructure platform where you can provision infrastructure and free-tier PostgreSQL database limited to 2 connections and more. It includes free cloud hosting for hobby projects. |
 | [Replit](https://repl.it) | Online IDE with many coding languages. Offers a free teir with 10 GB of storage and an AI debugger. |
