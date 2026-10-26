@@ -11,6 +11,7 @@
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
 | [Google Antigravity](https://antigravity.google) | An AI-powered, agentic development environment (ADE) designed for autonomous software creation. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
+| [Koddo Python Playground](https://koddo.ru/playground/python) | Free browser-based Python editor and runner with a Russian interface, no registration required. Optional AI features are paid. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
 | [Neovim](https://neovim.io) | Modern, open-source fork of the Vim text editor, designed to maximize extensibility, usability, and performance. |
