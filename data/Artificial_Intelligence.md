@@ -15,3 +15,4 @@
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
+| [YYLO](https://yylo.dev) | YYLO is an open-source command-line orchestrator for AI coding agents, repeatable workflows and receipt-backed repository changes. It works with agents such as Claude Code, Codex and Pi, running task boards, worktrees and typed merge flows in your Git repositories. Free and open source under the MIT license. |
