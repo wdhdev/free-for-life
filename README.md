@@ -266,6 +266,7 @@ A huge list of great stuff you can get for free!
 | [PostgreSQL](https://www.postgresql.org) | PostgreSQL is a powerful, open source object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance. |
 | [Prisma Postgres](https://www.prisma.io/postgres) | Managed PostgreSQL with a free plan of 1.01 GB storage, 200,000 operations per month and up to 50 databases, no credit card required. |
 | [Redis](https://redis.io) | The open source, in-memory data store used by millions of developers as a database, cache, streaming engine, and message broker. |
+| [ReviveDB](https://revivedb.dev) | Automatic Supabase backups of your whole project: data, user accounts, files and server code, stored in the EU. Every database backup is restore-tested. The free plan covers one project up to 1 GB with a weekly backup and keeps the last three. |
 | [SQLable](https://sqlable.com/) | SQLable is a suite of database tools, including SQL and CSV utilities, test data generation, and sandboxes for SQLite, MySQL, and PostgreSQL. |
 | [SQLite](https://www.sqlite.org) | SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. |
 | [Supabase](https://supabase.com) | Supabase is an open source Firebase alternative for building secure and performant Postgres backends with minimal configuration. |
