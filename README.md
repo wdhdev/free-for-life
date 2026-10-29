@@ -513,6 +513,7 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
+| [BrewPage](https://brewpage.app) | Hosting for HTML, Markdown, files, multi-file static sites, JSON documents and key-value data through a web page or a REST API, no account needed. Free with no paid plan; content expires after 15 days by default (up to 30 days, or 90 with an optional free account). |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
 | [deed.page](https://deed.page) | Static hosting built for AI agents: publish HTML or a folder of files to a permanent HTTPS URL with one PUT or POST, no account needed. Free plan includes 25 sites, 25 MB per site and 1 custom domain. |
