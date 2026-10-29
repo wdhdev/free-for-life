@@ -3,6 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
+| [APPLORE App Icon Generator](https://applore.app/app-icon-generator) | Upload one image and download every iOS, Android, macOS and web app icon size in one ZIP. Free, no account needed. |
 | [ArtboardLab](https://artboardlab.com) | Free browser-based design tools including an Adobe Illustrator `.ai` viewer and `.ai` to SVG, PNG and PDF converters, plus image compression and format conversion. Files are processed in the browser and never uploaded, and no account is needed. |
 | [BatchSet](https://batchset.com) | Bulk image converter that runs in the browser, so files are never uploaded. Converts JPG, PNG, WebP, AVIF, GIF, HEIC and TIFF to WebP, JPG or PNG, compresses to a target size in KB, resizes, crops and strips EXIF. No account for the first 1,000 conversions, unlimited with a free account. |
 | [BeginThings](https://beginthings.com) | 96+ free browser-based tools for developers and freelancers — JSON formatter, Base64 encoder, image compressor, QR code generator, regex tester, and more. No login required. |
