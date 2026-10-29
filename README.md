@@ -279,6 +279,7 @@ A huge list of great stuff you can get for free!
 |:-:|-|
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
 | [ArtboardLab](https://artboardlab.com) | Free browser-based design tools including an Adobe Illustrator `.ai` viewer and `.ai` to SVG, PNG and PDF converters, plus image compression and format conversion. Files are processed in the browser and never uploaded, and no account is needed. |
+| [BatchSet](https://batchset.com) | Bulk image converter that runs in the browser, so files are never uploaded. Converts JPG, PNG, WebP, AVIF, GIF, HEIC and TIFF to WebP, JPG or PNG, compresses to a target size in KB, resizes, crops and strips EXIF. No account for the first 1,000 conversions, unlimited with a free account. |
 | [BeginThings](https://beginthings.com) | 96+ free browser-based tools for developers and freelancers — JSON formatter, Base64 encoder, image compressor, QR code generator, regex tester, and more. No login required. |
 | [Calculora](https://calculora.net) | 259+ free calculator tools, no signup required. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
