@@ -21,6 +21,7 @@
 | [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
 | [CoworkingView](https://api.coworkingview.com/v1) | REST API for 420+ coworking spaces and private offices in 60+ European and UAE cities, plus a per-city coworking price index in JSON and CSV under CC BY 4.0. Free with no key or account, 120 requests per minute. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
+| [CreditUnions](https://creditunions.fyi) | Directory of federally insured US credit unions from NCUA data: charter, field of membership, assets and members. Free REST API and MCP endpoint, no key. |
 | [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
