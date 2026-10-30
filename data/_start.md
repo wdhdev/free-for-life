@@ -32,3 +32,4 @@ A huge list of great stuff you can get for free!
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
 - [SSL](#ssl)
+- [Security & Fraud Prevention](#security-and-fraud-prevention)
