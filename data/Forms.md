@@ -25,6 +25,7 @@
 | [Hyperforms.app](https://hyperforms.app) | Create form to email and more in seconds and without backend code. The Personal account gives you up to 50 form submissions per month for free. |
 | [Jotform](https://jotform.com) | An easy, but feature-rich website to create forms. |
 | [Kwes.io](https://kwes.io) | Feature-rich form endpoint. Works great with static sites. Free plan includes up 1 website with up to 50 submissions per month. |
+| [Nisuform](https://nisuform.com) | Form backend for static sites and site builders. Free plan includes 3 forms, 100 submissions per month, email notifications, spam protection, full submission history and CSV export. |
 | [Pageclip](https://pageclip.co) | Free plan allows one site, anti-spam, auto-response, but allows unlimited envelopes + signatures. |
 | [Qualtrics Survey](https://qualtrics.com/free-account) | Create professional forms & survey using this first-class tool. 50+ expert-designed survey templates. Free Account has a limit of 1 active survey, 1 form, 10 elements per survey. |
 | [SimplePDF.eu](https://simplepdf.eu/embed) | Embed a PDF editor on your website and turn any PDF into a fillable form. Free plan allows unlimited PDFs with 3 submissions per PDF., Zapier, Zapier integration, Zapier integration. No libraries or dependencies required. |
