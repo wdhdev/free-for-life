@@ -3,6 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [Adapty.io](https://adapty.io) | One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue. |
+| [AllRatesToday](https://allratestoday.com) | Exchange rate API with real-time mid-market rates for 160+ currencies and official rates from 100+ central banks and tax authorities. Free API key; ECB and central-bank endpoints work with no key and require attribution. |
 | [Coin360](https://api.coin360.com) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. |
 | [CoinGecko](https://www.coingecko.com/en/api) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution. |
 | [CoinMarketCap](https://coinmarketcap.com/api) | Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month. |
