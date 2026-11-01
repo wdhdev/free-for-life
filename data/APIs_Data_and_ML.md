@@ -3,8 +3,11 @@
 | Website | Description |
 |:-:|-|
 | [Abstract API](https://www.abstractapi.com) | API suite for a variety of use cases, including IP geo-location, gender detection, or even email validation. |
+| [ADHDEvaluations](https://adhdevaluations.fyi) | Directory of ADHD evaluation providers. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
+| [AI Benchmark Index](https://aibenchmarkindex.com) | Directory of AI benchmarks with traceable data, licences and scores. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [algorithmia.com](https://algorithmia.com) | Host algorithms for free. Includes a free monthly allowance for running algorithms. Now with CLI support. |
 | [Apify](https://www.apify.com) | Web scraping and automation platform to create an API for any website and extract data. Ready-made scrapers, integrated proxies, and custom solutions. Free plan with $5 platform credits included every month. |
+| [Apostille Finder](https://apostilles.fyi) | Directory of the government offices that issue apostilles and what their official pages state. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [Arize AI](https://arize.com) | Machine learning observability for model monitoring and root-causing issues such as data quality and performance drift. Free up to two models. |
 | [Atlas Toolkit](https://atlastk.org) | Lightweight library to develop single-page web applications that are instantly accessible. Available for Java, Node.js, Perl, Python, and Ruby. |
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
@@ -34,17 +37,26 @@
 | [DeepAR](https://developer.deepar.ai) | Augmented reality face filters for any platform with one SDK. Free plan provides up to 10 monthly active users (MAU) and tracking up to 4 faces. |
 | [Deepnote](https://deepnote.com) | A new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud. Free tier includes unlimited personal projects, up to 750 hours of standard hardware, and teams with up to 3 editors. |
 | [Diggernaut](https://www.diggernaut.com) | Cloud-based web scraping and data extraction platform for turning any website into the dataset or to work with it as with an API. Free plan includes 5k page requests monthly. |
+| [Dish Directory](https://dishdirectory.com) | Directory of restaurants with their dishes, prices and hours by city. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
+| [ESA Vendors](https://esavendors.fyi) | Directory of learning vendors that education funds reimburse. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [ExtendsClass](https://extendsclass.com/csv-generator.html) | Data generator tool for generating test data in CSV, SQL, XML, and JSON formats. |
 | [FreeFlarum](https://freeflarum.com) | FreeFlarum is a free Flarum hosting service that allows users to quickly create and manage Flarum-based forums without the need for technical expertise or server management. |
+| [FuneralCompare](https://funeralcompare.fyi) | Directory of funeral homes and cremation providers with the fee information they publish. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
+| [ITINAgents](https://itinagents.fyi) | Directory of IRS ITIN acceptance agents. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
 | [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
 | [localscreenshot](https://localscreenshot.com) | Screenshot and PDF rendering API for any public page, from 227 countries. Free plan with 50 credits every month, no card required. |
+| [MarriageLicense](https://marriagelicense.fyi) | Directory of offices where you give notice of marriage or get a marriage licence, country by country. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
+| [MemoryCareHomes](https://memorycarehomes.fyi) | Directory of memory care homes, checkable against the public register. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
+| [MRIPrices](https://mriprices.fyi) | Cash-pay MRI prices at US hospitals, read from the price files hospitals must publish. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
+| [Opioid Treatment Directory](https://opioidtreatment.fyi) | Directory of methadone and buprenorphine treatment providers. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
+| [Public Adjusters Directory](https://publicadjusters.fyi) | Directory of public adjusters, for checking a licence before you hire one. Free read-only JSON API, no API key or sign-up needed. Limit of 300 requests per 60 seconds. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Requesty](https://www.requesty.ai/free-models) | OpenAI compatible LLM API gateway. The free plan gives access to the free models in the catalog with 200 requests per day and no credit card required. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
