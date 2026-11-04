@@ -11,3 +11,4 @@
 | [PY4E - Python for Everybody](https://www.py4e.com) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. |
 | [The Odin Project](https://www.theodinproject.com) | The Odin Project provides a free open source coding curriculum that can be taken entirely online. |
 | [W3Schools](https://www.w3schools.com) | Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more. |
+| [WebCheatSheet](https://webcheatsheet.com) | Free web-development tutorials and references covering HTML, CSS, JavaScript, PHP and SQL. |
