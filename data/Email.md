@@ -6,10 +6,13 @@
 | [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
+| [Aster Mail](https://astermail.org) | End-to-end encrypted email with post-quantum protection, PGP, aliases and custom domains. The free plan includes 10 GB of storage. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
 | [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
+| [Email Spam Tester](https://email-spam-tester.com) | Send one email and get SPF/DKIM/DMARC, blocklist and content checks plus the inbox or spam folder at Gmail, Yahoo and other providers. Free, no signup; 5 tests per IP per day stay free after the first 100,000 reports. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
+| [EpicMail](https://epicmail.org?utm_source=free_for_life&utm_medium=referral&utm_campaign=epicmail_multi_inbox_2026&utm_content=email_catalog) | A unified inbox for Gmail, Outlook, Yahoo, iCloud, IMAP, and POP3. Web and Android. The Adventurer plan supports up to three connected accounts and 1 GB of storage. A valid card is required before adding email accounts. The Adventurer plan remains $0 unless the user upgrades. |
 | [FakeMail](https://www.fakemail.net) | Temporary email addresses that shield your real identity. |
 | [fakermail](https://fakermail.com) | Free, temporary email for testing with the last 100 email accounts stored. |
 | [forwardemail](https://forwardemail.net) | Free email forwarding for custom domains. Create and forward an unlimited number of email addresses with your domain name. (**Note:** The TLDs `.casa`, `.cf`, `.click`, `.email`, `.fit`, `.ga`, `.gdn`, `.gq`, `.lat`, `.loan`, `.london`, `.men`, `.ml`, `.pl`, `.rest`, `.ru`, `.tk`, `.top`, and `.work` are paid due to spam). |
@@ -27,7 +30,7 @@
 | [mailsac](https://mailsac.com) | Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit). |
 | [Mail Tester](https://www.mail-tester.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct, 20 free/month. |
 | [Mailtie](https://mailtie.com) | Free Email Forwarding for Your Domain. No registration required. Free Forever. |
-| [Mailtrap](https://mailtrap.io) | Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules. |
+| [Mailtrap](https://mailtrap.io) | Email API and SMTP for sending transactional and bulk emails. Free plan includes 4,000 emails/month. |
 | [Mail Validator](https://mailvalidator.io) | Verify 300 emails/month for free, real-time API with bulk processing available. |
 | [Mail.gw](https://mail.gw) | Temporary emails valid for 10 days. Option to manually delete (kill) email addresses. |
 | [Mail.tm](https://mail.tm/en) | Unlimited temporary emails with email + password support and option to create custom aliases (alternative email addresses pointing to the same inbox). |
@@ -39,9 +42,11 @@
 | [phplist](https://phplist.com) | Hosted version allows 300 emails/month for free. |
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
+| [Stripo](https://stripo.email) | Email design platform. Free plan: 2 users, 3 projects, 10 stored emails, 4 exports/month. |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |
 | [Tempail](https://tempail.com) | Free temporary/disposable email for 1 hour per session with qr codes to regain the session. |
 | [Temp Mail](https://temp-mail.org) | Free temporary/disposable email per session. |
+| [TempMail10min](https://temp-mail10min.online) | Free disposable temporary email generator with 5, 10, 15, and 30-minute auto-destruct inboxes for fast OTP verification. |
 | [Tutanota](https://tutanota.com) | An email service that prioritizes privacy. The free plan has restrictions such as a maximum of 1gb of storage, 1 calendar per account, and only 1 email per account with a 48 hour verification period to prevent abuse. |
 | [Verimail](https://verimail.io) | Bulk and API email verification service. 100 free verifications/month. |
 | [Zoho Email](https://www.zoho.com/mail) | Free for 5 users. 5GB/user & 25 MB attachment limit, 1 domain. |

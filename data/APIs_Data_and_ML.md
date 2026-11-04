@@ -10,13 +10,18 @@
 | [AwardSpace](https://www.awardspace.com) | AwardSpace offers free web hosting with a free subdomain, PHP, MySQL, app installer, email sending, and no ads. |
 | [Beeceptor](https://beeceptor.com?utm_source=free-for-life) | Create a Mock API server in a few seconds. Free 50 requests per day for life, and no need of credit card. Beeceptor is a no-code solution to iterate API design faster and allow parallel development.|
 | [Calendarific](https://calendarific.com) | Enterprise-grade Public holiday API service for over 200 countries. Free plan includes 1000 calls per month. |
+| [Chempirical](https://chempirical.com) | Free read-only JSON API for chemical compounds: search by name, CAS, formula, SMILES or substructure, with identifiers, physical data and structure images. No API key or sign-up needed, please keep to a few requests per second. |
 | [Clarifai](https://www.clarifai.com) | Image API for custom face recognition and detection. Able to train AI models. Free plan has 5000 calls per month. |
 | [Cloudmersive](https://cloudmersive.com) | Utility API platform with full access to an expansive API Library including Document Conversion, Virus Scanning, and more with 800 calls/month. |
+| [cogDepot](https://cogdepot.com) | Marketplace where AI agents publish capabilities, negotiate and seal deals. The listing preview, any agent's reputation record and the MCP discovery tools are readable with no account and no API key, and registration is free. |
 | [Colaboratory](https://colab.research.google.com) | Free web-based Python notebook environment with Nvidia Tesla K80 GPU. |
 | [Collect2](https://collect2.com) | Create an API endpoint to test, automate, and connect webhooks. Free plan allows for two datasets, 2000 records, 1 forwarder, and 1 alert. |
 | [Conversion Tools](https://conversiontools.io) | Online File Converter for documents, images, video, audio, eBooks. REST API is available. Libraries for Node.js, PHP, Python. Support files up to 50 GB (for paid plans). Free tier is limited by file size and the number of conversions per day. |
 | [Coupler](https://www.coupler.io) | Data integration tool that syncs between apps. It can create live dashboards and reports, transform and manipulate values, collect and back up insights. The free plan has unlimited users, 100 runs with 1000 rows a month, and unlimited integrations. |
+| [Court Rules](https://www.courtrules.app) | Free U.S. court rules, judge standing orders and court holiday calendars, with an API and MCP server. |
+| [CoworkingView](https://api.coworkingview.com/v1) | REST API for 420+ coworking spaces and private offices in 60+ European and UAE cities, plus a per-city coworking price index in JSON and CSV under CC BY 4.0. Free with no key or account, 120 requests per minute. |
 | [CraftMyPDF](https://craftmypdf.com) | Auto-Generate PDF documents from reusable templates with a drop-and-drop editor and a simple API. The free plan comes with 100 PDFs/month and 3 templates. |
+| [CSV SafeCheck](https://csv-safecheck.pages.dev) | Free Shopify product CSV preflight checker with row and column findings and conservative fixes. Runs locally in the browser with no signup or file upload. |
 | [Cube](https://cube.dev) | Cube helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application. The fastest way to use Cube is with Cube Cloud, which has a free-tier with 1GB of data pass through each month. |
 | [CurlHub](https://curlhub.io) | Proxy service for inspecting and debugging API calls. Free plan includes 10,000 requests per month. |
 | [CurrencyScoop](https://currencyscoop.com) | Real-time currency data API for Fintech apps. Free plan includes 5000 calls per month. |
@@ -34,10 +39,15 @@
 | [IP.City](https://ip.city) | 100 free IP geo-location requests per day. |
 | [IPASIS](https://ipasis.com) | Real-time bot detection and fraud prevention API. Combines IP reputation, VPN/proxy/Tor detection, and email validation in a single API call. Free tier includes 1,000 requests/day with no credit card required. |
 | [JSONing](https://jsoning.com/api) | Create a mock API from a JSON file for testing and prototyping. |
+| [Live Tennis API](https://livetennisapi.com) | Live tennis scores, fixtures, and player data (including each player's current ranking) covering ATP, WTA, Challenger, and ITF. Free tier includes 30 requests/minute and 100 requests/day. |
+| [localscreenshot](https://localscreenshot.com) | Screenshot and PDF rendering API for any public page, from 227 countries. Free plan with 50 credits every month, no card required. |
+| [logoapi.sh](https://logoapi.sh) | Company logo API: SVG logo by domain, with white, black, grey and dark variants. Free for 2M requests a month per site, no key or signup. |
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
+| [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
+| [Requesty](https://www.requesty.ai/free-models) | OpenAI compatible LLM API gateway. The free plan gives access to the free models in the catalog with 200 requests per day and no credit card required. |
 | [Scraper's Proxy](https://scrapersproxy.com) | Simple HTTP proxy API made for scraping. Scrape anonymously without having to worry about restrictions, blocks, or captchas. First 100 successful scrapes per month free including JavaScript rendering (more are available if you contact support). |
 | [ScraperBox](https://scraperbox.com) | Undetectable web scraping API using real Chrome browsers and proxy rotation. Use a simple API call to scrape any web page. Free plan has 1000 requests per month. |
 | [ScrapingAnt](https://scrapingant.com) | Headless Chrome scraping API and free checked proxies service. JavaScript rendering, premium rotating proxies, CAPTCHAs avoiding. Free plans available. |
@@ -47,4 +57,6 @@
 | [SerpApi](https://serpapi.com) | Real-time search engine scraping API. Returns structured JSON results for Google, YouTube, Bing, Baidu, Walmart, and many other engines. Free plan includes 100 successful API calls per month. |
 | [Sheetson](https://sheetson.com) | Instantly turn any Google Sheets into a RESTful API. Free plan available. |
 | [Shipyard](https://www.shipyardapp.com) | Low-code data orchestration platform for the cloud. Build with a mix of low-code templates and your code (Python, Node.js, Bash, SQL). Our free developer plan offers 10 hours of runtime every month for one user, more than enough to automate multiple workflows. |
+| [Stackiox](https://stackiox.com) | Free browser-based developer tools — JSON formatter, YAML/JSON/CSV/XML converters, JWT decoder, cron generator, and more. Client-side, no signup, no tracking. |
+| [Twinbay](https://twinbay.ai) | Hosted API replicas for testing integrations and AI agents. Free plan includes 10 twin-hours per month and access to every twin in the catalog. |
 | [YAMLine](https://yamline.com/) | YAML tools for formatting, validating, comparing, and converting YAML files. |

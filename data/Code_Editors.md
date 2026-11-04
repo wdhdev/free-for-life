@@ -8,9 +8,11 @@
 | [Cursor](https://cursor.com) | Cursor is a specialized AI-powered code editor, built as a fork of Visual Studio Code. |
 | [Eclipse](https://www.eclipse.org) | A popular open-source IDE that supports multiple programming languages, with a strong focus on Java development. It offers a wide range of plugins and extensions for various development tasks. |
 | [GitHub Codespaces](https://github.com/features/codespaces) | Spin up fully configured dev environments in the cloud that start in seconds with up to 60 hours a month free. |
+| [Glim](https://github.com/NeoPanic/Glim) | Free, MIT-licensed macOS file viewer with basic UTF-8 code/text editing, automatic saving and Markdown previews. |
 | [GNU Emacs](https://www.gnu.org/software/emacs) | An extensible, customizable, free/libre text editor - and more. |
 | [Google Antigravity](https://antigravity.google) | An AI-powered, agentic development environment (ADE) designed for autonomous software creation. |
 | [Helix](https://helix-editor.com) | A post-modern terminal-based text editor. |
+| [Koddo Python Playground](https://koddo.ru/playground/python) | Free browser-based Python editor and runner with a Russian interface, no registration required. Optional AI features are paid. |
 | [Komodo Edit](https://www.activestate.com/products/komodo-edit) | A simple yet powerful code editor, for Windows, macOS and Linux. |
 | [Nano](https://www.nano-editor.org) | A terminal-based text editor. |
 | [Neovim](https://neovim.io) | Modern, open-source fork of the Vim text editor, designed to maximize extensibility, usability, and performance. |
