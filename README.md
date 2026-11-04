@@ -226,6 +226,7 @@ A huge list of great stuff you can get for free!
 | [PY4E - Python for Everybody](https://www.py4e.com) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. |
 | [The Odin Project](https://www.theodinproject.com) | The Odin Project provides a free open source coding curriculum that can be taken entirely online. |
 | [W3Schools](https://www.w3schools.com) | Offers free tutorials on web development technologies like HTML, CSS, JavaScript, and more. |
+| [WebCheatSheet](https://webcheatsheet.com) | Free web-development tutorials and references covering HTML, CSS, JavaScript, PHP and SQL. |
 
 <!-- DNS.md -->
 ## DNS
@@ -521,7 +522,6 @@ A huge list of great stuff you can get for free!
 | Website | Description |
 |:-:|-|
 | [anvil.works](https://anvil.works) | Web app development with nothing but Python. Free tier with unlimited apps. |
-| [Buddy](https://buddy.works) | Hosting for apps and websites with git repositories and CI/CD workflows. Free plan available. |
 | [BrewPage](https://brewpage.app) | Hosting for HTML, Markdown, files, multi-file static sites, JSON documents and key-value data through a web page or a REST API, no account needed. Free with no paid plan; content expires after 15 days by default (up to 30 days, or 90 with an optional free account). |
 | [Codename One](https://www.codenameone.com) | Open source, limited to $5 or 500 hours of usage monthly available for free. |
 | [configure.it](https://www.configure.it) | Mobile app development platform, 1,000 free API calls/month, 1,000 requests per day, and 100 GiB data transfer per month. |
