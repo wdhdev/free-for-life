@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [BootForm](https://bootform.com) | Form backend for static sites: point an HTML form at a URL and it works before you sign up. Free plan offers 250 submissions per month, unlimited forms, email and Discord notifications, and honeypot and Cloudflare Turnstile spam protection. |
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
 | [Form-Data](https://form-data.com) | Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
 | [Form.taxi](https://form.taxi) | Endpoint for HTML forms submissions. With notifications, email notification and a drag and drop designer that can export HTML. Additional features include custom field rules, email notification and auto-respond, email notifications, email notifications. |
@@ -9,6 +10,7 @@
 | [Formcake.com](https://formcake.com) | Form backend for devs, spam protection, support by Customer assistance team. |
 | [Formcarry.com](https://formcarry.com) | HTTP POST form endpoint. |
 | [Formester.com](https://formester.com) | Share and embed unique-looking forms on your website—no limits on the number of forms created or features restricted by the plan. Get up to 100 submissions every month for free. |
+| [Formgong](https://formgong.com) | Form backend for HTML, static and AI-built sites. Free plan includes email and Telegram notifications for every submission, webhooks and Turnstile spam protection. |
 | [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required. |
 | [FormKeep.com](https://www.formkeep.com) | Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email, and others. |
 | [formlets.com](https://formlets.com) | Online forms, Airtable, AJAX or POST, and more. Free plan offers unlimited forms and 100MB file storage. |
@@ -34,4 +36,5 @@
 | [WaiverStevie.com](https://waiverstevie.com) | Electronic Signature platform with a REST API. Receive notifications with webhooks. Free plan watermarks signed documents, 50 submissions, 100 responses/survey & 8 response types. |
 | [Web3Forms](https://web3forms.com) | Contact forms for Static & JAMStack Websites without writing backend code. Free plan allows unlimited Forms, collect payments, CSV/JSON export, customizable reply-to email address. |
 | [WebAsk](https://webask.io) | Survey and Form Builder. Free plan has 3 surveys per account, unlimited Form to Email service. Setup custom redirect, unlimited single-page forms/month, unlimited submissions, up to 3 steps per form, webhooks, webhooks, etc for free. |
+| [WishKit](https://www.wishkit.io) | In-app feature request and feedback board for iOS and web apps where users submit and vote on features. Free plan has 1 project, iOS and web SDKs, unlimited users, and shows the first 5 feature requests. |
 | [Wufoo](https://www.wufoo.com) | Quick forms to use on websites. Free plan has a limit of 100 submissions each month. |
