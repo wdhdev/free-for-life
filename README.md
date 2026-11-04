@@ -290,6 +290,7 @@ A huge list of great stuff you can get for free!
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
+| [CoverNice KDP Cover Calculator](https://covernice.com/kdp-cover-calculator) | Free KDP cover calculator and full-wrap builder: enter trim size, page count and paper stock to get spine width, full wrap size and 300 dpi pixel dimensions, then export a print-ready PDF template with bleed, safe area and barcode guides. Runs in the browser, no account needed. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Design Details](https://designdetails.io) | A free curated library of live websites with great motion, sorted by sections like hero, navigation and footer, and filterable by type and color. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
