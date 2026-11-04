@@ -3,16 +3,21 @@
 | Website | Description |
 |:-:|-|
 | [AI to UI](https://ai2ui.co) | Easily generate great looking UI components using artificial intelligence. Supports multiple frameworks including React, Next.js, and standard HTML. |
+| [APPLORE App Icon Generator](https://applore.app/app-icon-generator) | Upload one image and download every iOS, Android, macOS and web app icon size in one ZIP. Free, no account needed. |
 | [ArtboardLab](https://artboardlab.com) | Free browser-based design tools including an Adobe Illustrator `.ai` viewer and `.ai` to SVG, PNG and PDF converters, plus image compression and format conversion. Files are processed in the browser and never uploaded, and no account is needed. |
+| [BatchSet](https://batchset.com) | Bulk image converter that runs in the browser, so files are never uploaded. Converts JPG, PNG, WebP, AVIF, GIF, HEIC and TIFF to WebP, JPG or PNG, compresses to a target size in KB, resizes, crops and strips EXIF. No account for the first 1,000 conversions, unlimited with a free account. |
 | [BeginThings](https://beginthings.com) | 96+ free browser-based tools for developers and freelancers — JSON formatter, Base64 encoder, image compressor, QR code generator, regex tester, and more. No login required. |
-| [Calculora](https://calculora.net) | 259+ free calculator tools, no signup required. |
+| [Calculora](https://calculora.net) | 405 free calculators and unit converters, no signup required. |
 | [Canva](https://canva.com) | Free online design tool to create visual content. |
 | [CodeMyUI](https://codemyui.com) | Handpicked collection of Web Design & UI Inspiration with Code Snippets. |
 | [Color Hunt](https://colorhunt.co) | Discover the newest hand-picked color palettes of Color Hunt. Get color inspiration for your design and art projects. |
 | [ColorKit](https://colorkit.co) | Create color palettes online or get inspiration from top palettes. |
+| [CoverNice KDP Cover Calculator](https://covernice.com/kdp-cover-calculator) | Free KDP cover calculator and full-wrap builder: enter trim size, page count and paper stock to get spine width, full wrap size and 300 dpi pixel dimensions, then export a print-ready PDF template with bleed, safe area and barcode guides. Runs in the browser, no account needed. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
+| [Design Details](https://designdetails.io) | A free curated library of live websites with great motion, sorted by sections like hero, navigation and footer, and filterable by type and color. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
+| [Emote Resizer](https://emoteresize.com) | Free browser-based emote resizer for Twitch, Discord, 7TV, Slack, and custom sizes, with batch ZIP downloads and animated GIF support. Files are processed locally without an account. |
 | [Excalidraw](https://excalidraw.com) | An open-source online whiteboard with a hand-drawn style. Including an infinite canvas, end-to-end encrypted collaboration, and multiple methods of exporting including shareable links. |
 | [Free Image Merger](https://freeimagemerger.com) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
@@ -20,8 +25,10 @@
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
 | [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
+| [kdpbook.io KDP Cover Size Calculator](https://kdpbook.io/kdp/cover-size-calculator) | Free full-wrap KDP cover size calculator for any trim, paper and page count, paperback or hardcover, with a downloadable SVG cover template (bleed, spine, safe area and barcode guides) that opens at true size in Illustrator, Affinity, Inkscape or Canva. No account needed. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
+| [noattributionicons](https://noattributionicons.com) | 3,700+ flat color icons in 216 themed packs. SVG and PNG, free for commercial use, no attribution, no sign-up. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
