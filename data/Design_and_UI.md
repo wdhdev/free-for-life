@@ -33,5 +33,8 @@
 | [noattributionicons](https://noattributionicons.com) | 3,700+ flat color icons in 216 themed packs. SVG and PNG, free for commercial use, no attribution, no sign-up. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
+| [TryCalculatingNow](https://trycalculatingnow.com) | Free GPA, final-grade, percentage, loan/EMI and income-tax calculators that run in the browser, with no signup. |
+| [TryDevSnip](https://trydevsnip.com) | Free browser-based developer tools (JSON formatter, cron helper, timestamp converter, JWT decoder, hash generator) with no signup; input is processed in the browser. |
+| [TryQuickImg](https://tryquickimg.com) | Free browser-based image tools (HEIC to JPG, compress to a KB target, resize, crop, passport and exam photo sizes) with no signup; images are processed on your device, not uploaded. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
