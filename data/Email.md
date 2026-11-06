@@ -19,6 +19,7 @@
 | [Gmail](https://gmail.com) | Free personal email and calendar. |
 | [ImprovMX](https://improvmx.com) | Free email forwarding. |
 | [inboxkitten](https://inboxkitten.com) | Free temporary/disposable email inbox, with up to 3-day email auto-deletes. Open sourced, and can be self-hosted. |
+| [InboxSetup](https://inboxsetup.org) | Free SPF, DKIM and DMARC checker for your domain with a plain-English fix list, record generators and a bounce-error decoder. No signup. |
 | [Mail7](https://www.mail7.io) | Free temporary email address for QA Developers. Create email addresses instantly using Web Interface or API. |
 | [Mailazy](https://mailazy.com) | Mailazy is the only simple transactional email service you'll need. 10500 emails/month free forever (350 emails/day sending limit). |
 | [Mailchimp](https://mailchimp.com) | 2,000 subscribers and 12,000 emails/month free. |
