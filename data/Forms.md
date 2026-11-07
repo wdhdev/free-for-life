@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [anon.li Form](https://anon.li/form) | Open-source, end-to-end encrypted forms: answers are encrypted in the respondent's browser with the form's public key, so only the form owner can read them. Free plan: 3 forms, 50 submissions a month. |
 | [BootForm](https://bootform.com) | Form backend for static sites: point an HTML form at a URL and it works before you sign up. Free plan offers 250 submissions per month, unlimited forms, email and Discord notifications, and honeypot and Cloudflare Turnstile spam protection. |
 | [FabForm](https://fabform.io) | Form backend platform for smart developers. Free plan allows 250 form submissions per month. Friendly modern GUI. Integrates with Google Sheets, 50 responses per month. |
 | [Form-Data](https://form-data.com) | Free forms backend, 20 submissions/month, and additional 2000 submissions with Form-Data badge. |
