@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [LogBrew](https://logbrew.co) | Error tracking, logs, traces and metrics with OpenTelemetry ingest and an MCP server for coding agents. The free plan includes 100,000 errors and 50 GB of logs a month with 30-day retention. |
 | [Muscula](https://muscula.com) | Application monitoring platform for developers to debug production issues using AI agents with natural language. |
 | [RealUptime](https://realuptime.io) | Uptime, heartbeat and SSL monitoring from multiple regions. The free plan includes 10 monitors with 60-second checks and 1 status page. |
 | [Simple Observability](https://simpleobservability.com) | Powerful server monitoring in a unified platform for metrics and logs, with no setup complexity. |
