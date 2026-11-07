@@ -4,6 +4,7 @@
 |:-:|-|
 | [10minutemail](https://10minutemail.com) | Free, temporary email for testing. |
 | [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html) | Free temporary and disposable email generator. Keep your user data private and your inbox free of spam. |
+| [anon.li Alias](https://anon.li/alias) | Open-source email aliases that forward to your real inbox, with replies through the alias, custom domains, optional PGP forwarding and tracker removal. Free plan: 10 aliases. |
 | [AnonAddy](https://anonaddy.com) | Open-source anonymous email forwarding, create unlimited email aliases for free. |
 | [Antideo](https://www.antideo.com) | 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No credit cards required. |
 | [Aster Mail](https://astermail.org) | End-to-end encrypted email with post-quantum protection, PGP, aliases and custom domains. The free plan includes 10 GB of storage. |
