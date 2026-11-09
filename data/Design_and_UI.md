@@ -17,6 +17,7 @@
 | [CoverNice KDP Cover Calculator](https://covernice.com/kdp-cover-calculator) | Free KDP cover calculator and full-wrap builder: enter trim size, page count and paper stock to get spine width, full wrap size and 300 dpi pixel dimensions, then export a print-ready PDF template with bleed, safe area and barcode guides. Runs in the browser, no account needed. |
 | [CSS Gradient Generator](https://www.css-gradient.com) | Free tool to easily generate custom cross-browser CSS gradients. In RGB and HEX format. |
 | [Design Details](https://designdetails.io) | A free curated library of live websites with great motion, sorted by sections like hero, navigation and footer, and filterable by type and color. |
+| [DESIGN:OS Studio](https://jangtrinh.github.io/design-os-studio) | FREE desktop design studio for macOS, Windows and Linux. Opens and saves .fig files, and your own AI agent (Claude Code, Codex, Gemini CLI) can edit them through 39 MCP tools. Source-available (PolyForm Shield), no account needed. |
 | [Dribbble](https://dribbble.com) | A designer community for showcasing work and gaining inspiration. |
 | [Eggradients](https://www.eggradients.com) | Ready to use collection of gradients which can be used in UI designs and elements |
 | [Emote Resizer](https://emoteresize.com) | Free browser-based emote resizer for Twitch, Discord, 7TV, Slack, and custom sizes, with batch ZIP downloads and animated GIF support. Files are processed locally without an account. |
