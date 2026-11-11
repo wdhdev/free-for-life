@@ -41,6 +41,7 @@
 | [pepipost](https://pepipost.com) | 30k emails free for the first month, then the first 100 emails/day are free. |
 | [phplist](https://phplist.com) | Hosted version allows 300 emails/month for free. |
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
+| [SendRaven](https://sendraven.ai) | Email API and MCP server for AI agents: send, receive replies as threads, run campaigns and automations. 3,000 emails/month and 1 sending domain free forever. A card is required before sending. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
 | [Stripo](https://stripo.email) | Email design platform. Free plan: 2 users, 3 projects, 10 stored emails, 4 exports/month. |
 | [Takeout](https://takeout.bysourfruit.com) | A constantly updated email service that makes sending emails extremely easy. 500 transactional emails/month free. |

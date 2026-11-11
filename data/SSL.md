@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [Domainee](https://domainee.dev) | Custom domains API for SaaS: connect your customers' domains with automatic SSL, DNS checks and webhooks. 20 custom domains and 100 GB bandwidth/month free forever. |
 | [FreeSSL](https://www.freessl.org) | FreeSSL.org provides free SSL certificates for single domains, with a simple and quick verification process. |
 | [Google Trust Services](https://cloud.google.com/certificate-manager/docs/public-ca-tutorial) | Helping build a safer Internet by providing a transparent, trusted, and reliable Certificate Authority. |
 | [InfinityFree](https://dash.infinityfree.com/sslCertificates) | InfinityFree not only provides free hosting but also offers free SSL certificates with fast installation for your InfinityFree account. |
