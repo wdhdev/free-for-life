@@ -18,6 +18,7 @@
 | [Neovim](https://neovim.io) | Modern, open-source fork of the Vim text editor, designed to maximize extensibility, usability, and performance. |
 | [Notepad++](https://notepad-plus-plus.org) | A free and open-source text and source code editor for use with Microsoft Windows. |
 | [OnlineGDB](https://www.onlinegdb.com) | Online compiler and debugger for C/C++ and other languages. |
+| [Out Plane](https://outplane.com) | Cloud sandboxes for coding agents. Hangars are cloud machines where agents like Claude Code, Codex and Cursor run, free with no credit card required. The agent uses your own plan or API key. |
 | [Project IDX](https://idx.dev) | An online code editor made by Google for developers which incorporates AI. |
 | [Pulsar](https://pulsar-edit.dev) | Free, open-source, community-driven text editor, forked from GitHub's discontinued Atom editor. |
 | [Sublime Text](https://www.sublimetext.com) | A shareware text and source code editor available for Windows, macOS, and Linux. |
