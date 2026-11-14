@@ -13,6 +13,7 @@
 | [Formgong](https://formgong.com) | Form backend for HTML, static and AI-built sites. Free plan includes email and Telegram notifications for every submission, webhooks and Turnstile spam protection. |
 | [formingo.co](https://www.formingo.co) | Easy HTML forms for static websites, free plan allows 500 submissions per month, no server code required. |
 | [FormKeep.com](https://www.formkeep.com) | Unlimited forms with 50 submissions per month, custom redirect, custom response page, custom thank you page, Email, and others. |
+| [Formkove](https://formkove.com) | Form backend for static and Jamstack sites that holds spam back before delivery, tags and routes submissions to Slack, Discord, Google Sheets, Zapier, or webhooks, and includes per-client workspaces and a hosted MCP server. Free plan includes 300 submissions per month, 10 forms, spam protection, and email notifications. |
 | [formlets.com](https://formlets.com) | Online forms, Airtable, AJAX or POST, and more. Free plan offers unlimited forms and 100MB file storage. |
 | [formpost.app](https://formpost.app) | Free endpoint for HTML forms |
 | [formspark.io](https://formspark.io) | Form to Email service, file upload, forever free plan allows 50 submissions per month, form logic. Free plan allows 100 submissions per month. |
