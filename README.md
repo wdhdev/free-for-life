@@ -82,6 +82,7 @@ A huge list of great stuff you can get for free!
 | [Mockae](https://mockae.com) | Fake REST API powered by Lua. |
 | [Noms](https://noms.sh) | Nutrition data API for 3.7M foods and 298K brands across 230 countries, with barcode lookup and up to 177 nutrients per food. Free tier: 250 requests/day, no credit card. |
 | [OntarioNet CN Test](https://cntest.ontarionet.ca) | Check if a website is blocked in China by the Great Firewall. It identifies DNS pollution by comparing DNS results and ASN information detected by servers in China versus servers in the United States. |
+| [openradar](https://openradar.fun) | Open feed of job vacancies and freelance orders from boards, RSS, Telegram and ATS career pages. Fully free: REST API without a key (guests see leads with a 12 h delay), per-query RSS, delta sync, webhooks and an MCP server; research data under CC BY 4.0. |
 | [PDFBolt](https://pdfbolt.com) | Transform templates, HTML, or URLs into professional PDFs with our AI‑powered API. Free plan includes 100 documents/month. |
 | [Pythonium](https://pythonium.net/mockapy) | Create a mock API using a Python rule engine. |
 | [Requesty](https://www.requesty.ai/free-models) | OpenAI compatible LLM API gateway. The free plan gives access to the free models in the catalog with 200 requests per day and no credit card required. |
