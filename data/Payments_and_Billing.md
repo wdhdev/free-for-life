@@ -3,6 +3,7 @@
 | Website | Description |
 |:-:|-|
 | [Adapty.io](https://adapty.io) | One-stop solution with open-source SDK for mobile in-app subscriptions integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue. |
+| [BillDog](https://billdog.io) | One SDK for paywalls, App Store, Google Play and Stripe subscriptions, product analytics, A/B tests, and push and in-app messaging on one customer record. SDKs for iOS, Android, React Native, Expo, Flutter and web. Free under $3,000 in monthly tracked revenue. |
 | [Coin360](https://api.coin360.com) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. |
 | [CoinGecko](https://www.coingecko.com/en/api) | Provides cryptocurrency market data including latest crypto exchange rates and historical data. Free tier requires attribution. |
 | [CoinMarketCap](https://coinmarketcap.com/api) | Provides cryptocurrency market data including latest crypto and fiat currency exchange rates. Free tier offers 10K call credits/month. |
