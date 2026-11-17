@@ -25,6 +25,7 @@
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Iconito Free Food](https://iconi.to/free-food-icons) | Colour food icons in one flat style, simplified so they still read at 24 px. Free under the MIT license as SVG, Figma components or an Iconify set. |
 | [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
 | [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
 | [kdpbook.io KDP Cover Size Calculator](https://kdpbook.io/kdp/cover-size-calculator) | Free full-wrap KDP cover size calculator for any trim, paper and page count, paperback or hardcover, with a downloadable SVG cover template (bleed, spine, safe area and barcode guides) that opens at true size in Illustrator, Affinity, Inkscape or Canva. No account needed. |
