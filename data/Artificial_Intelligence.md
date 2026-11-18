@@ -12,6 +12,7 @@
 | [Lumo](https://lumo.proton.me) | Lumo is a privacy respecting AI chatbot made by Proton. |
 | [Microsoft Copilot](https://copilot.microsoft.com) | You can ask complex questions, find comprehensive answers, get summarized information, find inspiration to build upon all in a side-by-side view, with no need to flip between tabs. |
 | [Mistral](https://mistral.ai) | Mistral AI offers open-source and commercial AI models including Mistral Large 2 and Mistral Small 3.1. Features multilingual support, code generation, and can run on consumer hardware. |
+| [Movoa](https://movoa.ai) | Unlimited AI video generator with sound: sign in with a free account for unlimited MiniMax H3 480p clips with sound, and try your first clip with no sign-up. |
 | [Perplexity.ai](https://perplexity.ai) | OpenAI GPT-model powered AI chatbot that's connected to the web. Find articles or ask for current info. |
 | [Phind](https://phind.com) | AI chatbot built for developers in a chat-like form. |
 | [Poe](https://poe.com) | Poe is chat-based AI. Uses GPT-3.5. |
