@@ -8,3 +8,4 @@
 | [SolidPing](https://www.solidping.io) | Uptime and synthetic monitoring with status pages and alerts. Free forever plan: 100 monitors, 5 team members, 1 private agent. |
 | [UptimeRobot](https://uptimerobot.com) | Start monitoring in 30 seconds. Use advanced SSL, keyword and cron monitoring. Get notified by email, SMS, Slack and more. Get 50 monitors for FREE! |
 | [Vacato](https://vacato.io) | Free RDAP domain availability watchlist (10 domains free). Scheduled checks with Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. |
+| [ZoneBI](https://zonebi.com/en?src=freeforlife-en-01) | Monitoring for domain expiry, DNS, SSL certificates, uptime, SPF/DKIM/DMARC and blocklists. The free plan includes 3 domains, 290+ checks and 1 automated phone call per month, with no time limit. |
