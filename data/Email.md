@@ -9,6 +9,7 @@
 | [Aster Mail](https://astermail.org) | End-to-end encrypted email with post-quantum protection, PGP, aliases and custom domains. The free plan includes 10 GB of storage. |
 | [Bump](https://bump.email) | Free 10 Bump email addresses, 1 custom domain. |
 | [DKIM Validator](https://dkimvalidator.com) | Test if a domain's DNS/SPF/DKIM/DMARC settings are correct. |
+| [DMARCmetric](https://dmarcmetric.com?utm_source=free-for-life) | DMARC report monitoring for 1 domain: 10,000 messages/month, 30-day history, email alerts and digests, no credit card. Its 11 DNS and email-authentication tools (DMARC, SPF, DKIM, BIMI, MX) work without an account. |
 | [DuckDuckGo Email Protection](https://duckduckgo.com/email) | DuckDuckGo Email Protection is a free email forwarding service that removes multiple types of hidden email trackers and lets you create unlimited unique private email addresses on the fly. |
 | [Email Spam Tester](https://email-spam-tester.com) | Send one email and get SPF/DKIM/DMARC, blocklist and content checks plus the inbox or spam folder at Gmail, Yahoo and other providers. Free, no signup; 5 tests per IP per day stay free after the first 100,000 reports. |
 | [EmailJS](https://www.emailjs.com) | This is not a full email server, this is just an email client which you can use to send emails right from the client without exposing your credentials. The free tier has: 200 monthly requests, 2 email templates, requests up to 50KB, limited contacts history. |
