@@ -7,6 +7,7 @@
 | [Codeium](https://www.codeium.com) | Codeium is a free AI-powered code completion tool. It supports over 20+ programming languages (Python, JavaScript, Java, TypeScript, PHP, C/C++, Go, etc.) and integrates with all major standalone and web IDEs. |
 | [CodeWhisperer](https://aws.amazon.com/codewhisperer) | CodeWhisperer is a code-suggestion tool built by Amazon. It comes equipped with a feature that enables it to conduct security scans on your code. |
 | [Frink](https://frink.dev) | Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps. |
+| [Kliv](https://kliv.dev) | AI web app builder: describe an app in chat and get a working, hosted web app with a database, sign-in, payments and email built in. The free plan includes the whole platform and hosting, with limited builder usage. |
 | [Lovable](https://lovable.dev) | AI-powered app builder that creates apps and websites by chatting with AI. Features natural language prompts, visual editing, live preview, Supabase integration, and built-in publishing capabilities. |
 | [Tabnine](https://www.tabnine.com) | Tabnine helps developers create better software, faster by providing insights learned from all the code in the world. |
 | [ZZZ Code AI](https://zzzcode.ai) | Welcome to ZZZ Code AI, our coding website powered by AI! |
