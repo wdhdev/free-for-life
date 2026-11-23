@@ -24,6 +24,7 @@
 | [Free Image Merger](https://freeimagemerger.com) | Browser-based image merger for side-by-side, stacked, grid, and freestyle layouts without uploading files. |
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
+| [Free Background Remover](https://free-background-remover.web-free.site) | Remove image backgrounds with an AI model that runs in the browser, then download a transparent PNG. Images are not uploaded and no account is needed. |
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
 | [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
 | [ItsPaint](https://itspaintmac.com) | Free, open-source native macOS paint and screenshot markup app. Crop, annotate, add numbered step badges, pixelate, and export to 8 formats. |
