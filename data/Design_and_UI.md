@@ -32,6 +32,7 @@
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [noattributionicons](https://noattributionicons.com) | 3,700+ flat color icons in 216 themed packs. SVG and PNG, free for commercial use, no attribution, no sign-up. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
+| [StyleSVG SVG Optimizer](https://stylesvg.com/svg-optimizer) | Free browser-based SVG optimizer that strips editor metadata, compares the original and optimized artwork, and exports a smaller SVG. Files are processed locally with no account required. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
