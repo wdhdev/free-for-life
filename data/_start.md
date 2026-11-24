@@ -3,12 +3,15 @@
 PLEASE READ THE CONTRIBUTING GUIDELINES ON HOW TO ADD/REMOVE ITEMS ON THIS LIST!
 -->
 
+
 # 💸 Free For Life
 A huge list of great stuff you can get for free!
+
 
 ⭐ [Star on GitHub](https://github.com/wdhdev/free-for-life)
 &bull;
 🤝 [Contribute](https://free.hrsn.dev/#/contributing)
+
 
 # Table of Contents
 - [APIs, Data & ML](#apis-data-and-ml)
@@ -32,3 +35,5 @@ A huge list of great stuff you can get for free!
 - [PaaS](#paas)
 - [Payments & Billing](#payments-and-billing)
 - [SSL](#ssl)
+
+- [Weather](#weather)
