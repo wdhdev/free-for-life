@@ -33,5 +33,6 @@
 | [noattributionicons](https://noattributionicons.com) | 3,700+ flat color icons in 216 themed packs. SVG and PNG, free for commercial use, no attribution, no sign-up. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
 | [Tailwind Elements](https://tailwind-elements.com) | Free Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities. |
+| [ToolsDock Image Format Converter](https://toolsdock.online/en/tools/image-format-converter) | Free browser-based converter for JPEG, PNG and WebP that preserves pixel dimensions. Files are processed locally, and no account is required. |
 | [UI Gradients](https://uigradients.com) | A collection of beautiful gradients that can be used for UI backgrounds, buttons, and other design elements. |
 | [unDraw Open source illustrations](https://undraw.co) | unDraw is a set of Open-source illustrations for any idea you can imagine and create. Files included PNG, SVG. Attribution Not Required. |
