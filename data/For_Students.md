@@ -2,6 +2,7 @@
 
 | Website | Description |
 |:-:|-|
+| [Aethel](https://aethel.pro/practice) | Aethel offers free AI interview practice for developers with no account: four questions written for your role and level, with a quick check on each answer. |
 | [AWS Educate](https://aws.amazon.com/education/awseducate) | AWS Educate provides students and educators with no-cost access to cloud computing skills training developed by AWS experts, plus career pathways for students. |
 | [Figma](https://www.figma.com/education/students) | Figma offers an Education plan that provides free access to tools for students to prepare for their careers. It also offers a supportive community to assist you in your journey. |
 | [GitHub Education Pack](https://education.github.com/pack) | GitHub Global Campus offers resources and opportunities for students, teachers, and schools to access tools and events related to software development. It aims to shape the future generation of developers. |
