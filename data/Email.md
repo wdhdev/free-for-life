@@ -40,6 +40,7 @@
 | [Parsio](https://parsio.io) | Free email parser (Forward email, extract the data, send it to your server). |
 | [pepipost](https://pepipost.com) | 30k emails free for the first month, then the first 100 emails/day are free. |
 | [phplist](https://phplist.com) | Hosted version allows 300 emails/month for free. |
+| [Postmaster of Puppets](https://postmasterofpuppets.com) | Check a domain's MX, SPF, DKIM and DMARC records and see whether anyone can send email as the domain, with the records that fix it. Free, no signup. |
 | [Proton Mail](https://proton.me/mail) | An email service that prioritizes privacy. It has restrictions such as a maximum of three labels/folders, only one email allowed per account, and a limit of 150 messages per day. |
 | [SimpleLogin](https://simplelogin.io) | Open-source, self-hostable email alias/forwarding solution. Free 5 Aliases, unlimited bandwidth, unlimited reply/send. Free for educational staff (students, researchers, etc.). |
 | [Stripo](https://stripo.email) | Email design platform. Free plan: 2 users, 3 projects, 10 stored emails, 4 exports/month. |
