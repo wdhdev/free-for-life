@@ -11,6 +11,7 @@
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
+| [prod.page](https://get.prod.page) | Free `yourname.prod.page` subdomain with a blitz.cloud account (no card). HTTPS for it and everything under it, one sub-address per app, up to 10 DNS records (A, AAAA, CNAME, TXT, MX). Hosting for websites, Docker containers and apps is included, on servers in Germany. | ✅ |
 | [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
 | [stackryze](https://domain.stackryze.com) | Free subdomains for `indevs.in` & `sryze.cc`. | ✅ `indevs.in` |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
